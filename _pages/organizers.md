@@ -9,19 +9,52 @@ permalink: /organizers
 
 {% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
 
+<section>
+    <div class="card mb-3" style="max-width: 540px;">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img src="/assets/img/gb.png" class="card-img" alt="...">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Giulia Belgiovine</h5>
+            <p class="card-text">Giulia Belgiovine is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive  behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section>
+    <div class="card mb-3" style="max-width: 540px;">
+      <div class="row no-gutters">
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Linda Lastrico</h5>
+            <p class="card-text">Giulia Belgiovine is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive  behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img src="/assets/img/gb.png" class="card-img" alt="...">
+        </div>
+      </div>
+    </div>
+</section>
 
 <section>
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/giulia.belgiovine@iit.it/profile-image" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/gb.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
         <div class="p-5">
           <h3 class="display-4 text-center te">Giulia Belgiovine</h3>
-          Giulia Belgiovine is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience. 
+          Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association. 
         </div>
       </div>
     </div>
@@ -33,7 +66,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://www.womentech.eu/sites/default/files/styles/protagonisti/public/schermata_2021-07-06_alle_08.47.48.png?itok=smNRXMTA" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/ll.png" alt="">
         </div>
       </div>
       <div class="col-md-10">
@@ -51,7 +84,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://usr-lab.github.io/assets/images/people//ana.jpg" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/at.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
@@ -69,7 +102,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/giulia.pusceddu@iit.it/profile-image" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/gp.png" alt="">
         </div>
       </div>
       <div class="col-md-10">
@@ -87,7 +120,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/francesca.cocchella@iit.it/profile-image" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/fc.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
@@ -105,7 +138,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="https://dariopasquali.github.io/assets/me2.jpg" alt="">
+          <img class="img-fluid rounded-circle" src="/assets/img/dp.png" alt="">
         </div>
       </div>
       <div class="col-md-10">

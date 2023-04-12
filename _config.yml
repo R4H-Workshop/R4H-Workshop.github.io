@@ -112,8 +112,8 @@ navbar:
     url   : /organizers
   - title : Accepted Papers
     url   : /accepted-papers
-  - title : Current skin
-    url   : /current-skin
+  #- title : Current skin
+  #  url   : /current-skin
   #- title   : Extras
   #  child   :
   #    - title : Tags
@@ -143,7 +143,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   #highlight     :  # default["default"]
-  skin         :  "twitter"
+  skin         :  "gitdev"
   #autothemer    :  true # Bool: Use autotheming
   #vars          :    
   #  primary     : lightskyblue #default ["#007bff"] - Bootstrap blue

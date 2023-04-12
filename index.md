@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Chulapa on remote
-header_type: hero
-subtitle: Starter pack
+title: GROUND
+header_type: splash
+header_img: /assets/img/site/nano.jpg
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).

@@ -5,6 +5,7 @@ permalink: /current-skin
 date: 2015-03-03
 last_modified_at: 2018-02-07
 header_type: splash
+header_img: /assets/img/site/nano.jpg
 tags: [skin, bootstrap, current-theme, header-hero, image]
 categories: [skins]
 show_date         : true

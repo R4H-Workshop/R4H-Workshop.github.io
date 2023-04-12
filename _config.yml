@@ -104,14 +104,14 @@ navbar:
     title   :  GROUND # Title in navbar
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Call for Papers
-    url     : /call
-  - title   : Workshop Program
-    url     : /program
-  - title   : Organizers
-    url     : /organizers
-  - title   : Accepted Papers
-    url     : /accepted_papers
+  - title : Call for Papers
+    url   : /call
+  - title : Workshop Program
+    url   : /program
+  - title : Organizers
+    url   : /organizers
+  - title : Accepted Papers
+    url   : /accepted-papers
   - title : Current skin
     url   : /current-skin
   #- title   : Extras

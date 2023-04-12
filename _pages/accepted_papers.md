@@ -2,7 +2,7 @@
 layout: indexcategory
 title: "Accepted Papers"
 include_collection: accepted
-show_breadcrumb: true
+permalink: /accepted-papers
 ---
 
 Nothing to show...yet.

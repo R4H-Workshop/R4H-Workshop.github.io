@@ -3,7 +3,8 @@ layout: landingpage
 title: Call for Papers
 subtitle: 
 header_type: image
-header_img: /assets/img/dancing_banner.gif
+header_img: /assets/img/nano.jpg
+permalink: /call
 ---
 
 We encourage the submission of original contributions, presenting innovative strategies for exploring group-robot interactions, with approaches focused on - but not limited to – gamification; providing a fresh and insightful viewpoint on using social robots for understanding group dynamics, and designing social agents able to interact with groups. The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.

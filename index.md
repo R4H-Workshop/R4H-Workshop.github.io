@@ -8,10 +8,6 @@ project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop
       icon: fa-solid fa-paper-plane # fab fa-github fa-lg
       label: Submit Paper!
-show_sociallinks  : true
-show_tags         : true
-show_categories   : true
-show_bottomnavs   : true
 ---
 
 As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that **their behavior considers the complex social dynamics** present in these scenarios. However, studying **group dynamics in HRI** entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of **individual group members** while also considering **the group as a whole**, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on **gamification**. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 

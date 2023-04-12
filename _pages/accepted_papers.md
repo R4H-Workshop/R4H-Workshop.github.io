@@ -8,3 +8,4 @@ header_img: /assets/img/dancing_banner.gif
 ---
 
 Nothing to show...yet.
+Just some placeholders to test

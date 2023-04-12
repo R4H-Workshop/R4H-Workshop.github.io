@@ -127,12 +127,18 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+    - url: https://twitter.com/RBCS_CONTACT
+      icon: "fab fa-twitter"
+      label: "Twitter"
+    - url: https://www.instagram.com/contact__unit/
+      icon: "fab fa-instagram"
+      label: "Instagram"
+    - url: https://www.youtube.com/@contactresearchline1007
+      icon: "fab fa-youtube"
+      label: "Youtube"
+    - url: mailto:workshop.ground@gmail.com
+      icon: far fa-envelope
+      label: "Email"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -157,9 +163,9 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
 collections:
-  cheatsheet:
+  accepted:
     output: true
-    permalink: /cheatsheets/:name
+    permalink: /accepted-papers/:name
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 

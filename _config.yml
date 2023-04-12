@@ -112,8 +112,8 @@ navbar:
     url   : /organizers
   - title : Accepted Papers
     url   : /accepted-papers
-  #- title : Current skin
-  #  url   : /current-skin
+  - title : Current skin
+    url   : /current-skin
   #- title   : Extras
   #  child   :
   #    - title : Tags

@@ -2,7 +2,7 @@
 layout: default
 title: GROUND
 header_type: splash
-header_img: /assets/img/site/nano.jpg
+header_img: /assets/img/nano.jpg
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 ---
 

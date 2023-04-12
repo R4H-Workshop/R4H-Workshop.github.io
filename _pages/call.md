@@ -1,7 +1,7 @@
 ---
 layout: landingpage
 title: Call for Papers
-subtitle: With image header
+subtitle: 
 header_type: image
 header_img: /assets/img/dancing_banner.gif
 ---

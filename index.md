@@ -1,7 +1,6 @@
 ---
 layout: landingpage
 title: GROUND
-permalink: /home
 header_type: splash
 header_img: /assets/img/robots.mp4 #/assets/img/cute_robot.png 
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior

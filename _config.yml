@@ -102,16 +102,15 @@ navbar:
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  GROUND # Title in navbar
-    url     :  "/home"
     img     :  # An small image, try 30x30px
   nav:
   - title   : Call for Papers
     url     : /call
   - title   : Workshop Program
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
+    url     : /program
   - title   : Organizers
-    url     : https://github.com/dieghernan/chulapa-101/generate
-  - title   : Accepted Papers # Label
+    url     : /organizers
+  - title   : Accepted Papers
     url     : /accepted_papers
   #- title   : Extras
   #  child   :

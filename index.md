@@ -1,8 +1,9 @@
 ---
-layout: minimal #landingpage
+layout: landingpage
 title: GROUND
+permalink: /home
 header_type: splash
-header_img: /assets/img/cute_robot.png #/assets/img/robots.mp4
+header_img: /assets/img/robots.mp4 #/assets/img/cute_robot.png 
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop

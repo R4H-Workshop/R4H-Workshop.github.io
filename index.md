@@ -1,52 +1,47 @@
 ---
-layout: landingpage
+layout: minimal #landingpage
 title: GROUND
 header_type: splash
-header_img: /assets/img/cute_robot.png
+header_img: /assets/img/robots.mp4 #/assets/img/cute_robot.png
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop
       icon: fa-solid fa-paper-plane # fab fa-github fa-lg
-      label: Paper Submission
+      label: Submit Paper!
+show_sociallinks  : true
+show_tags         : true
+show_categories   : true
+show_bottomnavs   : true
 ---
 
-<div class="text-center">
-  <div class="btn-group btn-group-sm" role="group" aria-label="Latest release">
-    <button type="button" class="btn btn-info font-weight-bold" disabled>Latest release</button>
-  <a href="https://github.com/dieghernan/chulapa/releases" class="btn btn-outline-info font-weight-bold">v1.0.1</a>
-</div>
-<div class="text-center my-4">
-  <a class="btn btn-info  btn-lg my-3 text-white" href="./docs" role="button">Read the docs</a>
-</div>
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="
-background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/github.svg)">
- <p><i class="fas fa-rocket fa-3x"></i></p>
- <h2 class="font-weight-light py-3">Easy to install</h2>
- <p class="lead font-weight-light py-2">Create a fully responsive website hosted on Github in minutes - for free!</p>
-</div>
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img" style="background-repeat: repeat;
-background-size: auto;
-background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/banner.svg)">
- <p><i class="fas fa-code fa-3x"></i></p>
- <h2 class="font-weight-light  py-3">First-class features</h2>
- <p class="lead font-weight-light py-2">Fontawesome, comments, internal search, MathJax, Twitter Cards and Open Graph, three different navbars, video support and much more...</p>
-</div>
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/bolt.svg)">
- <p><i class="fa-brands fa-searchengin fa-3x"></i></p>
- <h2 class="font-weight-light py-3">PageSpeed Ready</h2>
- <p class="lead font-weight-light py-2"><span class="font-weight-bold" >PageSpeed score +90</span> in SEO Performance, Accesibility and Best Practices</p>
-</div>
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="
-background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/palette.svg)">
- <p><i class="fas fa-cogs fa-3x"></i></p>
- <h2 class="font-weight-light py-3">One theme, a thousand looks</h2>
- <p class="lead font-weight-light py-2">Bootstrap 4 inside! Use Bootstrap theming, any of our 14+ skins or the Chulapa autothemer</p>
-</div>
-<div class="text-center my-4 py-5 px-3 bg-primary rounded-lg chulapa-overlay-img"  style="background-image: url(https://dieghernan.github.io/chulapa/assets/img/iconbanner/th.svg)">
- <p><i class="fas fa-puzzle-piece fa-3x"></i></p>
- <h2 class="font-weight-light py-3">Layouts for everything</h2>
- <p class="lead font-weight-light py-2">Blogs, portfolios, projects, archives, image galleries... Use our collection of built-in layouts with lots of additional components</p>
-</div>
-</div>
- <!-- Authenthicate: If you use this page remove it!!! -->
-<a href="mailto:diego.hernangomezherrero@gmail.com" rel="me" class="d-none" >diego.hernangomezherrero@gmail.com</a>
+As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that **their behavior considers the complex social dynamics** present in these scenarios. However, studying **group dynamics in HRI** entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of **individual group members** while also considering **the group as a whole**, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on **gamification**. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
+
+Participants are invited to share **innovative strategies for exploring group-robot interactions**, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint on using social robots for understanding group dynamics; and designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
+
+---
+
+Topics of interests include but are not limited to:
+* **Understanding group dynamics through the use of social robots.** 
+* **Designing social robots able to interact with groups.** 
+* **Gamification in multiparty human-robot interactions.** 
+* **Promoting natural communication, mutual understanding and trust in human-robot mixed groups.** 
+* **Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.** 
+* **Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.** 
+* **Novel experimental designs for conducting group-robot interaction research.** 
+* **Ethical considerations in researching group dynamics and potential biases or negative consequences.** 
+* **Adaptation and personalization to groups.** 
+* **Learning strategies for autonomous behaviors of robots in groups.** 
+* **Modelling, understanding and predicting group behaviors.** 
+
+---
+
+## Important Dates:
+* Submission Deadline: **????**
+* Notification of Acceptance: **????**
+* Camera Ready: **????**
+
+---
+
+## Statement of Inclusion, Diversity and Equity 
+
+The workshop organizers are committed to creating an inclusive, diverse, and equitable environment for all attendees. We recognize and value the diversity of our attendees and understand that people have different needs and preferences. To accommodate the different time zones of attendees, the workshop will be held in a hybrid format and will be recorded for later viewing. To ensure that all attendees have reliable access to the internet, we will provide technical support and troubleshooting assistance as needed. We encourage attendees from underrepresented groups to submit their work and participate in the workshop. We are committed to creating an equitable and diverse environment, and we are open to suggestions on how to improve the workshop in terms of inclusion and accessibility. 

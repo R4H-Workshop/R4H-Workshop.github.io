@@ -1,9 +1,9 @@
 ---
 layout: indexcategory
-title: "Cheatsheets"
-include_collection: cheatsheet
-permalink: /cheatsheets
+title: "Accepted Papers"
+include_collection: accepted
+permalink: /accepted_papers
 show_breadcrumb: true
 ---
 
-If it is first time using `markdown` and `jekyll`, you may find this pages useful.
+Nothing to show...yet.

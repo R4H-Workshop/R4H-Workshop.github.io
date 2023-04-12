@@ -102,33 +102,27 @@ navbar:
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  GROUND # Title in navbar
-    url     :  
+    url     :  "/home"
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
+  - title   : Call for Papers
+    url     : /call
+  #- title   : Extras
+  #  child   :
+  #    - title : Tags
+  #      url   : /tags
+  #    - title : Categories
+  #      url   : /categories
+  #    - title : Archive
+  #      url   : /archive
+  #    - title : Current skin
+  #      url   : /current-skin
+  - title   : Workshop Program
     url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
+  - title   : Organizers
     url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
+  - title   : Accepted Papers # Label
+    url     : /accepted_papers
 #Social links to be placed on your site footer
 footer:
   links:

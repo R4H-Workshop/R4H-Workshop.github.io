@@ -1,9 +1,8 @@
 ---
-layout: landingpage
 title: Call for Papers
 subtitle: 
-header_type: image
-header_img: /assets/img/nano.jpg
+header_type: hero
+header_img: /assets/img/dancing_banner.gif
 permalink: /call
 ---
 

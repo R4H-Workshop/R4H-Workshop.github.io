@@ -2,7 +2,7 @@
 layout: landingpage
 title: GROUND
 header_type: splash
-header_img: /assets/img/robots.mp4 #/assets/img/cute_robot.png 
+header_img: /assets/img/robots.gif #/assets/img/cute_robot.png 
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop
@@ -17,27 +17,27 @@ Participants are invited to share **innovative strategies for exploring group-ro
 ---
 
 Topics of interests include but are not limited to:
-* **Understanding group dynamics through the use of social robots.** 
-* **Designing social robots able to interact with groups.** 
-* **Gamification in multiparty human-robot interactions.** 
-* **Promoting natural communication, mutual understanding and trust in human-robot mixed groups.** 
-* **Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.** 
-* **Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.** 
-* **Novel experimental designs for conducting group-robot interaction research.** 
-* **Ethical considerations in researching group dynamics and potential biases or negative consequences.** 
-* **Adaptation and personalization to groups.** 
-* **Learning strategies for autonomous behaviors of robots in groups.** 
-* **Modelling, understanding and predicting group behaviors.** 
+* Understanding group dynamics through the use of social robots.
+* Designing social robots able to interact with groups.
+* Gamification in multiparty human-robot interactions.
+* Promoting natural communication, mutual understanding and trust in human-robot mixed groups.
+* Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.
+* Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.
+* Novel experimental designs for conducting group-robot interaction research.
+* Ethical considerations in researching group dynamics and potential biases or negative consequences.
+* Adaptation and personalization to groups.
+* Learning strategies for autonomous behaviors of robots in groups.
+* Modelling, understanding and predicting group behaviors.
 
 ---
 
-## Important Dates:
+### Important Dates:
 * Submission Deadline: **????**
 * Notification of Acceptance: **????**
 * Camera Ready: **????**
 
 ---
 
-## Statement of Inclusion, Diversity and Equity 
+### Statement of Inclusion, Diversity and Equity 
 
 The workshop organizers are committed to creating an inclusive, diverse, and equitable environment for all attendees. We recognize and value the diversity of our attendees and understand that people have different needs and preferences. To accommodate the different time zones of attendees, the workshop will be held in a hybrid format and will be recorded for later viewing. To ensure that all attendees have reliable access to the internet, we will provide technical support and troubleshooting assistance as needed. We encourage attendees from underrepresented groups to submit their work and participate in the workshop. We are committed to creating an equitable and diverse environment, and we are open to suggestions on how to improve the workshop in terms of inclusion and accessibility. 

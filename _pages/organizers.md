@@ -13,15 +13,15 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 order-md-2">
+      <div class="col-md-10 order-md-2">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/giulia.belgiovine@iit.it/profile-image" alt="">
         </div>
       </div>
-      <div class="col-md-6 order-md-1">
+      <div class="col-md-10 order-md-1">
         <div class="p-5">
           <h3 class="display-4 text-center te">Giulia Belgiovine</h3>
-          Bio TODO
+          Giulia Belgiovine is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience. 
         </div>
       </div>
     </div>
@@ -31,15 +31,15 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://www.womentech.eu/sites/default/files/styles/protagonisti/public/schermata_2021-07-06_alle_08.47.48.png?itok=smNRXMTA" alt="">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <h3 class="display-4 text-center te">Linda Lastrico</h3>
-          Bio TODO
+          Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association.
         </div>
       </div>
     </div>
@@ -49,15 +49,15 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 order-md-2">
+      <div class="col-md-10 order-md-2">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://usr-lab.github.io/assets/images/people//ana.jpg" alt="">
         </div>
       </div>
-      <div class="col-md-6 order-md-1">
+      <div class="col-md-10 order-md-1">
         <div class="p-5">
           <h3 class="display-4 text-center te">Ana Tanevska</h3>
-          Bio TODO
+          Dr. Ana Tanevska (they/them) is a postdoctoral researcher at the Social Robotics Lab in Uppsala University, within the Horizon Europe project SymAware. Their research is grounded in the topic of trustworthy human-robot interaction (HRI), with a particular focus on human-in-the-loop learning, and shared autonomy and agency in HRI. In addition to trustworthy HRI, Ana’s research interests include cognitive robotics (with a spotlight on the role of affect in cognition), and socially-assistive HRI. 
         </div>
       </div>
     </div>
@@ -67,15 +67,15 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/giulia.pusceddu@iit.it/profile-image" alt="">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <h3 class="display-4 text-center te">Giulia Pusceddu</h3>
-          Bio TODO
+          Giulia (she/her) is a passionate Ph.D. student in Cognitive Robotics, Interaction, and Rehabilitation Technologies. Her research aims to investigate and improve the interaction between humanoid robots and groups of people. She believes that teaching robots how to deal with groups would be crucial to insert robotic devices into everyday life and could reveal fascinating insights into human group dynamics. Since 2020 she has been a Global Shaper in the Genoa Hub, of which she became Vice-Curator in July 2022. In 2017 she co-founded Ianua Studenti e Alumni, a student organization she was president of from 2020 to 2021.
         </div>
       </div>
     </div>
@@ -85,15 +85,15 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 order-md-2">
+      <div class="col-md-10 order-md-2">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://scientilla.iit.it/api/v1/users/username/francesca.cocchella@iit.it/profile-image" alt="">
         </div>
       </div>
-      <div class="col-md-6 order-md-1">
+      <div class="col-md-10 order-md-1">
         <div class="p-5">
           <h3 class="display-4 text-center te">Francesca Cocchella</h3>
-          Bio TODO
+          Francesca (she/her) is a Social Psychologist Ph.D. Student at the Italian Institute of Technology (IIT) in the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit in the Cognitive Robotics, Interaction and Rehabilitation Technologies. Her main research interests include the social cognition of humanoid robots, the study of trust in robots, and group interactions. Since 2021 she has collaborated with the Laboratory of Social and Language Psychology as a research trainee at the University of Genoa, in which she researches about cognitive anthropomorphism of humanoid robots. 
         </div>
       </div>
     </div>
@@ -103,36 +103,17 @@ permalink: /organizers
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <img class="img-fluid rounded-circle" src="https://dariopasquali.github.io/assets/me2.jpg" alt="">
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-10">
         <div class="p-5">
           <h3 class="display-4 text-center te">Dario Pasquali</h3>
-          Bio TODO
+          Dr. Dario Pasquali (he/his) is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies unit of the Italian Institute of Technologies. His research is grounded on modelling humans’ behaviour, decisions and cognitive efforts in human-robot collaboration starting from physiological measures (e.g., pupillometry, electrodermal activity). Dario consistently applies a gamification-by-design research method, developing game-based HRI experiments to foster better experiences for the participants and more realistic behavioural data.
         </div>
       </div>
     </div>
   </div>
 </section>
-
-<div class="container-lg my-1">
-  <div class="row">
-    <div class="col-lg-8 offset-lg-2 col" markdown="1">
-```yaml
----
-layout: minimal
-title: Organizers
-subtitle: 
-header_type: hero
-header_img: /assets/img/dancing_banner.gif
-permalink: /organizers
----
-```
-
-  </div>
-</div>
-
-{%- include components/navbeforeafter.html -%}

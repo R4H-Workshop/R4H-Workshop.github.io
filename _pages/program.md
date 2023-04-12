@@ -1,5 +1,4 @@
 ---
-layout: landingpage
 title: Workshop Program
 subtitle: 
 header_type: hero

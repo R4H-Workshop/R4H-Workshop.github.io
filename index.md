@@ -1,5 +1,4 @@
 ---
-layout: landingpage
 title: GROUND
 header_type: splash
 header_img: /assets/img/robots.gif #/assets/img/cute_robot.png 

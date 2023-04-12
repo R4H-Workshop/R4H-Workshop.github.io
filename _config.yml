@@ -107,6 +107,12 @@ navbar:
   nav:
   - title   : Call for Papers
     url     : /call
+  - title   : Workshop Program
+    url     : https://dieghernan.github.io/chulapa/docs/01-install
+  - title   : Organizers
+    url     : https://github.com/dieghernan/chulapa-101/generate
+  - title   : Accepted Papers # Label
+    url     : /accepted_papers
   #- title   : Extras
   #  child   :
   #    - title : Tags
@@ -117,12 +123,6 @@ navbar:
   #      url   : /archive
   #    - title : Current skin
   #      url   : /current-skin
-  - title   : Workshop Program
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Organizers
-    url     : https://github.com/dieghernan/chulapa-101/generate
-  - title   : Accepted Papers # Label
-    url     : /accepted_papers
 #Social links to be placed on your site footer
 footer:
   links:

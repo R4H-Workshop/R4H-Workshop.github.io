@@ -111,3 +111,22 @@ permalink: /organizers
       </div>
     </div>
 </section>
+
+## Acknowledgements
+
+<section>
+    <div class="card mb-3">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img src="https://whisperproject.eu/templates/yootheme/cache/b5/logo_Whisper_new-b5830a20.webp" class="card-img" alt="...">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">wHiSPER</h5>
+            <p class="card-text">This workshop is supported by a Starting Grant from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme. G.A. No 804388, [wHiSPER](https://whisperproject.eu/)  </p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>

@@ -3,17 +3,17 @@ layout: minimal
 title: Organizers
 subtitle: 
 header_type: hero
-header_img: /assets/img/dancing_banner.gif
+header_img: assets/img/dancing_banner.gif
 permalink: /organizers
 ---
 
 {% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
 
 <section>
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <img src="/assets/img/gb.png" class="card-img" alt="...">
+          <img src="assets/img/gb.png" class="card-img" alt="...">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -27,7 +27,7 @@ permalink: /organizers
 </section>
 
 <section>
-    <div class="card mb-3" style="max-width: 540px;">
+    <div class="card mb-3">
       <div class="row no-gutters">
         <div class="col-md-8">
           <div class="card-body">
@@ -37,7 +37,7 @@ permalink: /organizers
           </div>
         </div>
         <div class="col-md-4">
-          <img src="/assets/img/gb.png" class="card-img" alt="...">
+          <img src="assets/img/gb.png" class="card-img" alt="...">
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/gb.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/gb.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
@@ -66,7 +66,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/ll.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/ll.png" alt="">
         </div>
       </div>
       <div class="col-md-10">
@@ -84,7 +84,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/at.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/at.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
@@ -102,7 +102,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/gp.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/gp.png" alt="">
         </div>
       </div>
       <div class="col-md-10">
@@ -120,7 +120,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10 order-md-2">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/fc.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/fc.png" alt="">
         </div>
       </div>
       <div class="col-md-10 order-md-1">
@@ -138,7 +138,7 @@ permalink: /organizers
     <div class="row align-items-center">
       <div class="col-md-10">
         <div class="p-5">
-          <img class="img-fluid rounded-circle" src="/assets/img/dp.png" alt="">
+          <img class="img-fluid rounded-circle" src="assets/img/dp.png" alt="">
         </div>
       </div>
       <div class="col-md-10">

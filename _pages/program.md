@@ -1,6 +1,6 @@
 ---
 title: Workshop Program
-subtitle: 
+subtitle: TBD
 header_type: hero
 header_img: /assets/img/moon_banner.gif
 permalink: /program
@@ -25,11 +25,11 @@ The GROUND workshop will take place, as an hybrid event, at the **[IEEE RO-MAN](
 
  ---
 
- ## Keynote Speakers
+## Keynote Speakers
 
 **TBD**
 
 
- ## Lightning Speakers
+## Lightning Speakers
 
 **TBD**

@@ -1,7 +1,7 @@
 ---
 title: GROUND
 header_type: splash
-header_img: /assets/img/robots.gif #/assets/img/cute_robot.png 
+header_img: /assets/img/robots_credits.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop

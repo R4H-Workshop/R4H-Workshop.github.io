@@ -31,9 +31,9 @@ Topics of interests include but are not limited to:
 ---
 
 ### Important Dates:
-* Submission Deadline: **????**
-* Notification of Acceptance: **????**
-* Camera Ready: **????**
+* Submission Deadline: **TBD**
+* Notification of Acceptance: **TBD**
+* Camera Ready: **TBD**
 
 ---
 

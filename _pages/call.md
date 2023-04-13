@@ -2,7 +2,7 @@
 title: Call for Papers
 subtitle: 
 header_type: hero
-header_img: /assets/img/moon_banner.gif
+header_img: /assets/img/robots_sketchy.gif
 permalink: /call
 ---
 

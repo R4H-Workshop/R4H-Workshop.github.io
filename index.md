@@ -1,7 +1,7 @@
 ---
 title: GROUND
 header_type: splash
-header_img: /assets/img/robots_credits.gif
+header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: https://github.com/GROUND-Workshop/ground-workshop
@@ -40,3 +40,7 @@ Topics of interests include but are not limited to:
 ### Statement of Inclusion, Diversity and Equity 
 
 The workshop organizers are committed to creating an inclusive, diverse, and equitable environment for all attendees. We recognize and value the diversity of our attendees and understand that people have different needs and preferences. To accommodate the different time zones of attendees, the workshop will be held in a hybrid format and will be recorded for later viewing. To ensure that all attendees have reliable access to the internet, we will provide technical support and troubleshooting assistance as needed. We encourage attendees from underrepresented groups to submit their work and participate in the workshop. We are committed to creating an equitable and diverse environment, and we are open to suggestions on how to improve the workshop in terms of inclusion and accessibility. 
+
+---
+
+<p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. https://www.artstation.com/artwork/B1PAAk</small></p>

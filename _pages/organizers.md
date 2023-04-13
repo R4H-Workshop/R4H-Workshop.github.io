@@ -3,7 +3,7 @@ layout: minimal
 title: Organizers
 subtitle: 
 header_type: hero
-header_img: assets/img/dancing_banner_2.gif
+header_img: assets/img/robot_puzlet.gif
 permalink: /organizers
 ---
 
@@ -11,14 +11,14 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-2">
-          <img src="assets/img/gb.png" class="card-img" alt="...">
+          <img src="assets/img/gb.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Giulia Belgiovine</h5>
-            <p class="card-text">Giulia Belgiovine is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive  behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience.</p>
+            <p class="card-text">Giulia Belgiovine (she/her) is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technologies, Genoa, Italy. Her research aims at investigating how to develop cognitive architectures for social robots to promote better human-robot interactions (HRI) and foster robots’ autonomous learning and adaptive  behavior, with a particular focus on multiparty interactions. Her research interests also include artificial intelligence, trustworthy and assistive social robotics. She is also actively involved in outreach and educational events to bring robotics and AI topics closer to a young and broad audience.</p>
             <!--<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
           </div>
         </div>
@@ -28,7 +28,7 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Linda Lastrico</h5>
@@ -37,7 +37,7 @@ permalink: /organizers
           </div>
         </div>
         <div class="col-md-2">
-          <img src="assets/img/ll.png" class="card-img" alt="...">
+          <img src="assets/img/ll.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
       </div>
     </div>
@@ -45,9 +45,9 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-2">
-          <img src="assets/img/at.png" class="card-img" alt="...">
+          <img src="assets/img/at.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
@@ -62,7 +62,7 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Giulia Pusceddu</h5>
@@ -71,7 +71,7 @@ permalink: /organizers
           </div>
         </div>
         <div class="col-md-2">
-          <img src="assets/img/gp.png" class="card-img" alt="...">
+          <img src="assets/img/gp.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
       </div>
     </div>
@@ -79,9 +79,9 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-2">
-          <img src="assets/img/fc.png" class="card-img" alt="...">
+          <img src="assets/img/fc.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
@@ -97,7 +97,7 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Dario Pasquali</h5>
@@ -106,7 +106,7 @@ permalink: /organizers
           </div>
         </div>
         <div class="col-md-2">
-          <img src="assets/img/dp.png" class="card-img" alt="...">
+          <img src="assets/img/dp.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
       </div>
     </div>
@@ -116,9 +116,9 @@ permalink: /organizers
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters">
+      <div class="row no-gutters align-items-center">
         <div class="col-md-2">
-          <img src="assets/img/whisper.png" class="card-img" alt="...">
+          <img src="assets/img/whisper.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">

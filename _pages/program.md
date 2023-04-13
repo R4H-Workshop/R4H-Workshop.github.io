@@ -2,7 +2,7 @@
 title: Workshop Program
 subtitle: 
 header_type: hero
-header_img: /assets/img/moon.gif
+header_img: /assets/img/moon_banner.gif
 permalink: /program
 ---
 

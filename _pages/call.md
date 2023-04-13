@@ -6,6 +6,10 @@ header_img: /assets/img/banner_sketch.png
 permalink: /call
 ---
 
+<p class="card-text"><small class="text-muted">Banner designed by Stevenson Blake. "Scribbly Robot Frands". May, 2021. <a>https://dribbble.com/shots/15734685-Scribbly-Robot-Frands</a></small></p>
+
+---
+
 We encourage the submission of original contributions, presenting innovative strategies for exploring group-robot interactions, with approaches focused on - but not limited to – gamification; providing a fresh and insightful viewpoint on using social robots for understanding group dynamics, and designing social agents able to interact with groups. The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.
 
 In particular, authors can submit:

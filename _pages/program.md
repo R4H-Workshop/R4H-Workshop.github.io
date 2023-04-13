@@ -6,6 +6,10 @@ header_img: /assets/img/moon_banner.gif
 permalink: /program
 ---
 
+<p class="card-text"><small class="text-muted">Banner designed by Chahin Mohamed. "Lo-Fi Cyberpunk animated". August, 2021. <a>https://dribbble.com/shots/18947748-Lo-Fi-Cyberpunk-animated</a></small></p>
+
+---
+
 The GROUND workshop will take place, as an hybrid event, at the **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**. The workshop will last half a day. More detailed information will be provided as soon as prossible.
 
 

@@ -4,6 +4,7 @@ subtitle: TBD
 header_type: hero
 header_img: /assets/img/moon_banner.gif
 permalink: /program
+full-width: true
 ---
 
 <p class="card-text"><small class="text-muted">Banner designed by Chahin Mohamed. "Lo-Fi Cyberpunk animated". August, 2021. <a>https://dribbble.com/shots/18947748-Lo-Fi-Cyberpunk-animated</a></small></p>
@@ -35,12 +36,12 @@ permalink: /program
 ## Keynote Speakers
 
 <section>
-    <div class="card border-0">
+    <div class="card mb-3 border-0">
       <div class="row align-items-center">
         <div class="col-md-2">
           <img src="assets/img/giovanna.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Giovanna Varni</h5>
             <p class="card-text"><small class="text-muted">Associate Professor @ University of Trento</small></p>
@@ -53,9 +54,9 @@ permalink: /program
 </section>
 
 <section>
-    <div class="card border-0">
+    <div class="card mb-3 border-0">
       <div class="row align-items-center">
-        <div class="col-md-6">
+        <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Danilo Gallo</h5>
             <p class="card-text"><small class="text-muted">Team Lead & UX Research Scientist @ NAVER LABS Europe</small></p>
@@ -74,12 +75,12 @@ permalink: /program
 ## Lightning Speakers
 
 <section>
-    <div class="card border-0">
+    <div class="card mb-3 border-0">
       <div class="row align-items-center">
         <div class="col-md-2">
           <img src="assets/img/pablo.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Pablo Barros</h5>
             <p class="card-text"><small class="text-muted">Senior Machine Learning Scientist @ Sony</small></p>
@@ -92,9 +93,9 @@ permalink: /program
 </section>
 
 <section>
-    <div class="card border-0">
+    <div class="card mb-3 border-0">
       <div class="row align-items-center">
-        <div class="col-md-6">
+        <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Filipa Correia</h5>
             <p class="card-text"><small class="text-muted">Assistant Researcher @ University of Lisbon</small></p>

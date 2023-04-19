@@ -7,7 +7,7 @@ project_links:
     - url: /call
       icon: fa-solid fa-paper-plane # fab fa-github fa-lg
       label: Submit Paper!
-classes: wide
+full-width: true
 ---
 
 <p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>

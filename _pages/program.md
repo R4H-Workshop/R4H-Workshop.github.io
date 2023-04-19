@@ -10,15 +10,11 @@ permalink: /program
 
 ---
 
-<p style="text-align: justify;">
-
 **Date**: August the 28th
 **Location**:  **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**
 **Attend Online**: [**Zoom link** (TDB)]()
 
 ## Tentative Program
-
-<div align="center">
 
 | **Activity**                           | **Duration** |
 |----------------------------------------|--------------|
@@ -31,8 +27,6 @@ permalink: /program
 | Second paper presentation session + QA | 30 min       |
 | Lightning talk + group discussion      | 30 min       |
 | Final remarks and conclusions          | 15 min       |
-
-</div>
 
  ---
 

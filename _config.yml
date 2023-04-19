@@ -18,7 +18,7 @@ words_per_minute        :     #default[200]
 timezone                : "Europe/Rome"    #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # SEO
-og_image                : /assets/img/robots_fix.png
+og_image                : assets/img/robots_fix.png
 twitter_site            : RBCS_CONTACT
 author:
   name                  :  CONTACT - COgNiTive Architectures for Collaborative Technologies

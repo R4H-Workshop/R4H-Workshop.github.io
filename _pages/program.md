@@ -4,6 +4,11 @@ subtitle: ""
 header_type: hero
 header_img: assets/img/moon_banner.gif
 permalink: /program
+
+og_title: GROUND - Workshop Program
+og_description: advancing GROup UNderstanding and robots' aDaptive behavior
+og_type: website
+og_image: assets/img/robots_fix.png
 ---
 
 **Date**: **August the 28th**

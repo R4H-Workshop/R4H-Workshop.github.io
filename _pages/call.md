@@ -4,6 +4,11 @@ subtitle: ""
 header_type: hero
 header_img: /assets/img/banner_sketch.png
 permalink: /call
+
+og_title: GROUND - CFP
+og_description: advancing GROup UNderstanding and robots' aDaptive behavior
+og_type: website
+og_image: assets/img/robots_fix.png
 ---
 
 <p style="text-align: justify;">

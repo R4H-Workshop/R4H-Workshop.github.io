@@ -30,49 +30,6 @@ permalink: /program
 | Lightning talk + group discussion      | 30 min       |
 | Final remarks and conclusions          | 15 min       |
 
-<table class="center">
-    <tr>
-        <td>**Activity**</td>
-        <td>**Duration**</td>
-    </tr>
-    <tr>
-        <td>Opening/ice-breaking session</td>
-        <td>10 min</td>
-    </tr>
-    <tr>
-        <td>Keynote 1 + QA</td>
-        <td>40 min</td>
-    </tr>
-    <tr>
-        <td>First paper presentation session + QA</td>
-        <td>30 min</td>
-    </tr>
-    <tr>
-        <td>Lightning talk + group discussion</td>
-        <td>30 min</td>
-    </tr>
-    <tr>
-        <td>Coffee break</td>
-        <td>15 min</td>
-    </tr>
-    <tr>
-        <td>Keynote 2 + QA</td>
-        <td>40 min</td>
-    </tr>
-    <tr>
-        <td>Second paper presentation session + QA</td>
-        <td>30 min</td>
-    </tr>
-    <tr>
-        <td>Lightning talk + group discussion</td>
-        <td>30 min</td>
-    </tr>
-    <tr>
-        <td>Final remarks and conclusions</td>
-        <td>15 min</td>
-    </tr>
-</table>
-
  ---
 
 ## Keynote Speakers

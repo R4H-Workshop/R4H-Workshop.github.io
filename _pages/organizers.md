@@ -1,6 +1,6 @@
 ---
 title: Organizers
-subtitle: 
+subtitle: ""
 header_type: hero
 header_img: assets/img/robot_puzlet.gif
 permalink: /organizers

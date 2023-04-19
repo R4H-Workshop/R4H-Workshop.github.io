@@ -6,8 +6,6 @@ header_img: assets/img/robot_puzlet.gif
 permalink: /organizers
 ---
 
-<!--{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}-->
-
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">

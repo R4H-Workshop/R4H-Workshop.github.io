@@ -1,8 +1,8 @@
 ---
-title: GROUND - advancing GROup UNderstanding and robots' aDaptive behavior
+title: GROUND
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: August the 28th 2023, **Hybrid** 
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 project_links:
     - url: /call
       icon: fa-solid fa-paper-plane # fab fa-github fa-lg
@@ -14,9 +14,9 @@ project_links:
 ---
 
 <p style="text-align: justify;">
-As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that **their behavior considers the complex social dynamics** present in these scenarios. However, studying **group dynamics in HRI** entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of **individual group members** while also considering **the group as a whole**, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on **gamification**. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
+As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that <b>their behavior considers the complex social dynamics</b> present in these scenarios. However, studying <b>group dynamics in HRI</b> entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of <b>individual group members</b> while also considering <b>the group as a whole</b>, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on <b>gamification</b>. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
 
-Participants are invited to share **innovative strategies for exploring group-robot interactions**, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
+Participants are invited to share <b>innovative strategies for exploring group-robot interactions</b>, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
 
 ---
 

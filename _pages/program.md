@@ -10,10 +10,15 @@ permalink: /program
 
 ---
 
-The GROUND workshop will take place, as an hybrid event, at the **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**. The workshop will last half a day. More detailed information will be provided as soon as prossible.
+<p style="text-align: justify;">
 
+**Date**: August the 28th
+**Location**:  **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**
+**Attend Online**: [**Zoom link** (TDB)]()
 
 ## Tentative Program
+
+<div align="center">
 
 | **Activity**                           | **Duration** |
 |----------------------------------------|--------------|
@@ -27,6 +32,8 @@ The GROUND workshop will take place, as an hybrid event, at the **[IEEE RO-MAN](
 | Lightning talk + group discussion      | 30 min       |
 | Final remarks and conclusions          | 15 min       |
 
+</div>
+
  ---
 
 ## Keynote Speakers
@@ -37,3 +44,5 @@ The GROUND workshop will take place, as an hybrid event, at the **[IEEE RO-MAN](
 ## Lightning Speakers
 
 **TBD**
+
+</p>

@@ -10,11 +10,10 @@ permalink: /call
 
 ---
 
+<p style="text-align: justify;">
 We encourage the submission of original contributions, presenting innovative strategies for exploring group-robot interactions, with approaches focused on - but not limited to – gamification; providing a fresh and insightful viewpoint on using social robots for understanding group dynamics, and designing social agents able to interact with groups. The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.
 
-In particular, authors can submit:
-* **Regular papers** (max. 6 pages including references);
-* **Extended Abstracts** (2-4 pages + references);
+**Submission format**: (2-4 pages + references)
 
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.
@@ -30,14 +29,14 @@ Topics of interests include but are not limited to:
 * Modelling, understanding and predicting group behaviors.
 
 ## Important Dates
-* Submission Deadline: **TBD**
-* Notification of Acceptance: **TBD**
-* Camera Ready: **TBD**
+* Submission Deadline: **15th June**
+* Notification of Acceptance: **15th July**
+* Camera Ready: **5th August**
 
 ## Submission Procedure
 
-Please submit your contribution on **[TBD]()**, using the predefined **[LateX]() or [Word]() templates**.
+Please submit your contribution on **[TBD]()**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.
 
 The submitted contribution must be written in **english** and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an **oral presentation** of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
-
+</p>
 

@@ -4,6 +4,7 @@ subtitle: ""
 header_type: hero
 header_img: assets/img/moon_banner.gif
 permalink: /program
+layout: default
 ---
 
 <section class="light">

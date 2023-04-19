@@ -19,6 +19,8 @@ timezone                : "Europe/Rome"    #"Europe/Madrid ,see https://jekyllrb
 
 # SEO
 og_image                : assets/img/robots_fix.png
+og_title                : GROUND
+og_description          : advancing GROup UNderstanding and robots' aDaptive behavior
 twitter_site            : RBCS_CONTACT
 author:
   name                  :  CONTACT - COgNiTive Architectures for Collaborative Technologies

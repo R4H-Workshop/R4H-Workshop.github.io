@@ -109,6 +109,8 @@ navbar:
   - title : Call for Papers
     url   : /call
   - title : Workshop Program
+    url   : /schedule
+    - title : Workshop Program OLD
     url   : /program
   - title : Organizers
     url   : /organizers

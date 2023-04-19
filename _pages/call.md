@@ -1,6 +1,6 @@
 ---
 title: Call for Papers
-subtitle: 
+subtitle: ""
 header_type: hero
 header_img: /assets/img/banner_sketch.png
 permalink: /call

@@ -34,9 +34,77 @@ permalink: /program
 
 ## Keynote Speakers
 
-**TBD**
+<section>
+    <div class="card mb-3">
+      <div class="row no-gutters align-items-center">
+        <div class="col-md-2">
+          <img src="assets/img/giovanna.gif" class="card-img img-fluid rounded-circle" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">Giovanna Varni</h5>
+            <p class="card-text"><small class="text-muted">Associate Professor @ University of Trento</small></p>
+            <p class="card-text"><b>Title</b>: TBD</p>
+            <p class="card-text"><b>Abstract</b>: TBD</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section>
+    <div class="card mb-3">
+      <div class="row no-gutters align-items-center">
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">Danilo Gallo</h5>
+            <p class="card-text"><small class="text-muted">Team Lead & UX Research Scientist @ NAVER LABS Europe</small></p>
+            <p class="card-text"><b>Title</b>: TBD</p>
+            <p class="card-text"><b>Abstract</b>: TBD</p>
+          </div>
+        </div>
+        <div class="col-md-2">
+          <img src="assets/img/danilo.png" class="card-img img-fluid rounded-circle" alt="...">
+        </div>
+      </div>
+    </div>
+</section>
 
 
 ## Lightning Speakers
 
-**TBD**
+<section>
+    <div class="card mb-3">
+      <div class="row no-gutters align-items-center">
+        <div class="col-md-2">
+          <img src="assets/img/pablo.png" class="card-img img-fluid rounded-circle" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">Pablo Barros</h5>
+            <p class="card-text"><small class="text-muted">Senior Machine Learning Scientist @ Sony</small></p>
+            <p class="card-text"><b>Title</b>: TBD</p>
+            <p class="card-text"><b>Abstract</b>: TBD</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section>
+    <div class="card mb-3">
+      <div class="row no-gutters align-items-center">
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">Filipa Correia</h5>
+            <p class="card-text"><small class="text-muted">Assistant Researcher @ University of Lisbon</small></p>
+            <p class="card-text"><b>Title</b>: TBD</p>
+            <p class="card-text"><b>Abstract</b>: TBD</p>
+          </div>
+        </div>
+        <div class="col-md-2">
+          <img src="assets/img/filipa.png" class="card-img img-fluid rounded-circle" alt="...">
+        </div>
+      </div>
+    </div>
+</section>

@@ -16,6 +16,10 @@ We encourage the submission of original contributions, presenting innovative str
 
 **Submission format**: (2-4 pages + references)
 
+**Submit to**: [EasyChair]()
+
+**Templates**: [LateX](http://ras.papercept.net/conferences/support/tex.php) / [Word](http://ras.papercept.net/conferences/support/word.php)
+
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.
 * Designing social robots able to interact with groups.
@@ -39,6 +43,6 @@ Topics of interests include but are not limited to:
 Please submit your contribution on **[EasyChair]()**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.
 
 <p style="text-align: justify;">
-The submitted contribution must be written in <b>english</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an <b>oral presentation</b> of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
+The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an <b>oral presentation</b> of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
 </p>
 

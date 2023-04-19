@@ -36,9 +36,9 @@ permalink: /program
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters align-items-center">
+      <div class="row align-items-center">
         <div class="col-md-2">
-          <img src="assets/img/giovanna.gif" class="card-img img-fluid rounded-circle" alt="...">
+          <img src="assets/img/giovanna.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
@@ -54,7 +54,7 @@ permalink: /program
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters align-items-center">
+      <div class="row align-items-center">
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Danilo Gallo</h5>
@@ -75,7 +75,7 @@ permalink: /program
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters align-items-center">
+      <div class="row align-items-center">
         <div class="col-md-2">
           <img src="assets/img/pablo.png" class="card-img img-fluid rounded-circle" alt="...">
         </div>
@@ -93,7 +93,7 @@ permalink: /program
 
 <section>
     <div class="card mb-3">
-      <div class="row no-gutters align-items-center">
+      <div class="row align-items-center">
         <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">Filipa Correia</h5>

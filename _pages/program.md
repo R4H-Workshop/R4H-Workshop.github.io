@@ -34,7 +34,7 @@ permalink: /program
 
 ## Keynote Speakers
 
-<section class="light">
+<!--<section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -63,11 +63,11 @@ permalink: /program
 			</div>
 		</article>
     </div>
-</section>
+</section>-->
 
 ## Lightning Speakers
 
-<section class="light">
+<!--<section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -96,9 +96,6 @@ permalink: /program
 			</div>
 		</article>
     </div>
-</section>
-
-----
-
+</section>-->
 
 

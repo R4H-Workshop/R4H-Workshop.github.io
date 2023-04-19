@@ -18,6 +18,18 @@ permalink: /program
 
 ## Tentative Program
 
+| **Activity**                           | **Duration** |
+|----------------------------------------|--------------|
+| Opening/ice-breaking session           | 10 min       |
+| Keynote 1 + QA                         | 40 min       |
+| First paper presentation session + QA  | 30 min       |
+| Lightning talk + group discussion      | 30 min       |
+| Coffee break                           | 15 min       |
+| Keynote 2 + QA                         | 40 min       |
+| Second paper presentation session + QA | 30 min       |
+| Lightning talk + group discussion      | 30 min       |
+| Final remarks and conclusions          | 15 min       |
+
  ---
 
 ## Keynote Speakers

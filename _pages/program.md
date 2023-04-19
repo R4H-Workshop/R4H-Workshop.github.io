@@ -87,7 +87,7 @@ permalink: /program
 				<img class="postcard__img" src="assets/img/filipa.png" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue"><a href="#">>Filipa Correia</a></h1>
+				<h1 class="postcard__title blue"><a href="#">Filipa Correia</a></h1>
 				<div class="postcard__subtitle small">
 					Assistant Researcher @ University of Lisbon
 				</div>

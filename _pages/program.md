@@ -11,7 +11,9 @@ permalink: /program
 ---
 
 **Date**: August the 28th
+
 **Location**:  **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**
+
 **Attend Online**: [**Zoom link** (TDB)]()
 
 ## Tentative Program
@@ -38,5 +40,3 @@ permalink: /program
 ## Lightning Speakers
 
 **TBD**
-
-</p>

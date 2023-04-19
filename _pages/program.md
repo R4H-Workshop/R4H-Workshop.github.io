@@ -4,7 +4,6 @@ subtitle: TBD
 header_type: hero
 header_img: /assets/img/moon_banner.gif
 permalink: /program
-layout: defaultwide
 ---
 
 <p class="card-text"><small class="text-muted">Banner designed by Chahin Mohamed. "Lo-Fi Cyberpunk animated". August, 2021. <a>https://dribbble.com/shots/18947748-Lo-Fi-Cyberpunk-animated</a></small></p>

@@ -16,9 +16,9 @@ We encourage the submission of original contributions, presenting innovative str
 
 **Submission format**: (2-4 pages + references)
 
-**Submit to**: [EasyChair]()
+**Submit to**: **[EasyChair]()**
 
-**Templates**: [LateX](http://ras.papercept.net/conferences/support/tex.php) / [Word](http://ras.papercept.net/conferences/support/word.php)
+**Templates**: **[LateX](http://ras.papercept.net/conferences/support/tex.php)** / **[Word](http://ras.papercept.net/conferences/support/word.php)**
 
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.

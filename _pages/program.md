@@ -6,7 +6,33 @@ header_img: assets/img/robot_puzlet.gif
 permalink: /program
 ---
 
+<p class="card-text"><small class="text-muted">Banner designed by Chahin Mohamed. "Lo-Fi Cyberpunk animated". August, 2021. <a>https://dribbble.com/shots/18947748-Lo-Fi-Cyberpunk-animated</a></small></p>
 
+---
+
+**Date**: **August the 28th**
+
+**Location**:  **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**
+
+**Attend Online**: [**Zoom link** (TDB)]()
+
+## Tentative Program
+
+| **Activity**                           | **Duration** |
+|----------------------------------------|--------------|
+| Opening/ice-breaking session           | 10 min       |
+| Keynote 1 + QA                         | 40 min       |
+| First paper presentation session + QA  | 30 min       |
+| Lightning talk + group discussion      | 30 min       |
+| Coffee break                           | 15 min       |
+| Keynote 2 + QA                         | 40 min       |
+| Second paper presentation session + QA | 30 min       |
+| Lightning talk + group discussion      | 30 min       |
+| Final remarks and conclusions          | 15 min       |
+
+ ---
+
+## Keynote Speakers
 
 <section class="light">
     <div class="container py-2">
@@ -20,7 +46,7 @@ permalink: /program
 					Associate Professor @ University of Trento
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis consequat ligula, ut pharetra ex. Quisque rhoncus odio eu nulla mollis fermentum. In id molestie justo. Sed consectetur, dui ut lacinia placerat, nisi leo tristique neque, ac hendrerit dolor ipsum eget nulla. Vivamus eget lectus sed nisi commodo congue ac finibus metus.</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -33,7 +59,7 @@ permalink: /program
 					Team Lead & UX Research Scientist @ NAVER LABS Europe
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">TBD</div>
+				<div class="postcard__preview-txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis consequat ligula, ut pharetra ex. Quisque rhoncus odio eu nulla mollis fermentum. In id molestie justo. Sed consectetur, dui ut lacinia placerat, nisi leo tristique neque, ac hendrerit dolor ipsum eget nulla. Vivamus eget lectus sed nisi commodo congue ac finibus metus.</div>
 			</div>
 		</article>
     </div>
@@ -53,7 +79,7 @@ permalink: /program
 					Senior Machine Learning Scientist @ Sony
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis consequat ligula, ut pharetra ex. Quisque rhoncus odio eu nulla mollis fermentum. In id molestie justo. Sed consectetur, dui ut lacinia placerat, nisi leo tristique neque, ac hendrerit dolor ipsum eget nulla. Vivamus eget lectus sed nisi commodo congue ac finibus metus.</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -66,7 +92,7 @@ permalink: /program
 					Assistant Researcher @ University of Lisbon
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">TBD</div>
+				<div class="postcard__preview-txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis consequat ligula, ut pharetra ex. Quisque rhoncus odio eu nulla mollis fermentum. In id molestie justo. Sed consectetur, dui ut lacinia placerat, nisi leo tristique neque, ac hendrerit dolor ipsum eget nulla. Vivamus eget lectus sed nisi commodo congue ac finibus metus.</div>
 			</div>
 		</article>
     </div>

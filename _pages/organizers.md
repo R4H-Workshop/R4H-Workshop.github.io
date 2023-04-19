@@ -1,5 +1,4 @@
 ---
-layout: minimal
 title: Organizers
 subtitle: 
 header_type: hero
@@ -7,7 +6,7 @@ header_img: assets/img/robot_puzlet.gif
 permalink: /organizers
 ---
 
-{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
+<!--{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}-->
 
 <section>
     <div class="card mb-3">

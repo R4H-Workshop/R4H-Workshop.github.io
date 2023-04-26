@@ -13,9 +13,9 @@ og_image: assets/img/robots_fix.png
 
 **Date**: **August the 28th**
 
-**Location**:  **[IEEE RO-MAN](http://ro-man2023.org/main) confererence, Busan, August 28-31, 2023**
+**Location**:  **[IEEE RO-MAN 2023](http://ro-man2023.org/main) confererence, August 28-31 2023, Busan (South Corea)**
 
-**Attend Online**: [**Zoom link** (TDB)]()
+<!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Tentative Program
 

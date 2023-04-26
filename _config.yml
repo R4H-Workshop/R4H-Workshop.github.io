@@ -110,6 +110,8 @@ navbar:
   nav:
   - title : Call for Papers
     url   : /call
+  - title : Attendance
+    url   : /attendance
   - title : Workshop Program
     url   : /program
   - title : Organizers

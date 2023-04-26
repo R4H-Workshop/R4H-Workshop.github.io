@@ -76,7 +76,7 @@ og_image: assets/img/robots_fix.png
                 <h1 class="postcard__title blue">Dario Pasquali</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Dr. Dario Pasquali (he/his) is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies unit of the Italian Institute of Technologies. His research is grounded on modelling humans’ behaviour, decisions and cognitive efforts in human-robot collaboration starting from physiological measures (e.g., pupillometry, electrodermal activity). Dario consistently applies a gamification-by-design research method, developing game-based HRI experiments to foster better experiences for the participants and more realistic behavioural data.</div>
+                <div class="postcard__preview-txt">Dr. Dario Pasquali (he/him) is a postdoctoral researcher at the COgNTtive Architectures for Collaborative Technologies unit of the Italian Institute of Technologies. His research is grounded on modelling humans’ behaviour, decisions and cognitive efforts in human-robot collaboration starting from physiological measures (e.g., pupillometry, electrodermal activity). Dario consistently applies a gamification-by-design research method, developing game-based HRI experiments to foster better experiences for the participants and more realistic behavioural data.</div>
             </div>
         </article>
     </div>

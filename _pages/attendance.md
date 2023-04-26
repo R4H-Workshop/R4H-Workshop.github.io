@@ -17,7 +17,7 @@ og_image: assets/img/robots_fix.png
 If you plan to attend GROUND 2023, please fill in this form, as this will help us estimate the in-person numbers, as well as share follow-up details about the workshop with all attendees.
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchdWEchOvA8UtSdgRaliJTbSGKo325fmKmEhpqyPJUOGKsyA/viewform?embedded=true" width="640" height="1089" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchdWEchOvA8UtSdgRaliJTbSGKo325fmKmEhpqyPJUOGKsyA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 

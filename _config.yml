@@ -105,8 +105,8 @@ navbar:
   style     :  default #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   :  GROUND # Title in navbar
-    img     :  # An small image, try 30x30px
+    title   :  # Title in navbar
+    img     :  assets/img/Ground.png
   nav:
   - title : Call for Papers
     url   : /call

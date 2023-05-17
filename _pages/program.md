@@ -87,15 +87,16 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/img/filipa.png" alt="Image Title" />	
+				<img class="postcard__img" src="assets/img/filipa_small.jpg" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue"><a href="#">Filipa Correia</a></h1>
 				<div class="postcard__subtitle small">
-					Assistant Researcher @ University of Lisbon
+					Assistant Researcher @ Interactive Technologies Institute
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">TBD</div>
+				<div class="postcard__preview-txt"><b>Robotic Autonomy in Teamwork Settings</b></br>
+                Robots for teamwork settings might have several roles, ranging from teammates to moderators. When reaching robotic autonomy in those settings, perceiving the social environment and group dynamics is of extreme importance. However, adapting to those perceptions might be non-trivial and requires assessing the impact of the robot on group dynamics and teamwork. I will present two recent examples of my research work on the robot’s gaze responsiveness strategies and the robot’s moderating behaviors to balance participation in a conversation between children with mixed-visual abilities.</div>
 			</div>
 		</article>
     </div>

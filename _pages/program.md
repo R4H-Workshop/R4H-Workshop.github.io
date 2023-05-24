@@ -82,7 +82,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 					Senior Machine Learning Scientist @ Sony
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt"><b>The Impact of Learning Strategies on the Formation of Social Characteristics of Competitive Agents</b> <br> When training a competitive social agent with different learning algorithms, we are embedding them with inherited characteristics given by their own algorithmic development. That causes a  deep Q-learning strategy to push an agent to learn, and thus have a different decision-making strategy, in a different manner when compared to an agent using proximal policy optimization. Besides having an impact on the performance of these agents, different learning strategies might also elicit different behavior when in a social interaction, which can be depicted when this agent interacts with humans. In this talk, I will present the results of our recent research on understanding the impact that different learning strategies have on social perception in a competitive game scenario. I will also discuss how to leverage these differences to build social components, such as subjective rivalry, to further endow these agents to be perceived distinctively when in interaction with humans, purely based on their different learning algorithms.</div>
             </div>
         </article>
         <article class="postcard light blue">

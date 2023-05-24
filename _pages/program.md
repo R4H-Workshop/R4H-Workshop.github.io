@@ -57,7 +57,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				<img class="postcard__img" src="assets/img/danilo.png" alt="Danilo Gallo" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue"><a href="#">Danilo Gallo</a></h1>
+				<h1 class="postcard__title blue">Danilo Gallo</h1>
 				<div class="postcard__subtitle small">
 					Team Lead & UX Research Scientist @ NAVER LABS Europe
 				</div>
@@ -90,7 +90,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				<img class="postcard__img" src="assets/img/filipa_small.jpg" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue"><a href="#">Filipa Correia</a></h1>
+				<h1 class="postcard__title blue">Filipa Correia</h1>
 				<div class="postcard__subtitle small">
 					Assistant Researcher @ Interactive Technologies Institute
 				</div>

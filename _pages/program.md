@@ -62,7 +62,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 					Team Lead & UX Research Scientist @ NAVER LABS Europe
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">TBD</div>
+				<div class="postcard__preview-txt"><b>Shared Spaces and Unfocused Interactions: Context, Adaptation and Interdisciplinarity for Socially Acceptable Robots</b> <br> Robots deployed in real-world scenarios face the challenge of fitting into unstructured and dynamic environments shared with people. Understanding of and adaptability to context is crucial for ensuring socially acceptable robot behaviors, even in the case of unfocused interactions with bystanders. This talk illustrates some of the challenges involved in understanding the group dynamics, proxemics, and privacy and ethical concerns related to the robots' presence in diverse shared spaces and social situations. I will present a series of use cases inspired by the deployment of autonomous delivery robots in our company's HQ building in South Korea. The talk explores how disciplines such as sociology, design, and computer science contribute to understanding and designing robots that smoothly integrate into the dynamics of groups. Through an interdisciplinary approach, we aim to define robot behaviors that effectively adapt to contextual factors in order to promote socially acceptable interactions in shared spaces.</div>
 			</div>
 		</article>
     </div>

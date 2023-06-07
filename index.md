@@ -46,10 +46,10 @@ Topics of interests include but are not limited to:
 
 ---
 
-### Important Dates:
-* Submission Deadline: **15th June**
-* Notification of Acceptance: **15th July**
-* Camera Ready: **5th August**
+### Important Dates
+* Submission Deadline: **10th July (Pacific Standard TIme)**
+* Notification of Acceptance: **24th July (Pacific Standard TIme)**
+* Camera Ready: **5th August (Pacific Standard TIme)**
 
 ---
 

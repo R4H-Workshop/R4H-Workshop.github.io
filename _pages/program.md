@@ -49,7 +49,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 					Associate Professor @ University of Trento
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt"><b>Automated understanding of groups emergent states</b> <br> Automated analysis of social interaction in groups of humans is receiving a growing interest from researchers in several fields including Computer Engineering, Robotics and so on. The topic is indeed particularly relevant in the perspective of future human-centered AI systems that will ground the basis for novel hybrid man-machine communities. Leveraging the interplay of Computer and Social Sciences, my research focuses on automated understanding of groups emergent states, that are social processes resulting from the micro-level affective, behavioural and cognitive interactions among group members. This talk will present a selection of my previous and current research achievements in this area with a particular reference to cohesion, coordination, and potency.</div>
             </div>
         </article>
         <article class="postcard light blue">

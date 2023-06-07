@@ -19,6 +19,12 @@ og_image: assets/img/robots_fix.png
 
 ## Tentative Program
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 | **Activity**                             | **Duration** |
 |------------------------------------------|--------------|
 | Opening/ice-breaking session             | 10 min       |

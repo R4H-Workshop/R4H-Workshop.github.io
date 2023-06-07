@@ -19,12 +19,6 @@ og_image: assets/img/robots_fix.png
 
 ## Tentative Program
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 | **Activity**                             | **Duration** |
 |------------------------------------------|--------------|
 | Opening/ice-breaking session             | 10 min       |
@@ -50,9 +44,9 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <img class="postcard__img" src="assets/img/giovanna.png" alt="Giovanna Varni" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Giovanna Varni</h1>
+                <h1 class="postcard__title blue">  Giovanna Varni</h1>
                 <div class="postcard__subtitle small">
-					Associate Professor @ University of Trento
+					  Associate Professor @ University of Trento
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>Automated understanding of groups emergent states</b> <br> Automated analysis of social interaction in groups of humans is receiving a growing interest from researchers in several fields including Computer Engineering, Robotics and so on. The topic is indeed particularly relevant in the perspective of future human-centered AI systems that will ground the basis for novel hybrid man-machine communities. Leveraging the interplay of Computer and Social Sciences, my research focuses on automated understanding of groups emergent states, that are social processes resulting from the micro-level affective, behavioural and cognitive interactions among group members. This talk will present a selection of my previous and current research achievements in this area with a particular reference to cohesion, coordination, and potency.</div>
@@ -83,9 +77,9 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <img class="postcard__img" src="assets/img/pablo.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Pablo Barros</h1>
+                <h1 class="postcard__title blue">  Pablo Barros</h1>
                 <div class="postcard__subtitle small">
-					Senior Machine Learning Scientist @ Sony
+					  Senior Machine Learning Scientist @ Sony
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>The Impact of Learning Strategies on the Formation of Social Characteristics of Competitive Agents</b> <br> When training a competitive social agent with different learning algorithms, we are embedding them with inherited characteristics given by their own algorithmic development. That causes a  deep Q-learning strategy to push an agent to learn, and thus have a different decision-making strategy, in a different manner when compared to an agent using proximal policy optimization. Besides having an impact on the performance of these agents, different learning strategies might also elicit different behavior when in a social interaction, which can be depicted when this agent interacts with humans. In this talk, I will present the results of our recent research on understanding the impact that different learning strategies have on social perception in a competitive game scenario. I will also discuss how to leverage these differences to build social components, such as subjective rivalry, to further endow these agents to be perceived distinctively when in interaction with humans, purely based on their different learning algorithms.</div>

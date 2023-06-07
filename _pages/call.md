@@ -30,8 +30,8 @@ Topics of interests include but are not limited to:
 
 ## Important Dates
 * Submission Deadline: **10th July (Anywhere on Earth Time)**
-* Notification of Acceptance: **24th July (Anywhere on Earth TIme)**
-* Camera Ready: **5th August (Anywhere on Earth TIme)**
+* Notification of Acceptance: **24th July (Anywhere on Earth Time)**
+* Camera Ready: **5th August (Anywhere on Earth Time)**
 
 ## Submission Procedure
 

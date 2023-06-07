@@ -19,17 +19,17 @@ og_image: assets/img/robots_fix.png
 
 ## Tentative Program
 
-| **Activity**                           | **Duration** |
-|----------------------------------------|--------------|
-| Opening/ice-breaking session           | 10 min       |
-| Keynote 1 + QA                         | 40 min       |
-| First paper presentation session + QA  | 30 min       |
-| Lightning talk + group discussion      | 30 min       |
-| Coffee break                           | 15 min       |
-| Keynote 2 + QA                         | 40 min       |
-| Second paper presentation session + QA | 30 min       |
-| Lightning talk + group discussion      | 30 min       |
-| Final remarks and conclusions          | 15 min       |
+| **Activity**                             | **Duration** |
+|------------------------------------------|--------------|
+| Opening/ice-breaking session             | 10 min       |
+| Keynote by **Giovanna Varni** + QA       | 40 min       |
+| Lightning talk by **Filipa Correia** +QA | 30 min       |
+| Paper presentation session               | 30 min       |
+| Coffee break                             | 15 min       |
+| Keynote by **Danilo Gallo** + QA         | 40 min       |
+| Lightning talk by **Pablo Barros** + QA  | 30 min       |
+| (G)Round Table                           | 30 min       |
+| Final remarks and conclusions            | 15 min       |
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
@@ -44,7 +44,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <img class="postcard__img" src="assets/img/giovanna.png" alt="Giovanna Varni" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Giovanna Varni</h1>
+                <h1 class="postcard__title blue">- Giovanna Varni</h1>
                 <div class="postcard__subtitle small">
 					Associate Professor @ University of Trento
 				</div>
@@ -77,7 +77,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <img class="postcard__img" src="assets/img/pablo.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Pablo Barros</h1>
+                <h1 class="postcard__title blue">- Pablo Barros</h1>
                 <div class="postcard__subtitle small">
 					Senior Machine Learning Scientist @ Sony
 				</div>

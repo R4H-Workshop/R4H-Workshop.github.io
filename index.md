@@ -2,7 +2,7 @@
 title: GROUND
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior<!--</br> <b>28th August, Hybrid</b>-->
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b>28th August, Hybrid</b>
 project_links:
     - url: /call
       icon: fa-solid fa-paper-plane # fab fa-github fa-lg
@@ -16,7 +16,7 @@ og_image: assets/img/robots_fix.png
 ---
 
 <p style="text-align: justify;">
-This workshop is held in conjunction with the IEEE International Conference on Robot and Human Interactive Communication <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b></a> and will be held in a hybrid format. The workshop will take place on August 28th, 2023, both in-presence in Busan, South Corea, as well as virtually on Zoom.
+This workshop is held in conjunction with the IEEE International Conference on Robot and Human Interactive Communication <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b></a> and will be held in a hybrid format. The workshop will take place on **August 28th, 2023**, both in-presence in Busan, South Corea, as well as virtually on Zoom.
 </p>
 
 ---

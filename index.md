@@ -15,6 +15,8 @@ og_image: assets/img/robots_fix.png
 
 ---
 
+<meta name="google-site-verification" content="3uiWFTWPqJr_nDqrWSVHLMDO9WaLF92LySOzcJov0hw" />
+
 <p style="text-align: justify;">
 This workshop is held in conjunction with the IEEE International Conference on Robot and Human Interactive Communication <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b></a> and will be held in a hybrid format. The workshop will take place on <b>August 28th, 2023</b>, both in-presence in Busan, South Corea, as well as virtually on Zoom.
 </p>

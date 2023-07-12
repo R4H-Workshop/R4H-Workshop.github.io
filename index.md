@@ -62,10 +62,12 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 ---
 
 ### Supported by Comune di Genova (Liguria, Italy)
-<p float="center">
-<img class="postcard__img" src="assets/img/genova_more.png" alt="Genova More" width="300"/>
-<img class="postcard__img" src="assets/img/genova_logo.png" alt="Giulia Logo" width="300"/>
-</p>
+
+<table><tr>
+<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
+<td> <img  src="assets/img/genova_logo.png" alt="Giulia Logo" width="300"/> </td>
+</tr></table>
+
 ---
 
 <p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>

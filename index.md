@@ -61,12 +61,11 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
-<p style="text-align: justify;">
-The GROUND workshop is supported by the Comune di Genova (Liguria)
-<img class="postcard__img" src="assets/img/genova_more.png" alt="Giulia Belgiovine" />
-<img class="postcard__img" src="assets/img/genova_logo.png" alt="Giulia Belgiovine" />
+### Supported by Comune di Genova (Liguria, Italy)
+<p float="center">
+<img class="postcard__img" src="assets/img/genova_more.png" alt="Genova More" width="300"/>
+<img class="postcard__img" src="assets/img/genova_logo.png" alt="Giulia Logo" width="300"/>
 </p>
-
 ---
 
 <p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>

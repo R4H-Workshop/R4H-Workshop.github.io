@@ -47,8 +47,8 @@ Topics of interests include but are not limited to:
 ---
 
 ### Important Dates
-* Submission Deadline: **10th July (Anywhere on Earth Time)**
-* Notification of Acceptance: **24th July (Anywhere on Earth Time)**
+* Submission Deadline: ~~10th July~~ **20th July (Anywhere on Earth Time)**
+* Notification of Acceptance: ~~24th July~~ **1st August (Anywhere on Earth Time)**
 * Camera Ready: **5th August (Anywhere on Earth Time)**
 
 ---
@@ -58,6 +58,15 @@ Topics of interests include but are not limited to:
 <p style="text-align: justify;">
 The workshop organizers are committed to creating an inclusive, diverse, and equitable environment for all attendees. We recognize and value the diversity of our attendees and understand that people have different needs and preferences. To accommodate the different time zones of attendees, the workshop will be held in a hybrid format and will be recorded for later viewing. To ensure that all attendees have reliable access to the internet, we will provide technical support and troubleshooting assistance as needed. We encourage attendees from underrepresented groups to submit their work and participate in the workshop. We are committed to creating an equitable and diverse environment, and we are open to suggestions on how to improve the workshop in terms of inclusion and accessibility. 
 </p>
+
+---
+
+### Supported by Comune di Genova (Liguria, Italy)
+
+<table><tr>
+<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
+<td> <img  src="assets/img/genova_logo.png" alt="Giulia Logo" width="300"/> </td>
+</tr></table>
 
 ---
 

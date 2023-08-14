@@ -29,9 +29,11 @@ Topics of interests include but are not limited to:
 * Modelling, understanding and predicting group behaviors.
 
 ## Important Dates
-* Submission Deadline: **10th July (Anywhere on Earth Time)**
-* Notification of Acceptance: **24th July (Anywhere on Earth Time)**
+### Important Dates
+* Submission Deadline: ~~10th July~~ **20th July (Anywhere on Earth Time)**
+* Notification of Acceptance: ~~24th July~~ **1st August (Anywhere on Earth Time)**
 * Camera Ready: **5th August (Anywhere on Earth Time)**
+
 
 ## Submission Procedure
 

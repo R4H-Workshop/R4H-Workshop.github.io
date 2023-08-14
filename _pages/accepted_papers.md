@@ -11,5 +11,3 @@ og_description: advancing GROup UNderstanding and robots' aDaptive behavior
 og_type: website
 og_image: assets/img/robots_fix.png
 ---
-
-Nothing to show...yet. Just some placeholders.

@@ -13,23 +13,24 @@ og_image: assets/img/robots_fix.png
 
 **Date**: **August the 28th**
 
-**Location**:  **[IEEE RO-MAN 2023](http://ro-man2023.org/main) confererence, August 28-31 2023, Busan (South Corea)**
+**Location**:  **[IEEE RO-MAN 2023](http://ro-man2023.org/main) confererence, August 28-31 2023, Busan (South Korea)**
+
+**Time**: The workshop will start at **06:45 AM in CEST Time (GMT+2)** / **01:45 PM in South Korean Local Time (GMT+9)**
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Tentative Program
 
-| **Activity**                             | **Duration** |
-|------------------------------------------|--------------|
-| Opening/ice-breaking session             | 10 min       |
-| Keynote by **Giovanna Varni** + QA       | 40 min       |
-| Lightning talk by **Filipa Correia** +QA | 30 min       |
-| Paper presentation session               | 30 min       |
-| Coffee break                             | 15 min       |
-| Keynote by **Danilo Gallo** + QA         | 40 min       |
-| Lightning talk by **Pablo Barros** + QA  | 30 min       |
-| (G)Round Table                           | 30 min       |
-| Final remarks and conclusions            | 15 min       |
+| **Activity**                             | **Starting Time CEST (GMT+2)** |
+|------------------------------------------|--------------------------------|
+| Opening session                          | 06:45 AM                       |
+| Keynote by **Giovanna Varni** + QA       | 07:00 AM                       |
+| Lightning talk by **Filipa Correia** +QA | 07:30 AM                       |
+| Paper presentation session               | 07:50 AM                       |
+| Coffee break                             | 08:20 AM                       |
+| Keynote by **Danilo Gallo** + QA         | 08:35 AM                       |
+| Lightning talk by **Pablo Barros** + QA  | 09:05 AM                       |
+| (G)Round Table + conclusion              | 09:25 AM                       |
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 

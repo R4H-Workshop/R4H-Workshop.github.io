@@ -105,7 +105,7 @@ og_image: assets/img/robots_fix.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Comune di Genova</h1>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">This workshop is supported by Comune di Genova (Liguria, Italy)</div>
+                <div class="postcard__preview-txt">This workshop is supported by Comune di Genova (Liguria, Italy)<br><br><br><br></div>
             </div>
         </article>
     </div>

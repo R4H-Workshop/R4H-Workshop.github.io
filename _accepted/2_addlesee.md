@@ -5,6 +5,7 @@ excerpt: "Conversational agents participating in multi-party interactions face s
 tags: [Conversational agents, Multi-party conversation, Multi-party interactions, Diarisation, Detection of agreement, Natural Language Processing (NLP), Natural Language Understanding (NLU), Cooperative quiz, Social robots, Gamification, Engagement]
 #header_type: splash
 #header_img: /assets/img/nano.jpg
+permalink: /addlesee
 ---
 
 	

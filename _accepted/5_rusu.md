@@ -5,4 +5,6 @@ excerpt: "In this work, we proposed a web-based interface for multi-language sto
 tags: [Storytelling Generation Using chatGPT, Group Interactions for Learning, Participatory Design]
 #header_type: splash
 #header_img: /assets/img/nano.jpg
+
+permalink: /rusu
 ---

@@ -5,5 +5,6 @@ excerpt: "Social mediator robots have the potential to improve educational outco
 tags: [group interaction, encouraging mediator, social cues]
 #header_type: splash
 #header_img: /assets/img/nano.jpg
+permalink: /cooper
 ---
 

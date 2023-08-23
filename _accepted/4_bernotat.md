@@ -5,4 +5,6 @@ excerpt: "We present a research outline that aims at investigating group dynamic
 tags: [social conformity, peer pressure, (robot) trust, (robot) credibility]
 #header_type: splash
 #header_img: /assets/img/nano.jpg
+
+permalink: /bernotat
 ---

@@ -5,6 +5,8 @@ excerpt: "Today, conversational systems are expected to handle conversations in 
 tags: [multi-party, multi, party, conversational, ai, agreement, detect, detecting, NLG, NLU, ASR, Automatic, Speech, Recognition, Neural, LSTM, RASA, API, dialogue, social robots, multi-party interaction, interaction, social]
 #header_type: splash
 #header_img: /assets/img/nano.jpg
+
+permalink: /schauer
 ---
 
 	

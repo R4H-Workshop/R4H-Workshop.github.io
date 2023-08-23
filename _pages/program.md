@@ -41,15 +41,15 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 Authors will have **5 minutes** to showcase their contribution live, followed by **3 minutes** for Questions & Answers.
 
 The contributions will be presented in the following order:
-1. [**Towards the use of a social mediator robot in a school setting**](/cooper), *Sara Cooper and Randy Gomez*
+1. [**Towards the use of a social mediator robot in a school setting**](/ground-workshop/cooper), *Sara Cooper and Randy Gomez*
    
-2. [**Group Storytelling in Learning Activities Using ChatGPT for Story Generation**](/rusu), *Anne-Marie Rusu and Daniel Carnieto Tozadore*
+2. [**Group Storytelling in Learning Activities Using ChatGPT for Story Generation**](/ground-workshop/rusu), *Anne-Marie Rusu and Daniel Carnieto Tozadore*
    
-3. [**Detecting agreement in multi-party dialogue - evaluating speaker diarisation versus a procedural baseline to enhance user engagement.**](/addlesee), *Angus Addlesee, Daniel Denley, Andy Edmondson, Nancie Gunson, Daniel Hernandez Garcia, Alexandre Kha, Oliver Lemon, James Ndubuisi, Neil O'Reilly, Lia Perochaud, Raphaël Valeri, Miebaka Worika*
+3. [**Detecting agreement in multi-party dialogue - evaluating speaker diarisation versus a procedural baseline to enhance user engagement.**](/ground-workshop/addlesee), *Angus Addlesee, Daniel Denley, Andy Edmondson, Nancie Gunson, Daniel Hernandez Garcia, Alexandre Kha, Oliver Lemon, James Ndubuisi, Neil O'Reilly, Lia Perochaud, Raphaël Valeri, Miebaka Worika*
    
-4. [**Detecting Agreement in Multi-party Conversational AI**](/schauer), *Laura Schauer, Jason Sweeney, Charlie Lyttle, Zein Said, Aron Szeles, Cale Clark, Nancie Gunson, Katie McAskill, Xander Wickham, Tom	Byas, Daniel Hernandez Garcia, Angus Addlesee, Oliver Lemon*
+4. [**Detecting Agreement in Multi-party Conversational AI**](/ground-workshop/schauer), *Laura Schauer, Jason Sweeney, Charlie Lyttle, Zein Said, Aron Szeles, Cale Clark, Nancie Gunson, Katie McAskill, Xander Wickham, Tom	Byas, Daniel Hernandez Garcia, Angus Addlesee, Oliver Lemon*
    
-5. [**Asch Meets HRI - Human Conformity to Robot Groups**](/bernotat), *Jasmin Bernotat, Doreen Jirak, Eduardo Benitez Sandoval, Francisco Cruz* 
+5. [**Asch Meets HRI - Human Conformity to Robot Groups**](/ground-workshop/bernotat), *Jasmin Bernotat, Doreen Jirak, Eduardo Benitez Sandoval, Francisco Cruz* 
 
 ---
 

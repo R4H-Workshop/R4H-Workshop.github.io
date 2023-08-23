@@ -97,6 +97,18 @@ og_image: assets/img/robots_fix.png
             </div>
         </article>
     </div>
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/img/genova_logo.png" alt="Genova" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Comune di Genova</h1>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">This workshop is supported by Comune di Genova (Liguria, Italy)</div>
+            </div>
+        </article>
+    </div>
 </section>
 
 <!--

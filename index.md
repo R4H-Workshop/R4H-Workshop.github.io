@@ -4,9 +4,9 @@ header_type: splash
 header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b>28th August, Hybrid</b>
 project_links:
-    - url: /call
-      icon: fa-solid fa-paper-plane # fab fa-github fa-lg
-      label: Submit Paper!
+    - url: /program
+      icon: fa-regular fa-calendar # fab fa-github fa-lg
+      label: Check the Program!
 
 og_title: GROUND - Home
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior

@@ -19,22 +19,35 @@ og_image: assets/img/robots_fix.png
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
-## Tentative Program
+## Program
 
-| **Activity**                             | **Starting Time CEST (GMT+2)** |
-|------------------------------------------|--------------------------------|
-| Opening session                          | 06:45 AM                       |
-| Keynote by **Giovanna Varni** + QA       | 07:00 AM                       |
-| Lightning talk by **Filipa Correia** +QA | 07:30 AM                       |
-| Paper presentation session               | 07:50 AM                       |
-| Coffee break                             | 08:20 AM                       |
-| Keynote by **Danilo Gallo** + QA         | 08:35 AM                       |
-| Lightning talk by **Pablo Barros** + QA  | 09:05 AM                       |
-| (G)Round Table + conclusion              | 09:25 AM                       |
+| **Activity**                             | **Starting Time CEST (GMT+2)** | **Starting Time KST (GMT+9)** |
+|------------------------------------------|--------------------------------|-------------------------------|
+| Opening session                          | 06:45 AM                       | 01:45 PM                      |
+| Keynote by **Giovanna Varni** + QA       | 07:00 AM                       | 02:00 PM                      |
+| Lightning talk by **Filipa Correia** +QA | 07:30 AM                       | 02:30 PM                      |
+| Paper presentation session               | 07:50 AM                       | 02:50 PM                      |
+| Coffee break                             | 08:30 AM                       | 03:30 PM                      |
+| Keynote by **Danilo Gallo** + QA         | 08:45 AM                       | 03:45 PM                      |
+| Lightning talk by **Pablo Barros** + QA  | 09:15 AM                       | 04:15 PM                      |
+| (G)Round Table + conclusion              | 09:35 AM                       | 04:35 PM                      |
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
  ---
+
+## Paper Presentation Session
+
+Authors will have **5 minutes** to showcase their contribution live, followed by **3 minutes** for Questions & Answers.
+
+The contributions will be presented in the following order:
+1. **Towards the use of a social mediator robot in a school setting**, *Sara Cooper and Randy Gomez*
+2. **Group Storytelling in Learning Activities Using ChatGPT for Story Generation**, *Anne-Marie Rusu and Daniel Carnieto Tozadore*
+3. **Detecting agreement in multi-party dialogue - evaluating speaker diarisation versus a procedural baseline to enhance user engagement.**, *Angus Addlesee, Daniel Denley, Andy Edmondson, Nancie Gunson, Daniel Hernandez Garcia, Alexandre Kha, Oliver Lemon, James Ndubuisi, Neil O'Reilly, Lia Perochaud, Raphaël Valeri, Miebaka Worika*
+4. **Detecting Agreement in Multi-party Conversational AI**, *Laura Schauer, Jason Sweeney, Charlie Lyttle, Zein Said, Aron Szeles, Cale Clark, Nancie Gunson, Katie McAskill, Xander Wickham, Tom	Byas, Daniel Hernandez Garcia, Angus Addlesee, Oliver Lemon*
+5. **Asch Meets HRI - Human Conformity to Robot Groups**, *Jasmin Bernotat, Doreen Jirak, Eduardo Benitez Sandoval, Francisco Cruz* 
+
+---
 
 ## Keynote Speakers
 

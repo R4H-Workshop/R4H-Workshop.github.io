@@ -6,7 +6,7 @@ subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b>28
 project_links:
     - url: /program
       icon: fa-regular fa-calendar # fab fa-github fa-lg
-      label: Check the Program!
+      label: Check-out the Program!
 
 og_title: GROUND - Home
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior

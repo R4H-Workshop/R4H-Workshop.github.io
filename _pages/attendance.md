@@ -1,5 +1,5 @@
 ---
-title: Attendance
+title: Let's Stay in Touch!
 subtitle: ""
 header_type: hero
 header_img: /assets/img/banner_sketch.png
@@ -11,7 +11,7 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
-### Stay in touch!
+### Let's stay in touch!
 
 <p style="text-align: justify;">
 The First edition of the GROUND workshop was great, so we plan to continue the discussion in future editions!

@@ -15,20 +15,26 @@ og_image: assets/img/robots_fix.png
 
 ---
 
-<p style="text-align: justify;">
-This workshop is held in conjunction with the IEEE International Conference on Robot and Human Interactive Communication <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b></a> and will be held in a hybrid format. The workshop will take place on <b>August 28th, 2023</b>, both in-presence in Busan, South Corea, as well as virtually on Zoom.
-</p>
+# Workshop Highlights
 
----
 
+The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b> Conference</a>, concluded with flying colors! We managed to gather more than 70 researchers - either in person and through Zoom - interested in group-robot interaction!
+
+Given the success of the workshop, we plan to organize future editions in other interantional conferences. If you want to be notified, please apply to the **[Let's Stay in Touch](/ground-workshop/attendance)**. We are also thinking about making a social network - aka. a GROUP - of researchers sharing the same interests.
+
+Here are some feedback about group-robot interaction from the interactive sessions.
+
+
+![Workshop Outcomes](assets/img/outcomes.png)
+
+
+### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
 As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that <b>their behavior considers the complex social dynamics</b> present in these scenarios. However, studying <b>group dynamics in HRI</b> entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of <b>individual group members</b> while also considering <b>the group as a whole</b>, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on <b>gamification</b>. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
 
 Participants are invited to share <b>innovative strategies for exploring group-robot interactions</b>, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
 </p>
-
----
 
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.
@@ -42,14 +48,6 @@ Topics of interests include but are not limited to:
 * Adaptation and personalization to groups.
 * Learning strategies for autonomous behaviors of robots in groups.
 * Modelling, understanding and predicting group behaviors.
-
-
----
-
-### Important Dates
-* Submission Deadline: ~~10th July~~ **20th July (Anywhere on Earth Time)**
-* Notification of Acceptance: ~~24th July~~ **1st August (Anywhere on Earth Time)**
-* Camera Ready: **5th August (Anywhere on Earth Time)**
 
 ---
 

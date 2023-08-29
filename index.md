@@ -27,6 +27,9 @@ Here are some feedback about group-robot interaction from the interactive sessio
 
 ![Workshop Outcomes](assets/img/outcomes.png)
 
+---
+
+![Feedback](assets/img/comments.png)
 
 ### Workshop Theme & Topics of Interest
 

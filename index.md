@@ -73,7 +73,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
   <tr>
     <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
     <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
-    <td> <img src="assets/img/ras.png" alt="IEEE RAS" width="300"/> </td>
+    <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
   </tr>
 </table>
 

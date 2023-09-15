@@ -62,12 +62,20 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
-### Supported by Comune di Genova (Liguria, Italy)
+### Supported by
 
-<table><tr>
-<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
-<td> <img  src="assets/img/genova_logo.png" alt="Giulia Logo" width="300"/> </td>
-</tr></table>
+<table>
+  <tr>
+    <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
+    <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
+    <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
+    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
+    <td> <img src="assets/img/ras.png" alt="IEEE RAS" width="300"/> </td>
+  </tr>
+</table>
 
 ---
 

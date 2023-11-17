@@ -13,5 +13,4 @@ permalink: /schauer
 
 ### Presentation
 
-<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+<a href="https://arxiv.org/abs/2311.03026"><b>Download the paper!</b></a>

@@ -1,15 +1,15 @@
 ---
-title: GROUND
+title: R4H
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b>28th August, Hybrid</b>
+subtitle: Robots for Humans</br> <b>3rd of June, Arenzano (Genoa)</b>
 project_links:
     - url: /attendance
       icon: fa-solid fa-people-group # fab fa-github fa-lg
       label: Let's Stay in Touch!
 
-og_title: GROUND - Home
-og_description: advancing GROup UNderstanding and robots' aDaptive behavior
+og_title: R4H - Home
+og_description: Robots for Humans
 og_type: website
 og_image: assets/img/robots_fix.png
 
@@ -18,14 +18,9 @@ og_image: assets/img/robots_fix.png
 # Workshop Highlights
 
 
-The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b> Conference</a>, concluded with flying colors! We managed to gather more than 70 researchers - either in person and through Zoom - interested in group-robot interaction!
+The 1st edition of the Robots for Humans Workshop will he held at the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a>! 
 
-Given the success of the workshop, we plan to organize future editions in other interantional conferences. If you want to be notified, please apply to the **[Let's Stay in Touch](/ground-workshop/attendance)**. We are also thinking about making a social network - aka. a GROUP - of researchers sharing the same interests.
-
-Here are some feedback about group-robot interaction from the interactive sessions.
-
-
-![Workshop Outcomes](assets/img/outcomes.png)
+We invite researchers from both the Human-Computer (HCI) and Human-Robot Interaction (HRI) communities to participate at the R4H workshop to ...
 
 ---
 
@@ -34,23 +29,22 @@ Here are some feedback about group-robot interaction from the interactive sessio
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that <b>their behavior considers the complex social dynamics</b> present in these scenarios. However, studying <b>group dynamics in HRI</b> entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of <b>individual group members</b> while also considering <b>the group as a whole</b>, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on <b>gamification</b>. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
+The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI) communities. The workshop encourages methodological exchange and explores theoretical, technical and design solutions in robotics. Join us to explore the intricate bond between humans and robots for thoughtful HRI advancements.
 
 Participants are invited to share <b>innovative strategies for exploring group-robot interactions</b>, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
 </p>
 
 Topics of interests include but are not limited to:
-* Understanding group dynamics through the use of social robots.
-* Designing social robots able to interact with groups.
-* Gamification in multiparty human-robot interactions.
-* Promoting natural communication, mutual understanding and trust in human-robot mixed groups.
-* Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.
-* Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.
-* Novel experimental designs for conducting group-robot interaction research.
-* Ethical considerations in researching group dynamics and potential biases or negative consequences.
-* Adaptation and personalization to groups.
-* Learning strategies for autonomous behaviors of robots in groups.
-* Modelling, understanding and predicting group behaviors.
+* HCI theories and methods and novel approaches applied to HRI, Cognitive Architectures for HRI.
+* Concept papers on the role of technology and robots in empowering or challenging human well-being.
+* Empirical studies for human empowerment with technology (e.g., SAR, Health care, educational context).
+* Participatory design approaches for HRI applications (e.g., user-centred design for computer and robotic applications, human-centred, and interaction-based design) 
+* Research methods and challenges for different contexts (e.g., assistive and education) in the HRI field.
+* Interaction with virtual or physical embodied agents, human factors and human-in-the-loop in HRI, group dynamics in HRI.
+* Design relationship between humans and robots (multi-modal communication, robot personalities, gender robotics, empathy).
+* Diversity, power dynamics, gender, racism, social stereotypes and vulnerable targets of users in HRI.
+* Trust, acceptance and explainability in HRI; personalisation and end-user development of robot applications.
+* Ethical issues (e.g. privacy, misuse and abusive interactions), social risks and fairness in HRI.
 
 ---
 

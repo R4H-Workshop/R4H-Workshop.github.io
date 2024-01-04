@@ -15,21 +15,14 @@ og_image: assets/img/robots_fix.png
 
 ---
 
-# Workshop Highlights
-
-
-The 1st edition of the Robots for Humans Workshop will he held at the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a>!
-
-We invite researchers from both the Human-Computer (HCI) and Human-Robot Interaction (HRI) communities to participate at the R4H workshop to ...
-
----
-
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI) communities. The workshop encourages methodological exchange and explores theoretical, technical and design solutions in robotics. Join us to explore the intricate bond between humans and robots for thoughtful HRI advancements.
+The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI) communities. Emphasizing commonalities and differences, the workshop encourages methodological exchange and explores human-centric design in robotics and computing. Addressing empowerment in robot applications, the workshop seeks theoretical, technical, and design solutions, examining utopian and dystopian perspectives. It invites HRI researchers to tackle challenges, foster inclusivity, and reflect on shaping human-robot interaction visions. Join us to explore the dynamic relationship, strengths, and weaknesses between humans and robots, aiming for thoughtful HRI advancements.
 
-Participants are invited to share <b>innovative strategies for exploring group-robot interactions</b>, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members.
+Join us to explore the intricate bond between humans and robots for thoughtful HRI advancements.
+
+The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach. 
 </p>
 
 Topics of interests include but are not limited to:
@@ -58,15 +51,19 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 <table>
   <tr>
+    <!-- 
     <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
     <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
+    -->
     <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
   </tr>
+  <!--
   <tr>
     <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
     <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
     <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
   </tr>
+  -->
 </table>
 
 ---

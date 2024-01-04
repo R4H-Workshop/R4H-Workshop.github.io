@@ -31,7 +31,7 @@ og_image: assets/img/robots_fix.png
 | Round Table                              | TBD                            |
 | Closing remarks                          | TBD                            |
 
-For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:r4hworkshop@gmail.com).
+For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
 
  ---
 
@@ -62,7 +62,7 @@ The contributions will be presented in the following order:
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/giovanna.png" alt="Giulia Perugia" />
+                <img class="postcard__img" src="assets/images/keynote_GP.png" alt="Giulia Perugia" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Giulia Perugia</h1>

@@ -26,7 +26,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_OE.png" alt="Omar Eldardeer" />
+                <img class="postcard__img" src="assets/images/org_OE.jpg" alt="Omar Eldardeer" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Omar Eldardeer</h1>
@@ -37,7 +37,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM2.png" alt="Marco Manca" />
+                <img class="postcard__img" src="assets/images/org_MM2.jpeg" alt="Marco Manca" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Manca</h1>
@@ -48,7 +48,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM1.png" alt="Marco Matarese" />
+                <img class="postcard__img" src="assets/images/org_MM1.jpeg" alt="Marco Matarese" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
@@ -70,7 +70,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_EZ.png" alt="Eleonora Zedda" />
+                <img class="postcard__img" src="assets/images/org_EZ.jpeg" alt="Eleonora Zedda" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Eleonora Zedda</h1>

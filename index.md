@@ -24,8 +24,6 @@ We invite researchers from both the Human-Computer (HCI) and Human-Robot Interac
 
 ---
 
-![Feedback](assets/img/comments.png)
-
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">

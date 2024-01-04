@@ -110,14 +110,14 @@ navbar:
   nav:
   #- title : Call for Papers
   #  url   : /call
-  - title : Let's Stay in Touch!
-    url   : /attendance
+  #- title : Let's Stay in Touch!
+  #  url   : /attendance
   - title : Workshop Program
     url   : /program
   - title : Organizers
     url   : /organizers
-  - title : Accepted Papers
-    url   : /accepted-papers
+  #- title : Accepted Papers
+  #  url   : /accepted-papers
   #- title : Current skin
   #  url   : /current-skin
   #- title   : Extras

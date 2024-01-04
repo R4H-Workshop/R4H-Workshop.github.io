@@ -2,12 +2,7 @@
 title: R4H
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: Robots for Humans</br> <b>3rd of June, Arenzano (Genoa)</b>
-project_links:
-    - url: /attendance
-      icon: fa-solid fa-people-group # fab fa-github fa-lg
-      label: Let's Stay in Touch!
-
+subtitle: Robots for Humans</br> <b>June the 3rd, Arenzano (Genoa) - Italy</b>
 og_title: R4H - Home
 og_description: Robots for Humans
 og_type: website
@@ -20,7 +15,7 @@ og_image: assets/img/robots_fix.png
 <p style="text-align: justify;">
 The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI) communities. Emphasizing commonalities and differences, the workshop encourages methodological exchange and explores human-centric design in robotics and computing. Addressing empowerment in robot applications, the workshop seeks theoretical, technical, and design solutions, examining utopian and dystopian perspectives. It invites HRI researchers to tackle challenges, foster inclusivity, and reflect on shaping human-robot interaction visions. Join us to explore the dynamic relationship, strengths, and weaknesses between humans and robots, aiming for thoughtful HRI advancements.
 
-Join us to explore the intricate bond between humans and robots for thoughtful HRI advancements.
+For its first edition, R4H workshop will be help in conjunction with the [17th International Conference on Advanced Visual Interfaces](https://avi2024.dibris.unige.it/) (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
 
 The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach. 
 </p>

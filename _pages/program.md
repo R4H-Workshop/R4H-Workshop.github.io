@@ -37,6 +37,8 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
 ## Paper Presentation Session
 
+TBD.
+
 <!-- 
 
 Authors will have **5 minutes** to showcase their contribution live, followed by **3 minutes** for Questions & Answers.

@@ -37,7 +37,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM2.jpeg" alt="Marco Manca" />
+                <img class="postcard__img" src="assets/images/org_MM2.jpg" alt="Marco Manca" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Manca</h1>
@@ -48,7 +48,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM1.jpeg" alt="Marco Matarese" />
+                <img class="postcard__img" src="assets/images/org_MM1.jpg" alt="Marco Matarese" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>

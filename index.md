@@ -17,7 +17,7 @@ The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (H
 </p>
 
 <p style="text-align: justify;">
-For its first edition, R4H workshop will be help in conjunction with the ![17th International Conference on Advanced Visual Interfaces](https://avi2024.dibris.unige.it) (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
+For its first edition, R4H workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a>! (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
 </p>
 
 <p style="text-align: justify;">

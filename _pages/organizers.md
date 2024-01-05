@@ -5,8 +5,8 @@ header_type: hero
 header_img: assets/img/robot_puzlet.gif
 permalink: /organizers
 
-og_title: GROUND - Organizers
-og_description: advancing GROup UNderstanding and robots' aDaptive behavior
+og_title: R4H - Organizers
+og_description: Robots for Humans
 og_type: website
 og_image: assets/img/robots_fix.png
 ---
@@ -32,7 +32,7 @@ og_image: assets/img/robots_fix.png
                 <h1 class="postcard__title blue">Omar Eldardeer</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Dr. Omar Eldardeer (he/him) is a Post-Doc at the Italian Institute of Technology. His research interests lie in robot perception and learning, focusing on audio-visual biologically inspired models. Omar earned his M.Sc. in Artificial Intelligence and Robotics from the University of Essex, UK. Subsequently, he obtained his Ph.D. From the University of Genova and the Italian Institute of Technology. His doctoral research centred on multimodal cognitive architectures for Human-Robot shared Perception. Following his Ph.D. Omar contributed to the EU project VOJEXT.</div>
+                <div class="postcard__preview-txt">Dr. Omar Eldardeer is a Post-Doc at the Italian Institute of Technology. His research interests lie in robot perception and learning, focusing on audio-visual biologically inspired models. Omar earned his M.Sc. in Artificial Intelligence and Robotics from the University of Essex, UK. Subsequently, he obtained his Ph.D. From the University of Genova and the Italian Institute of Technology. His doctoral research centred on multimodal cognitive architectures for Human-Robot shared Perception. Following his Ph.D. Omar contributed to the EU project VOJEXT.</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -84,6 +84,7 @@ og_image: assets/img/robots_fix.png
 
 ---
 
+<!--
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
@@ -110,6 +111,8 @@ og_image: assets/img/robots_fix.png
         </article>
     </div>
 </section>
+-->
+
 
 <!--
 <section>

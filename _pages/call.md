@@ -12,7 +12,7 @@ og_image: assets/img/robots_fix.png
 ---
 
 <p style="text-align: justify;">
-The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach. 
+The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach.
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +31,7 @@ Topics of interests include but are not limited to:
 * Trust, acceptance and explainability in HRI; personalisation and end-user development of robot applications.
 * Ethical issues (e.g. privacy, misuse and abusive interactions), social risks and fairness in HRI.
 
-## Important Dates
+
 ### Important Dates
 * Submission Deadline: **TBD**
 * Notification of Acceptance: **TBD**
@@ -40,9 +40,9 @@ Topics of interests include but are not limited to:
 
 ## Submission Procedure
 
-TBD. 
+TBD.
 
-<!-- 
+<!--
 **Submission format**: (2-4 pages + references)
 
 Please submit your contribution on **[EasyChair](https://easychair.org/conferences/?conf=ground23)**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.

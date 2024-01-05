@@ -27,16 +27,7 @@ author:
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Genoa, Italy"   # New York, USA
   links:
-      - url: https://twitter.com/RBCS_CONTACT
-        icon: "fab fa-twitter"
-        label: "Twitter"
-      - url: https://www.instagram.com/contact__unit/
-        icon: "fab fa-instagram"
-        label: "Instagram"
-      - url: https://www.youtube.com/@contactresearchline1007
-        icon: "fab fa-youtube"
-        label: "Youtube"
-      - url: mailto:workshop.ground@gmail.com
+      - url: mailto:r4hworkshop@gmail.com
         icon: far fa-envelope
         label: "Email"
 

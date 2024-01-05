@@ -17,11 +17,11 @@ The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (H
 </p>
 
 <p style="text-align: justify;">
-For its first edition, R4H workshop will be help in conjunction with the [17th International Conference on Advanced Visual Interfaces](https://avi2024.dibris.unige.it) (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
+For its first edition, R4H workshop will be help in conjunction with the ![17th International Conference on Advanced Visual Interfaces](https://avi2024.dibris.unige.it) (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
 </p>
 
 <p style="text-align: justify;">
-The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach. 
+The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach.
 </p>
 
 Topics of interests include but are not limited to:
@@ -46,15 +46,18 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
-### Supported by
+### Organizers are affiliated by
 
 <table>
   <tr>
-    <!-- 
+    <!--
     <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
     <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
     -->
-    <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
+    <td> <img  src="assets/images/logo_contact.png" alt="contact" width="300"/> </td>
+    <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
+    <td> <img  src="assets/images/logo_unipi.png" alt="unipi" width="300"/> </td>
+    <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
   </tr>
   <!--
   <tr>

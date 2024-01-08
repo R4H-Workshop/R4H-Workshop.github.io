@@ -56,8 +56,24 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     -->
     <td> <img  src="assets/images/logo_contact.png" alt="contact" width="300"/> </td>
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
-    <td> <img  src="assets/images/logo_unipi.png" alt="unipi" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
+    <td> <img  src="assets/images/logo_ISTI.png" alt="unipi" width="300"/> </td>
+  </tr>
+  <!--
+  <tr>
+    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
+    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
+    <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
+  </tr>
+  -->
+</table>
+<table>
+  <tr>
+    <!--
+    <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
+    <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
+    -->
+    <td> <img  src="assets/images/logo_ISTI.png" alt="unipi" width="300"/> </td>
   </tr>
   <!--
   <tr>

@@ -2,7 +2,7 @@
 title: Workshop Program
 subtitle: ""
 header_type: hero
-header_img: assets/img/moon_banner.gif
+header_img: assets/images/program.gif
 permalink: /program
 
 og_title: R4H - Workshop Program

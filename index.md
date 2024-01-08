@@ -1,8 +1,8 @@
 ---
-title: R4H
+title: Robots for Humans
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: Robots for Humans</br> <b>June the 3rd, Arenzano (Genoa) - Italy</b>
+subtitle: Let humans be the bridge between computers and robots</br> <b>June the 3rd, Arenzano (Genoa) - Italy</b>
 og_title: R4H - Home
 og_description: Robots for Humans
 og_type: website

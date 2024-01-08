@@ -2,7 +2,7 @@
 title: Call for Papers
 subtitle: ""
 header_type: hero
-header_img: /assets/img/banner_sketch.png
+header_img: /assets/images/call.jpg
 permalink: /call
 
 og_title: GROUND - CFP

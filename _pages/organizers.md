@@ -2,7 +2,7 @@
 title: Organizers
 subtitle: ""
 header_type: hero
-header_img: assets/img/robot_puzlet.gif
+header_img: assets/images/workshop.jpg
 permalink: /organizers
 
 og_title: R4H - Organizers

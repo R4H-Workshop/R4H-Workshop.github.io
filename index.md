@@ -57,7 +57,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_contact.png" alt="contact" width="300"/> </td>
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
-    <td> <img  src="assets/images/logo_ISTI.png" alt="unipi" width="800"/> </td>
+    <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="800"/> </td>
   </tr>
   <!--
   <tr>
@@ -67,23 +67,6 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
   </tr>
   -->
 </table>
-<table>
-  <tr>
-    <!--
-    <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
-    <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
-    -->
-    <td> <img  src="assets/images/logo_ISTI.png" alt="unipi" width="800"/> </td>
-  </tr>
-  <!--
-  <tr>
-    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
-    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
-    <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
-  </tr>
-  -->
-</table>
-
 ---
 
 <p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>

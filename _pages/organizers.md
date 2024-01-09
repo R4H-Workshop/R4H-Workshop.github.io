@@ -70,7 +70,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_EZ.jpeg" alt="Eleonora Zedda" />
+                <img class="postcard__img" src="assets/images/org_EZ.jpg" alt="Eleonora Zedda" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Eleonora Zedda</h1>

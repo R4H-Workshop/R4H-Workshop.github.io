@@ -21,9 +21,9 @@ timezone                : "Europe/Rome"    #"Europe/Madrid ,see https://jekyllrb
 og_image                : assets/img/robots_fix.png
 og_title                : R4H
 og_description          : Robots for Humans
-twitter_site            : RBCS_CONTACT
+twitter_site            : #RBCS_CONTACT
 author:
-  name                  :  CONTACT - COgNiTive Architectures for Collaborative Technologies
+  name                  :  #CONTACT - COgNiTive Architectures for Collaborative Technologies
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Genoa, Italy"   # New York, USA
   links:

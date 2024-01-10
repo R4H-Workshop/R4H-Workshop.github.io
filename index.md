@@ -68,5 +68,3 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
   -->
 </table>
 ---
-
-<p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>

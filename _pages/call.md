@@ -40,9 +40,9 @@ Topics of interests include but are not limited to:
 
 ## Submission Procedure
 
-
-**Submission format**: (5-6 pages included references)
 <!--
+**Submission format**: (5-6 pages included references)
+
 Please submit your contribution on **[EasyChair](https://easychair.org/conferences/?conf=ground23)**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.
 
 <p style="text-align: justify;">

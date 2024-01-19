@@ -5,8 +5,8 @@ header_type: hero
 header_img: /assets/images/call.jpg
 permalink: /call
 
-og_title: GROUND - CFP
-og_description: advancing GROup UNderstanding and robots' aDaptive behavior
+og_title: R4H - CFP
+og_description: Robots for Humans
 og_type: website
 og_image: assets/img/robots_fix.png
 ---
@@ -33,18 +33,16 @@ Topics of interests include but are not limited to:
 
 
 ### Important Dates
-* Submission Deadline: **TBD**
-* Notification of Acceptance: **TBD**
-* Camera Ready: **TBD**
+* Submission Deadline: **09/04**
+* Notification of Acceptance: **23/04**
+* Camera Ready: **14/05**
 
 
 ## Submission Procedure
 
-TBD.
 
+**Submission format**: (5-6 pages included references)
 <!--
-**Submission format**: (2-4 pages + references)
-
 Please submit your contribution on **[EasyChair](https://easychair.org/conferences/?conf=ground23)**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.
 
 <p style="text-align: justify;">

@@ -2,7 +2,7 @@
 title: Robots for Humans
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: Let humans be the bridge between computers and robots</br> <b>June the 3rd, Arenzano (Genoa) - Italy</b>
+subtitle: Let humans be the bridge between computers and robots</br> <b>June the 3rd or 4th, Arenzano (Genoa) - Italy</b>
 og_title: R4H - Home
 og_description: Robots for Humans
 og_type: website
@@ -17,7 +17,7 @@ The "Robots for Humans" (R4H) workshop bridges the Human-Computer Interaction (H
 </p>
 
 <p style="text-align: justify;">
-For its first edition, R4H workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a>! (AVI). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
+For its first edition, R4H workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a>! (AVI). The workshop will last half-day and will take place the 3rd or 4th of June (TBD). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
 </p>
 
 <p style="text-align: justify;">

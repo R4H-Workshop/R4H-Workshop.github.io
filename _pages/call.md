@@ -33,22 +33,21 @@ Topics of interests include but are not limited to:
 
 
 ### Important Dates
-* Submission Deadline: **09/04**
-* Notification of Acceptance: **23/04**
-* Camera Ready: **14/05**
+* Submission Deadline: **March the 27th**. <!--**09/04**-->
+* Notification of Acceptance: **April the 23rd**.
+* Camera Ready: **May the 10th**. <!--**14/05**-->
+* Registration deadline: **May the 10th**.
 
 
 ## Submission Procedure
 
-<!--
-**Submission format**: (5-6 pages included references)
+**Submission format**: max 6 pages (excluded references).
 
-Please submit your contribution on **[EasyChair](https://easychair.org/conferences/?conf=ground23)**, using the predefined **[LateX](http://ras.papercept.net/conferences/support/tex.php) or [Word](http://ras.papercept.net/conferences/support/word.php) templates**.
+Please submit your contribution on **[EasyChair](https://easychair.org/my/conference?conf=r4h)**, using the predefined **[CEUR template](https://ceur-ws.org/Vol-XXX/CEURART.zip)** (an **[Overleaf](https://www.overleaf.com/read/gwhxnqcghhdt)** page for LaTeX users is also available).
 
 <p style="text-align: justify;">
-The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an <b>oral presentation</b> of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
+The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an <b>oral presentation</b> of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). The accepted papers will be published in the workshop’s proceedings on CEUR Workshop Proceedings (http://ceur-ws.org/), indexed by Scopus. Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
 </p>
--->
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).

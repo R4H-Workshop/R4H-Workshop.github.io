@@ -16,7 +16,7 @@ The R4H combines the Human-Computer Interaction (HCI) community with the Human-R
 </p>
 
 <p style="text-align: justify;">
-We encourage the submission of original contributions, presenting innovative strategies for exploring ... . The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.
+We encourage the submission of original contributions, presenting proposals for theoretical, technical and design ideas that highlight thoughts on empowerment and the new challenges posed by the design of robots. We ask researchers to propose both perspectives: the utopian, which imagines ideal scenarios, and the dystopian, which explores potential challenges, reflecting on the role of artefact design and interaction in shaping these visions. The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.
 </p>
 
 Topics of interests include but are not limited to:

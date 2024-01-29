@@ -8,7 +8,7 @@ permalink: /program
 og_title: R4H - Workshop Program
 og_description: Robots for Humans
 og_type: website
-og_image: assets/images/program.gif
+og_image: assets/images/logo_6.png
 ---
 
 **Date**: **June the 3rd or 4th 2024**

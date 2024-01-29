@@ -10,5 +10,5 @@ index_sort_asc: true
 og_title: GROUND - Accepted Papers
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior
 og_type: website
-og_image: assets/img/robots_fix.png
+og_image: assets/images/logo_6.png
 ---

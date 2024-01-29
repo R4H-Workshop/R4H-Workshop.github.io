@@ -8,7 +8,7 @@ permalink: /organizers
 og_title: R4H - Organizers
 og_description: Robots for Humans
 og_type: website
-og_image: assets/img/robots_fix.png
+og_image: assets/images/logo_6.png
 ---
 
 <section class="light">

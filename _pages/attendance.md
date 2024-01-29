@@ -8,7 +8,7 @@ permalink: /attendance
 og_title: GROUND - Attendance
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior
 og_type: website
-og_image: assets/img/robots_fix.png
+og_image: assets/images/logo_6.png
 ---
 
 ### Let's stay in touch!

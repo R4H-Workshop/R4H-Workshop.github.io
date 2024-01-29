@@ -8,10 +8,10 @@ permalink: /program
 og_title: R4H - Workshop Program
 og_description: Robots for Humans
 og_type: website
-og_image: assets/img/robots_fix.png
+og_image: assets/images/program.gif
 ---
 
-**Date**: **June the 3rd 2024**
+**Date**: **June the 3rd or 4th 2024**
 
 **Location**:  **[17th AVI conference](https://avi2024.dibris.unige.it/), June the 3rd-7th 2024, Arenzano (Genoa), Italy**
 
@@ -72,7 +72,7 @@ The contributions will be presented in the following order:
 				- Assistant Professor (tenure track) at the Human Technology Interaction Group of Eindhoven University of Technology (TU/e, Netherlands)
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"><b>Talk title: TBD.</b> <br> Talk abstract: TBD.</div>
+                <div class="postcard__preview-txt"><b>Talk title: TBA.</b> <br> Talk abstract: TBA.</div>
             </div>
         </article>
     </div>

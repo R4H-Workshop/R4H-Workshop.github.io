@@ -8,7 +8,7 @@ permalink: /call
 og_title: R4H - CFP
 og_description: Robots for Humans
 og_type: website
-og_image: assets/img/robots_fix.png
+og_image: /assets/images/call.jpg
 ---
 
 <p style="text-align: justify;">

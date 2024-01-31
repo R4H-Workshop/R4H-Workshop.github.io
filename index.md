@@ -6,7 +6,7 @@ subtitle: Let humans be the bridge between computers and robots!</br> <b>June th
 og_title: R4H - Home
 og_description: Robots for Humans
 og_type: website
-og_image: /assets/images/logo_6.png
+og_image: /assets/images/logo_6_white.png
 
 ---
 

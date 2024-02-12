@@ -35,7 +35,7 @@ Topics of interests include but are not limited to:
 ### Important Dates
 * Submission Deadline: **March the 27th**. <!--**09/04**-->
 * Notification of Acceptance: **April the 23rd**.
-* Camera Ready: **May the 10th**. <!--**14/05**-->
+* Camera Ready: **May the 3rd**. <!--**14/05**-->
 * Registration deadline: **May the 10th**.
 
 

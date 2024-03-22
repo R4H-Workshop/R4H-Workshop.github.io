@@ -20,6 +20,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Francesca Cocchella</h1>
                 <div class="postcard__subtitle small">Ph.D. Student @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <div class="postcard__subtitle small"><francesca.cocchella@iit.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Francesca (she/her) is a Social Psychologist Ph.D. Student at the Italian Institute of Technology (IIT) in the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit in the Cognitive Robotics, Interaction and Rehabilitation Technologies. Her main research interests include the social cognition of humanoid robots, the study of trust in robots, and group interactions. Since 2021 she has collaborated with the Laboratory of Social and Language Psychology as a research trainee at the University of Genoa, in which she researches about cognitive anthropomorphism of humanoid robots.</div>
             </div>
@@ -31,6 +32,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Omar Eldardeer</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <div class="postcard__subtitle small"><omar.eldardeer@iit.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Omar Eldardeer is a Post-Doc at the Italian Institute of Technology. His research interests lie in robot perception and learning, focusing on audio-visual biologically inspired models. Omar earned his M.Sc. in Artificial Intelligence and Robotics from the University of Essex, UK. Subsequently, he obtained his Ph.D. From the University of Genova and the Italian Institute of Technology. His doctoral research centred on multimodal cognitive architectures for Human-Robot shared Perception. Following his Ph.D. Omar contributed to the EU project VOJEXT.</div>
             </div>
@@ -42,6 +44,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Manca</h1>
                 <div class="postcard__subtitle small">Researcher @ Human Interface in Information Systems (HIIS) lab, Institute of Information Science and Technologies "Alessandro Faedo" (ISTI) - National Research Council of Italy (CNR)</div>
+                <div class="postcard__subtitle small"><marco.manca@isti.cnr.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Marco Manca (he/him) is a National Research Council (CNR) researcher. His research interests lie within Human-Computer Interaction (HCI), specifically focusing on Human-Robot Interaction (HRI), End-User Development, accessibility, and usability of user interfaces. In Human-Robot Interaction, he has dedicated his efforts to studying the interaction between individuals with Mild Cognitive Impairment (MCI) and Humanoid Robots. He holds the role of Late Breaking Work co-chair for EICS 2024 and served as Poster/Demo co-chair for the IUI 2020 conference and Demo co-chair for the MUM 2019 conference. </div>
             </div>
@@ -53,6 +56,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <div class="postcard__subtitle small"><marco.matarese@iit.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Marco Matarese (he/him) is a post-doctoral researcher at the Italian Institute of Technology. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II. He subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. During his PhD, he collaborated with Paderborn and Bielefeld Universities in the TRR 318 “Constructing Explainability” project.</div>
             </div>
@@ -64,6 +68,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Andrea Rezzani</h1>
                 <div class="postcard__subtitle small">Ph.D. Student @ Free University of Bolzano</div>
+                <div class="postcard__subtitle small"><andrea.rezzani@student.unibz.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Andrea Rezzani (she/her) is a cognitive psychologist and PhD student at the Free University of Bozen/Bolzano. Her supervisors are Prof. De Angeli, Free University of Bozen/Bolzano, Dr. Menéndez-Blanco, Free University of Bozen/Bolzano, and Prof. Bushman, The Ohio State University. Her research project aims to investigate robot abuse when users engage in aggressive behaviours against robots, focusing on understanding the role of robots’ design. Andrea has been part of the Organising Committee of the  14th Edition of the Biannual Conference CHItaly’21 as Local Chair.</div>
             </div>
@@ -75,6 +80,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Eleonora Zedda</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ Human Interface in Information Systems (HIIS) lab, Institute of Information Science and Technologies "Alessandro Faedo" (ISTI) -  National Research Council of Italy (CNR)</div>
+                <div class="postcard__subtitle small"><eleonora.zedda@isti.cnr.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Eleonora Zedda (she/her) is a National Research Council (CNR) post-doctoral researcher. Her research revolves around human-robot interaction (HRI), specifically focusing on social robotics. Her primary research focuses on connecting users and robots by developing robot personalities and adapting robot behaviours to meet users' needs. Her approach aims to make human-robot interaction more intuitive and enjoyable for users by designing robots' behaviour that can understand and adapt to users' states. </div>
             </div>

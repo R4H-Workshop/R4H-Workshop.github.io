@@ -5,14 +5,14 @@ header_type: hero
 header_img: /assets/images/call.jpg
 permalink: /call
 
-og_title: R4H - CFP
+og_title: RfH - CFP
 og_description: Robots for Humans
 og_type: website
 og_image: assets/images/logo_6.png
 ---
 
 <p style="text-align: justify;">
-The R4H combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach.
+The RfH combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach.
 </p>
 
 <p style="text-align: justify;">

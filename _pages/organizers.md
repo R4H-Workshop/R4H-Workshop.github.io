@@ -56,9 +56,10 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <div class="postcard__subtitle small">Research fellow (assegnista) @ Brain lab - University of Naples Parthenope</div>
                 <div class="postcard__subtitle small"><marco.matarese@iit.it></div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Marco Matarese (he/him) is a post-doctoral researcher at the Italian Institute of Technology. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II. He subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. During his PhD, he collaborated with Paderborn and Bielefeld Universities in the TRR 318 “Constructing Explainability” project.</div>
+                <div class="postcard__preview-txt">Marco Matarese (he/him) is a post-doctoral researcher at the Italian Institute of Technology and research fellow (assegnista) at the Univeristy of Naples Parthenope. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II. He subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. During his PhD, he collaborated with Paderborn and Bielefeld Universities in the TRR 318 “Constructing Explainability” project.</div>
             </div>
         </article>
         <article class="postcard light blue">

@@ -11,11 +11,11 @@ og_type: website
 og_image: assets/images/logo_6.png
 ---
 
-**Date**: **June the 3rd or 4th 2024** (half-day)
+**Date**: **June the 3rd 2024** (half-day)
 
 **Location**:  **[17th AVI conference](https://avi2024.dibris.unige.it/), June the 3rd-7th 2024, Arenzano (Genoa), Italy**
 
-**Time**: The workshop will start at **TBD**
+**Time**: The workshop will start at **9:00**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 

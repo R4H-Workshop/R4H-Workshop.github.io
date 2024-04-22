@@ -5,7 +5,7 @@ header_type: hero
 header_img: assets/images/program.gif
 permalink: /program
 
-og_title: R4H - Workshop Program
+og_title: RfH - Workshop Program
 og_description: Robots for Humans
 og_type: website
 og_image: assets/images/logo_6.png

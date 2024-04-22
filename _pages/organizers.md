@@ -5,7 +5,7 @@ header_type: hero
 header_img: assets/images/workshop.jpg
 permalink: /organizers
 
-og_title: R4H - Organizers
+og_title: RfH - Organizers
 og_description: Robots for Humans
 og_type: website
 og_image: assets/images/logo_6.png

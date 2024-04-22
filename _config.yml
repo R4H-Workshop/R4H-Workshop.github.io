@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  : en-US
-title                   : R4H
+title                   : RfH
 title_separator         : |
 subtitle                : "Robots for Humans"    #default [your-repository-tagline]
 description             : "Robots for Humans" #default [your-repository-tagline]
@@ -19,7 +19,7 @@ timezone                : "Europe/Rome"    #"Europe/Madrid ,see https://jekyllrb
 
 # SEO
 og_image                : assets/images/logo_6.png
-og_title                : R4H
+og_title                : RfH
 og_description          : Robots for Humans
 twitter_site            : #RBCS_CONTACT
 author:
@@ -97,7 +97,7 @@ navbar:
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
     title   :  # Title in navbar
-    img     :  assets/images/logo_4.png
+    img     :  assets/images/logo_6_white.png
   nav:
   - title : Call for Papers
     url   : /call

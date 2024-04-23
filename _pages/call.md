@@ -35,9 +35,11 @@ Topics of interests include but are not limited to:
 ### Important Dates
 * Submission Deadline: **April the 10th**. <!--**09/04**-->
 * Notification of Acceptance: **April the 23rd**.
-* Camera Ready: **May the 10th**. <!--**14/05**-->
-* Registration deadline: **May the 20th**.
+* Camera Ready: **May the 27th**. <!--**14/05**-->
 
+
+## Registration
+* Don't forget to register before the conference **[registration link](https://avi2024.dibris.unige.it/conference/registration)**.
 
 ## Submission Procedure
 

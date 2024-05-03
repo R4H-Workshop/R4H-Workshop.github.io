@@ -23,13 +23,13 @@ og_image: assets/images/logo_6.png
 
 | **Activity**                             | **Starting Time**  |
 |------------------------------------------|--------------------------------|
-| Opening session                          | TBD                            |
-| Keynote by **Dr Giulia Perugia** + Q&A   | TBD                            |
-| Paper presentation session               | TBD                            |
-| Coffee break                             | TBD                            |
-| Focus groups                             | TBD                            |
-| Round Table                              | TBD                            |
-| Closing remarks                          | TBD                            |
+| Opening session                          | 09:15 - 09:30                  |
+| Keynote by **Dr Giulia Perugia** + Q&A   | 09:30 - 10:15                  |
+| Paper presentation session               | 10:15 - 11:00                  |
+| Coffee break                             | 11:00 - 11:30                  |
+| Paper presentation session               | 11:30 - 12:00                  |
+| Round Table                              | 12:00 - 12:45                  |
+| Closing remarks                          | 12:45 - 13:00                  |
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
 

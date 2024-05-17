@@ -23,8 +23,8 @@ og_image: assets/images/logo_6.png
 
 | **Activity**                             | **Starting Time**  |
 |------------------------------------------|--------------------------------|
-| Opening session                          | 09:15 - 09:30                  |
-| Keynote by **Dr Giulia Perugia** + Q&A   | 09:30 - 10:15                  |
+| Opening session                          | 09:00 - 09:30                  |
+| Keynote by **Dr Giulia Perugia** + Q&A   | 09:30 - 10:10                  |
 | Paper presentation session               | 10:15 - 11:00                  |
 | Coffee break                             | 11:00 - 11:30                  |
 | Paper presentation session               | 11:30 - 12:00                  |

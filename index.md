@@ -17,7 +17,7 @@ The "Robots for Humans" (RfH) workshop bridges the Human-Computer Interaction (H
 </p>
 
 <p style="text-align: justify;">
-For its first edition, RfH workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a> (AVI) as a half-day workshop. The workshop will last half-day and will take place the 3rd or 4th of June (TBD). Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
+For its first edition, RfH workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a> (AVI) as a half-day workshop. The workshop will last half-day and will take place the 3rd of June. Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
 </p>
 
 <p style="text-align: justify;">

@@ -35,31 +35,31 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
  ---
 
-## 1st Paper Presentation Session
+## 1st Paper Presentation Session - Interactive Robots
 
 Authors will have **5 minutes** to showcase their contribution live, followed by **3 minutes** for Questions & Answers.
 
 The contributions will be presented in the following order:
 
-1. **How do Lonely, Young Adults Perceive Interactive Technologies With Varying Human-Likeness? An Experimental Lab Study**. Aike Horstmann and Jacqueline Boußard
+* **How do Lonely, Young Adults Perceive Interactive Technologies With Varying Human-Likeness? An Experimental Lab Study** Aike Horstmann and Jacqueline Boußard
 
-2. **How to use a cognitive architecture for a dynamic person model with a social robot in human collaboration** Thomas Sievers and Nele Russwinkel
+* **How to use a cognitive architecture for a dynamic person model with a social robot in human collaboration** Thomas Sievers and Nele Russwinkel
 
-3. **Personalising Humanoid Robot Behaviour Through Natural Language** Simone Gallo, Giacomo Vaiani and Fabio Paternò
+* **Personalising Humanoid Robot Behaviour Through Natural Language** Simone Gallo, Giacomo Vaiani and Fabio Paternò
 
-4. **Interviewing stakeholders on the teleoperation of last-mile delivery robots** Einat Grimberg, Avishag Boker and Joel Lanir
+* **Interviewing stakeholders on the teleoperation of last-mile delivery robots** Einat Grimberg, Avishag Boker and Joel Lanir
 
-5. **Investigating the relationship between empathy and attribution of mental states to robots** Alberto Lillo, Alessandro Saracco, Elena Siletto, Claudio Mattutino and Cristina Gena
+* **Investigating the relationship between empathy and attribution of mental states to robots** Alberto Lillo, Alessandro Saracco, Elena Siletto, Claudio Mattutino and Cristina Gena
 
-## 2nd Paper Presentation Session
+## 2nd Paper Presentation Session - Robots for Training
 
-6. **A Proposal for Adapting Robot Behaviours Using Fuzzy Q-learning in Cognitive Serious Game Scenarios** Eleonora Zedda and Fabio Paternò
+* **A Proposal for Adapting Robot Behaviours Using Fuzzy Q-learning in Cognitive Serious Game Scenarios** Eleonora Zedda and Fabio Paternò
 
-7. **Enhancing Cognitive Training: Investigating the Impact of a Suggestion-Offering Robot on Performance and Satisfaction** Flavio Ruggiero, Marco Matarese, Alessandra Sciutti and Mariacarla Staffa
+* **Enhancing Cognitive Training: Investigating the Impact of a Suggestion-Offering Robot on Performance and Satisfaction** Flavio Ruggiero, Marco Matarese, Alessandra Sciutti and Mariacarla Staffa
 
-8. **Investigating the Role of Immersive Technologies in Visual Rehabilitators Training** Mattia Barbieri, Silvio Sabatini and Giulio Sandini
+* **Investigating the Role of Immersive Technologies in Visual Rehabilitators Training** Mattia Barbieri, Silvio Sabatini and Giulio Sandini
 
-9. **Train the Brain with SERENI** Benedetta Catricalà, Marco Manca, Fabio Paterno, Carmen Santoro and Eleonora Zedda
+* **Train the Brain with SERENI** Benedetta Catricalà, Marco Manca, Fabio Paterno, Carmen Santoro and Eleonora Zedda
 
 ---
 

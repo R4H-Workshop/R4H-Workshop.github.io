@@ -25,7 +25,7 @@ og_image: assets/images/logo_6.png
 |------------------------------------------|--------------------------------|
 | Opening session                          | 09:00 - 09:30                  |
 | Keynote by **Dr Giulia Perugia** + Q&A   | 09:30 - 10:10                  |
-| Paper presentation session               | 10:15 - 11:00                  |
+| Paper presentation session               | 10:10 - 11:00                  |
 | Coffee break                             | 11:00 - 11:30                  |
 | Paper presentation session               | 11:30 - 12:00                  |
 | Round Table                              | 12:00 - 12:45                  |
@@ -35,26 +35,31 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
  ---
 
-## Paper Presentation Session
-
-TBD.
-
-<!-- 
+## 1st Paper Presentation Session
 
 Authors will have **5 minutes** to showcase their contribution live, followed by **3 minutes** for Questions & Answers.
 
 The contributions will be presented in the following order:
-1. [**Towards the use of a social mediator robot in a school setting**](/ground-workshop/cooper), *Sara Cooper and Randy Gomez*
-   
-2. [**Group Storytelling in Learning Activities Using ChatGPT for Story Generation**](/ground-workshop/rusu), *Anne-Marie Rusu and Daniel Carnieto Tozadore*
-   
-3. [**Detecting agreement in multi-party dialogue - evaluating speaker diarisation versus a procedural baseline to enhance user engagement.**](/ground-workshop/addlesee), *Angus Addlesee, Daniel Denley, Andy Edmondson, Nancie Gunson, Daniel Hernandez Garcia, Alexandre Kha, Oliver Lemon, James Ndubuisi, Neil O'Reilly, Lia Perochaud, Raphaël Valeri, Miebaka Worika*
-   
-4. [**Detecting Agreement in Multi-party Conversational AI**](/ground-workshop/schauer), *Laura Schauer, Jason Sweeney, Charlie Lyttle, Zein Said, Aron Szeles, Cale Clark, Nancie Gunson, Katie McAskill, Xander Wickham, Tom	Byas, Daniel Hernandez Garcia, Angus Addlesee, Oliver Lemon*
-   
-5. [**Asch Meets HRI - Human Conformity to Robot Groups**](/ground-workshop/bernotat), *Jasmin Bernotat, Doreen Jirak, Eduardo Benitez Sandoval, Francisco Cruz* 
 
--->
+1. **How do Lonely, Young Adults Perceive Interactive Technologies With Varying Human-Likeness? An Experimental Lab Study**. Aike Horstmann and Jacqueline Boußard
+
+2. **How to use a cognitive architecture for a dynamic person model with a social robot in human collaboration** Thomas Sievers and Nele Russwinkel
+
+3. **Personalising Humanoid Robot Behaviour Through Natural Language** Simone Gallo, Giacomo Vaiani and Fabio Paternò
+
+4. **Interviewing stakeholders on the teleoperation of last-mile delivery robots** Einat Grimberg, Avishag Boker and Joel Lanir
+
+5. **Investigating the relationship between empathy and attribution of mental states to robots** Alberto Lillo, Alessandro Saracco, Elena Siletto, Claudio Mattutino and Cristina Gena
+
+## 2nd Paper Presentation Session
+
+6. **A Proposal for Adapting Robot Behaviours Using Fuzzy Q-learning in Cognitive Serious Game Scenarios** Eleonora Zedda and Fabio Paternò
+
+7. **Enhancing Cognitive Training: Investigating the Impact of a Suggestion-Offering Robot on Performance and Satisfaction** Flavio Ruggiero, Marco Matarese, Alessandra Sciutti and Mariacarla Staffa
+
+8. **Investigating the Role of Immersive Technologies in Visual Rehabilitators Training** Mattia Barbieri, Silvio Sabatini and Giulio Sandini
+
+9. **Train the Brain with SERENI** Benedetta Catricalà, Marco Manca, Fabio Paterno, Carmen Santoro and Eleonora Zedda
 
 ---
 

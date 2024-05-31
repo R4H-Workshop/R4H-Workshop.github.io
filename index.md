@@ -51,7 +51,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 <table>
   <tr>
-    <td> <img  src="assets/images/vojext.png" alt="vojext" width="300"/> </td>
+    <td> <img  src="assets/images/vojext.png" alt="vojext" width="500"/> </td>
   </tr>
 
 </table>

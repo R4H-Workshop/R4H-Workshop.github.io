@@ -46,6 +46,18 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
+### The Workshop is Supported by VOJEXT EU Project
+
+
+<table>
+  <tr>
+    <td> <img  src="assets/images/VOJEXT.png" alt="vojext" width="300"/> </td>
+  </tr>
+
+</table>
+
+---
+
 ### Organizers are affiliated by
 
 <table>

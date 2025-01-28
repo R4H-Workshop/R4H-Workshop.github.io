@@ -46,12 +46,13 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
-### The Workshop is Supported by VOJEXT EU Project
+### The Workshop is Supported by VOJEXT EU Project and CEUR proceedings 
 
 
 <table>
   <tr>
     <td> <img  src="assets/images/vojext.png" alt="vojext" width="500"/> </td>
+    <td> <img  src="assets/images/ceur.png" alt="ceur" width="500"/> </td>
   </tr>
 
 </table>

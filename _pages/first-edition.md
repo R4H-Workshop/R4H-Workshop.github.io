@@ -14,8 +14,8 @@ og_image: /assets/images/logo_6_white.png
 ## Highlights of the First Edition
 
 ![words](assets/images/AVI24/words.jpg)
-![insights](assets/images/AVI24/words.jpg)
-![background](assets/images/AVI24/words.jpg)
+![insights](assets/images/AVI24/background.jpg)
+![background](assets/images/AVI24/insights.jpg)
 
 ---
 

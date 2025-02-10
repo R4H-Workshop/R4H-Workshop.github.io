@@ -17,6 +17,22 @@ og_image: /assets/images/logo_6_white.png
 ![insights](assets/images/AVI24/background.jpg)
 ![background](assets/images/AVI24/insights.jpg)
 
+<table>
+  <tr style="height: 100%;">
+    <td style="vertical-align: middle;"> <img  src="assets/images/AVI24/insights.jpg" alt="ceur"  width="500"/> </td>
+    <td style="vertical-align: middle;"> <img  src="assets/images/AVI24/words.jpg" alt="ceur" width="500"/> </td>
+  </tr>
+
+</table>
+
+<table>
+  <tr style="height: 100%;">
+    <td style="vertical-align: middle; horizontal-align: middle;"> <img  src="assets/images/AVI24/background.jpg" alt="ceur" width="750"/> </td>
+  </tr>
+
+</table>
+
+
 ---
 
 ## Program

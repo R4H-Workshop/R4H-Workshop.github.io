@@ -205,6 +205,12 @@ defaults:
         - label: Cheatsheets
           url: /cheatsheets
 
+  -
+    scope:
+      path: "assets/images/AVI24/Gallary"
+    values:
+      image_col: avi_gallary
+
 
 # XX. Other settings - no need to modify
 # HTML Compression

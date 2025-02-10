@@ -13,6 +13,10 @@ og_image: /assets/images/logo_6_white.png
 ---
 ## Highlights of the First Edition
 
+![words](assets/images/AVI24/words.jpg)
+![insights](assets/images/AVI24/words.jpg)
+![background](assets/images/AVI24/words.jpg)
+
 ---
 
 ## Program
@@ -27,9 +31,6 @@ og_image: /assets/images/logo_6_white.png
 | Round Table                              | 12:00 - 12:45                  |
 | Closing remarks                          | 12:45 - 13:00                  |
 
-For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
-
- ---
 
 ---
 
@@ -56,7 +57,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 ---
 ## Presented Papers
 
-All the accepted papers in this list has been publised on CEUR workshop proceedings -> link  https://ceur-ws.org/Vol-3794/
+All the accepted papers in this list has been publised on CEUR workshop proceedings -> [Link to the proceedings](https://ceur-ws.org/Vol-3794/)  
 
 * **How do Lonely, Young Adults Perceive Interactive Technologies With Varying Human-Likeness? An Experimental Lab Study**. Aike Horstmann and Jacqueline Boußard
 
@@ -160,3 +161,20 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
 </section>
 
 --- 
+## Gallary
+
+
+---
+
+
+### The 1st Edition of the Workshop was Supported by VOJEXT EU Project and CEUR proceedings 
+
+
+<table>
+  <tr style="height: 100%;">
+    <td> <img  src="assets/images/vojext.png" alt="vojext" width="500"/> </td>
+    <td style="vertical-align: middle;"> <img  src="assets/images/ceur.png" alt="ceur" width="500"/> </td>
+  </tr>
+
+</table>
+---

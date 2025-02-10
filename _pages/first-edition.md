@@ -13,21 +13,17 @@ og_image: /assets/images/logo_6_white.png
 ---
 ## Highlights of the First Edition
 
-![words](assets/images/AVI24/words.jpg)
-![insights](assets/images/AVI24/background.jpg)
-![background](assets/images/AVI24/insights.jpg)
-
 <table>
   <tr style="height: 100%;">
     <td style="vertical-align: middle;"> <img  src="assets/images/AVI24/insights.png" alt="ceur"  width="700"/> </td>
-    <td style="vertical-align: middle;"> <img  src="assets/images/AVI24/words.png" alt="ceur" width="700"/> </td>
+    <td> <img  src="assets/images/AVI24/words.png" alt="ceur" width="700"/> </td>
   </tr>
 
 </table>
 
 <table>
-  <tr style="height: 100%;">
-    <td style="vertical-align: middle; horizontal-align: middle;"> <img  src="assets/images/AVI24/background.png" alt="ceur" width="750"/> </td>
+  <tr style="height: 100%; horizontal-align: middle;">
+    <td style="vertical-align: middle; horizontal-align: middle;"> <img  src="assets/images/AVI24/background.png" alt="ceur" width="600"/> </td>
   </tr>
 
 </table>

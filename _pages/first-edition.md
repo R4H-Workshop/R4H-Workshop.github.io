@@ -163,7 +163,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
 --- 
 ## Gallary
 
-{% include_cached snippets/memory.html internal="avi_gallary" %}
+{% include_cached snippets/masonry.html internal="avi_gallary" %}
 
 ---
 

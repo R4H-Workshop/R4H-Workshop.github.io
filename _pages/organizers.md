@@ -11,7 +11,7 @@ og_type: website
 og_image: assets/images/logo_6.png
 
 ---
-## Main Organizer
+## Main Organizers
 
 <section class="light">
     <div class="container py-2">

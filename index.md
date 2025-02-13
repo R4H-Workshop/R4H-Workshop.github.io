@@ -2,7 +2,7 @@
 title: Robots for Humans
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: Let humans be the bridge between computers and robots!</br> <b>June the 3rd (9:00 am - 1:00 pm), Arenzano (Genoa) - Italy</b>
+subtitle: Design and Applications for Empowerment!</br> <b> UNDER REVIEW to be held in RO-MAN 2025 August 25-29, 2025 / Eindhoven, The Netherlands </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website
@@ -13,28 +13,25 @@ og_image: /assets/images/logo_6_white.png
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-The "Robots for Humans" (RfH) workshop bridges the Human-Computer Interaction (HCI) and Human-Robot Interaction (HRI) communities. Emphasizing commonalities and differences, the workshop encourages methodological exchange and explores human-centric design in robotics and computing. Addressing empowerment in robot applications, the workshop seeks theoretical, technical, and design solutions, examining utopian and dystopian perspectives. It invites HRI researchers to tackle challenges, foster inclusivity, and reflect on shaping human-robot interaction visions. Join us to explore the dynamic relationship, strengths, and weaknesses between humans and robots, aiming for thoughtful HRI advancements.
+In recent years, understanding how robots can be applied to empower different areas of society has become a key aspect of Human-Robot Interaction (HRI). The concept of human empowerment applied to HRI refers to enhancing human capabilities, autonomy, and control through robots that act as supportive tools rather than replacements. This concept is particularly relevant in areas such as accessibility, learning, decision support, and user involvement in designing and customising robots. From this perspective, robots are no longer just technological artefacts but enablers that help individuals, groups, and industries overcome barriers and expand their capabilities. The workshop “Robots for Humans” (RfH) aims to bridge applicative and design perspectives on the challenges of integrating robots into society to pursue people’s empowerment. The aim is to establish research and design practices that identify where robots represent a pragmatic need, as well as what design practices can effectively achieve this goal.  
 </p>
 
 <p style="text-align: justify;">
-For its first edition, RfH workshop will be help in conjunction with the <a href="https://avi2024.dibris.unige.it/"><b>17th International Conference on Advanced Visual Interfaces</b></a> (AVI) as a half-day workshop. The workshop will last half-day and will take place the 3rd of June. Join us in Arenzano (Genoa) to explore the intricate bond between humans and robots for thoughtful HRI advancements!
+More to come about it soon !
 </p>
 
-<p style="text-align: justify;">
-The RfH combines the Human-Computer Interaction (HCI) community with the Human-Robot Interaction (HRI) one. With this workshop, we want to bring together these communities by highlighting the commonalities of the two, stressing their differences, and encouraging the contamination of their methods and results. We aim to do so by recognising that human beings can be the bridge between these two communities and the main objective for a human-centred design approach.
-</p>
 
 Topics of interests include but are not limited to:
-* HCI theories and methods and novel approaches applied to HRI, Cognitive Architectures for HRI.
-* Concept papers on the role of technology and robots in empowering or challenging human well-being.
-* Empirical studies for human empowerment with technology (e.g., SAR, Health care, educational context).
-* Participatory design approaches for HRI applications (e.g., user-centred design for computer and robotic applications, human-centred, and interaction-based design)
-* Research methods and challenges for different contexts (e.g., assistive and education) in the HRI field.
-* Interaction with virtual or physical embodied agents, human factors and human-in-the-loop in HRI, group dynamics in HRI.
-* Design relationship between humans and robots (multi-modal communication, robot personalities, gender robotics, empathy).
-* Diversity, power dynamics, gender, racism, social stereotypes and vulnerable targets of users in HRI.
-* Trust, acceptance and explainability in HRI; personalisation and end-user development of robot applications.
-* Ethical issues (e.g. privacy, misuse and abusive interactions), social risks and fairness in HRI.
+* Design principles for empowerment and inclusion
+* Studies in healthcare, education, and public sectors; 
+* Studies on creativity and storytelling applied to HRI; 
+* Robot application for autism, cognitive impairment, and other conditions; 
+* People’s autonomy vs. dependency; 
+* Involvement of stakeholders’ perspective in design and implementation; 
+* AI and LLM application to empower users; 
+* Adaptive technology for marginalised groups; 
+* Design of verbal and non-verbal behaviours; 
+* Transparency and sustainability on HRI. 
 
 ---
 
@@ -44,18 +41,6 @@ Topics of interests include but are not limited to:
 The workshop organizers are committed to creating an inclusive, diverse, and equitable environment for all attendees. We recognize and value the diversity of our attendees and understand that people have different needs and preferences. To accommodate the different time zones of attendees, the workshop will be held in a hybrid format and will be recorded for later viewing. To ensure that all attendees have reliable access to the internet, we will provide technical support and troubleshooting assistance as needed. We encourage attendees from underrepresented groups to submit their work and participate in the workshop. We are committed to creating an equitable and diverse environment, and we are open to suggestions on how to improve the workshop in terms of inclusion and accessibility.
 </p>
 
----
-
-### The Workshop is Supported by VOJEXT EU Project and CEUR proceedings 
-
-
-<table>
-  <tr>
-    <td> <img  src="assets/images/vojext.png" alt="vojext" width="500"/> </td>
-    <td> <img  src="assets/images/ceur.png" alt="ceur" width="500"/> </td>
-  </tr>
-
-</table>
 
 ---
 
@@ -63,21 +48,11 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 <table>
   <tr>
-    <!--
-    <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
-    <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
-    -->
     <td> <img  src="assets/images/logo_contact.png" alt="contact" width="300"/> </td>
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
+    <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="500"/> </td>
   </tr>
-  <!--
-  <tr>
-    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
-    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
-    <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
-  </tr>
-  -->
 </table>
 ---

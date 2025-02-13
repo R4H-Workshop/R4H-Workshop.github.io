@@ -1,8 +1,8 @@
 ---
-title: Robots for Humans
+title: Robots for Humans (2nd Edition)
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: Design and Applications for Empowerment!</br> <b> UNDER REVIEW to be held in RO-MAN 2025 August 25-29, 2025 / Eindhoven, The Netherlands </b>
+subtitle: <b>Design and Applications for Empowerment!</br> <b> UNDER REVIEW to be held in RO-MAN 2025 August 25-29, 2025 / Eindhoven, The Netherlands </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website

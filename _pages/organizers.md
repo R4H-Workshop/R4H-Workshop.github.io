@@ -98,7 +98,7 @@ og_image: assets/images/logo_6.png
         </article>    
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_AR.png" alt="Andrea Rezzani" />
+                <img class="postcard__img" src="assets/images/org_EN.jpeg" alt="Emilyann Nault" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Emilyann Nault</h1>

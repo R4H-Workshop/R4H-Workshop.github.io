@@ -52,7 +52,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
-    <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="500"/> </td>
+    <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="400"/> </td>
   </tr>
 </table>
 ---

@@ -15,7 +15,7 @@ og_image: assets/images/logo_6.png
 
 **Location**:  **Tendancy (UNDER REVIEW) [IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 25th-29th 2025, Eindhoven, The Netherlands**
 
-**Time**: TBD.
+**Time**: **TBD**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
@@ -25,7 +25,7 @@ The program will consist of two sessions: **1. A “Design” session** to explo
 
 The program will follow this structure: 
 
-| **Activity**                                            | **Starting Time**      |
+| **Activity**                                            | **Period**             |
 |---------------------------------------------------------|------------------------|
 | Welcome and opening                                     | 20 min                 |
 | Design Track Keynote speaker **Dr. Katie Winkle**       | 40 min                 |
@@ -45,7 +45,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_KW.png" alt="Dr. Katie Winkle" />
+                <img class="postcard__img" src="assets/images/keynote_KW.jpeg" alt="Dr. Katie Winkle" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Dr. Katie Winkle</h1>
@@ -63,7 +63,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_LR.png" alt="Dr. Laurel Riek" />
+                <img class="postcard__img" src="assets/images/keynote_LR.jpg" alt="Dr. Laurel Riek" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Dr. Laurel Riek</h1>

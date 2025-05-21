@@ -21,7 +21,11 @@ og_image: assets/images/logo_6.png
 
 ## Program
 
-The program will consist of two sessions: **1. Key Notes Session** , **2. Posters and Presentation session**, **3. Creative Desing Activity** and **4. A panel session** 
+The program will consist of: 
+**1. Key Notes Session** , 
+**2. Posters and Presentation session**, 
+**3. Creative Desing Activity** 
+and **4. A panel session** 
 
 The program will follow this structure: 
 

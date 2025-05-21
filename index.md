@@ -2,7 +2,7 @@
 title: Robots for Humans 
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: (2nd Edition)</br> <b>Empowerment Through Co-Creative and Social Robots!</br> <b> RO-MAN 2025 August 25, 2025 / Eindhoven, The Netherlands </b>
+subtitle: (2nd Edition)  <b> Empowerment Through Co-Creative and Social Robots!</br> <b> RO-MAN 2025 August 25, 2025 / Eindhoven, The Netherlands </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website
@@ -42,6 +42,7 @@ Topics of interests include but are not limited to:
 * Robot adaptive application for marginalised groups;
 * Involvement of stakeholders’ perspective in design and implementation.
 * AI and LLM application to empower and co-creation in HRI;
+
 ---
 
 ### Statement of Inclusion, Diversity and Equity

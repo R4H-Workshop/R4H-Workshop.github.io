@@ -127,7 +127,7 @@ og_image: assets/images/logo_6.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_RS.jpeg" alt="Rob Saunders" />
+                <img class="postcard__img" src="assets/images/Org25/org_RS.jpg" alt="Rob Saunders" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Rob Saunders</h1>
@@ -139,7 +139,7 @@ og_image: assets/images/logo_6.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_JB.jpeg" alt="Joffrey Becker" />
+                <img class="postcard__img" src="assets/images/Org25/org_JB.jpg" alt="Joffrey Becker" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Joffrey Becker</h1>

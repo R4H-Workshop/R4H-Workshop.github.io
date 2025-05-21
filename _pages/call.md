@@ -17,16 +17,18 @@ TBD
 
 
 Topics of interests include but are not limited to:
+* The role of (mini-c) creativity in the context of "everyday" HRI
+* The design of human-robot interactions in art settings
+* Social robots for creativity support
+* Designing for human-robot co-creativity
+* The design of robots with (verbal and non-verbal) social capabilities
+* The evaluation of socialness perception in human-robot interactions
+* The study of the relationship between human-likeness and socialness
+* The application of theoretical principles in applied robotics research
 * Design principles for empowerment and inclusion
-* Studies in healthcare, education, and public sectors; 
-* Studies on creativity and storytelling applied to HRI; 
-* Robot application for autism, cognitive impairment, and other conditions; 
-* People’s autonomy vs. dependency; 
-* Involvement of stakeholders’ perspective in design and implementation; 
-* AI and LLM application to empower users; 
-* Adaptive technology for marginalised groups; 
-* Design of verbal and non-verbal behaviours; 
-* Transparency and sustainability on HRI. 
+* Robot adaptive application for marginalised groups;
+* Involvement of stakeholders’ perspective in design and implementation.
+* AI and LLM application to empower and co-creation in HRI;
 
 
 ### Important Dates

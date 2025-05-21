@@ -11,29 +11,35 @@ og_type: website
 og_image: assets/images/logo_6.png
 ---
 
-**Date**: **TBD** 
+**Date**: **25th of August 2025** 
 
-**Location**:  **Tendancy (UNDER REVIEW) [IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 25th-29th 2025, Eindhoven, The Netherlands**
+**Location**:  **[IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 25th 2025, Eindhoven, The Netherlands**
 
-**Time**: **TBD**.
+**Time**: **Full Day Workshop (25th)**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Program
 
-The program will consist of two sessions: **1. A “Design” session** to explore actionable insights for robot design and empowerment and **2. An “Applications” session** to provide practical examples of real-world applications related to empowerment. 
+The program will consist of two sessions: **1. Key Notes Session** , **2. Posters and Presentation session**, **3. Creative Desing Activity** and **4. A panel session** 
 
 The program will follow this structure: 
 
 | **Activity**                                            | **Period**             |
 |---------------------------------------------------------|------------------------|
-| Welcome and opening                                     | 20 min                 |
-| Design Track Keynote speaker **Dr. Katie Winkle**       | 40 min                 |
-| Interaction and discussion                              | 45 min                 |
-| Coffee break                                            | 20 min                 |
-| Applications Track Keynote speaker  **Dr. Laurel Riek** | 40 min                 |
-| Interaction and discussion                              | 45 min                 |
-| Closing remarks                                         | 20 min                 |
+| Welcome and opening                                     | 15 min                 |
+| speaker 1 ** TBD **                                     | 30 min                 |
+| speaker 2 ** TBD **                                     | 30 min                 |
+| speaker 3 ** TBD **                                     | 30 min                 |
+| Coffee break                                            | 15 min                 |
+| Posters - Presentations                                 | 90 min                 |
+| Map and Sketch                                          | 30 min                 |
+| Decide & storyboard                                     | 50 min                 |
+| Coffee break                                            | 15 min                 |
+| Prototype                                               | 45 min                 |
+| Test & Learn                                            | 30 min                 |
+| Panel Session + Q&A                                     | 75 min                 |
+
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
 
@@ -41,7 +47,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
 ## Keynote Speakers
 
-<section class="light">
+<!-- <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -57,9 +63,9 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             </div>
         </article>
     </div>
-</section>
+</section> -->
 
-<section class="light">
+<!-- <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -75,6 +81,6 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             </div>
         </article>
     </div>
-</section>
+</section> -->
 
 ---

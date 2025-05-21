@@ -2,7 +2,7 @@
 title: Robots for Humans 
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: (2nd Edition)</br> <b>Design and Applications for Empowerment!</br> <b> UNDER REVIEW to be held in RO-MAN 2025 August 25-29, 2025 / Eindhoven, The Netherlands </b>
+subtitle: (2nd Edition)</br> <b>Empowerment Through Co-Creative and Social Robots!</br> <b> RO-MAN 2025 August 25, 2025 / Eindhoven, The Netherlands </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website
@@ -13,26 +13,35 @@ og_image: /assets/images/logo_6_white.png
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-In recent years, understanding how robots can be applied to empower different areas of society has become a key aspect of Human-Robot Interaction (HRI). The concept of human empowerment applied to HRI refers to enhancing human capabilities, autonomy, and control through robots that act as supportive tools rather than replacements. This concept is particularly relevant in areas such as accessibility, learning, decision support, and user involvement in designing and customising robots. From this perspective, robots are no longer just technological artefacts but enablers that help individuals, groups, and industries overcome barriers and expand their capabilities. The workshop “Robots for Humans” (RfH) aims to bridge applicative and design perspectives on the challenges of integrating robots into society to pursue people’s empowerment. The aim is to establish research and design practices that identify where robots represent a pragmatic need, as well as what design practices can effectively achieve this goal.  
+The promise of having personal social robots in people’s everyday lives brings a technological, but also sociological, transformation. Researchers need to address complex technical challenges to allow co-robots to autonomously experience people’s environments and interact accordingly. Moreover, different issues have to be addressed as well regarding the role that such co-robots will take on in every aspect of human life. For instance, what makes these machines social? And is their perception as social agents desirable? What dimensions and scales of social life do they cover? Particularly, we are interested in exploring the social robots’ role of empowerment for people.
 </p>
 
 <p style="text-align: justify;">
-More to come about it soon !
+For example, how can social robots empower humans by augmenting rather than replacing human creativity? This hands-on workshop invites participants to explore new concepts in HRI, looking at the role of social robots in creative domains. The full-day program includes expert keynote speakers, participant poster sessions, and a dynamic co-creative design sprint. Together, we’ll explore timely challenges and opportunities, such as the lack of design guidelines for empowerment and the potential of social robots in creative collaboration. Through an interactive co-creative design sprint, we will engage in a structured process of mapping, sketching, storyboarding, (experiential) prototyping, and discussion.
+</p>
+
+<p style="text-align: justify;">
+The workshop offers the opportunity to experiment, connect, and shape the future of HRI to researchers, designers, artists, and developers. Desired outcomes cover social robotics in the direction of designing robots for empowerment and co-creativity, insights into how HRI design choices affect the interaction, socialness, and outcomes on empowerment, and co-creativity. The workshop will conclude with a panel discussion to synthesize findings and discuss general issues related to the role and perception of social robots, working towards guidelines for the design of social robots for creative empowerment.
+</p>
+
+<p style="text-align: justify;">
+The edition of the workshop is jointly organized with other two workshops. 
 </p>
 
 
 Topics of interests include but are not limited to:
+* The role of (mini-c) creativity in the context of "everyday" HRI
+* The design of human-robot interactions in art settings
+* Social robots for creativity support
+* Designing for human-robot co-creativity
+* The design of robots with (verbal and non-verbal) social capabilities
+* The evaluation of socialness perception in human-robot interactions
+* The study of the relationship between human-likeness and socialness
+* The application of theoretical principles in applied robotics research
 * Design principles for empowerment and inclusion
-* Studies in healthcare, education, and public sectors; 
-* Studies on creativity and storytelling applied to HRI; 
-* Robot application for autism, cognitive impairment, and other conditions; 
-* People’s autonomy vs. dependency; 
-* Involvement of stakeholders’ perspective in design and implementation; 
-* AI and LLM application to empower users; 
-* Adaptive technology for marginalised groups; 
-* Design of verbal and non-verbal behaviours; 
-* Transparency and sustainability on HRI. 
-
+* Robot adaptive application for marginalised groups;
+* Involvement of stakeholders’ perspective in design and implementation.
+* AI and LLM application to empower and co-creation in HRI;
 ---
 
 ### Statement of Inclusion, Diversity and Equity

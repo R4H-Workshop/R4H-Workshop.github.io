@@ -17,7 +17,7 @@ og_image: assets/images/logo_6.png
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_EZ.jpg" alt="Eleonora Zedda" />
+                <img class="postcard__img" src="assets/images/Org25/org_EZ.jpg" alt="Eleonora Zedda" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Eleonora Zedda</h1>
@@ -30,6 +30,23 @@ og_image: assets/images/logo_6.png
       </div>
 </section>
 
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_MB.jpg" alt="Marwen Belkaid" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Marwen Belkaid</h1>
+                <div class="postcard__subtitle small">Junior Professor Chair in Neuroscience and Robotics, ETIS Lab</div>
+                <div class="postcard__subtitle small"><marwen.belkaid@ensea.fr></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Marwen Belkaid is a Junior Professor in Neuroscience and Robotics interested in using robots to study human cognition and to take inspiration from the brain to design novel architectures for autonomous social robots. His research particularly focuses on studying and modeling processes related to decision-making, emotion, and social interactions. He obtained his doctorate at the Université de Cergy-Pontoise in France in December 2016. Then, from 2017 to 2022, he was a postdoctoral fellow at Sorbonne Université, in Paris, and then at the Istituto Italiano di Tecnologia in Genoa, Italy. Since September 2022, he holds a Junior Professor Chair in Neuroscience and Robotics at CY Cergy Paris Université where he develops his research at the ETIS Lab. </div>
+            </div>
+        </article>
+      </div>
+</section>
+
 ---
 ## Co-Organizer
 
@@ -37,7 +54,7 @@ og_image: assets/images/logo_6.png
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM1.jpg" alt="Marco Matarese" />
+                <img class="postcard__img" src="assets/images/Org25/org_MM1.jpg" alt="Marco Matarese" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
@@ -50,7 +67,7 @@ og_image: assets/images/logo_6.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM2.jpg" alt="Marco Manca" />
+                <img class="postcard__img" src="assets/images/Org25/org_MM2.jpg" alt="Marco Manca" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Manca</h1>
@@ -62,7 +79,7 @@ og_image: assets/images/logo_6.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_OE.jpg" alt="Omar Eldardeer" />
+                <img class="postcard__img" src="assets/images/Org25/org_OE.jpg" alt="Omar Eldardeer" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Omar Eldardeer</h1>
@@ -72,21 +89,9 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Dr. Omar Eldardeer is a Post-Doc at the Italian Institute of Technology. His research interests lie in robot perception and learning, focusing on audio-visual biologically inspired models. Omar earned his M.Sc. in Artificial Intelligence and Robotics from the University of Essex, UK. Subsequently, he obtained his Ph.D. From the University of Genova and the Italian Institute of Technology. His doctoral research centred on multimodal cognitive architectures for Human-Robot shared Perception. Following his Ph.D. Omar contributed to the EU project VOJEXT.</div>
             </div>
         </article>
-        <article class="postcard light blue">
+                <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_AR.png" alt="Andrea Rezzani" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Andrea Rezzani</h1>
-                <div class="postcard__subtitle small">Ph.D. Student @ Free University of Bolzano</div>
-                <div class="postcard__subtitle small"><andrea.rezzani@student.unibz.it></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Andrea Rezzani (she/her) is a cognitive psychologist and PhD student at the Free University of Bozen/Bolzano. Her supervisors are Prof. De Angeli, Free University of Bozen/Bolzano, Dr. Menéndez-Blanco, Free University of Bozen/Bolzano, and Prof. Bushman, The Ohio State University. Her research project aims to investigate robot abuse when users engage in aggressive behaviours against robots, focusing on understanding the role of robots’ design. Andrea has been part of the Organising Committee of the  14th Edition of the Biannual Conference CHItaly’21 as Local Chair.</div>
-            </div>
-        </article>
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_FC.png" alt="Francesca Cocchella" />
+                <img class="postcard__img" src="assets/images/Org25/org_FC.png" alt="Francesca Cocchella" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Francesca Cocchella</h1>
@@ -98,7 +103,19 @@ og_image: assets/images/logo_6.png
         </article>    
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_EN.jpeg" alt="Emilyann Nault" />
+                <img class="postcard__img" src="assets/images/Org25/org_AR.png" alt="Andrea Rezzani" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Andrea Rezzani</h1>
+                <div class="postcard__subtitle small">Ph.D. Student @ Free University of Bolzano</div>
+                <div class="postcard__subtitle small"><andrea.rezzani@student.unibz.it></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Andrea Rezzani (she/her) is a cognitive psychologist and PhD student at the Free University of Bozen/Bolzano. Her supervisors are Prof. De Angeli, Free University of Bozen/Bolzano, Dr. Menéndez-Blanco, Free University of Bozen/Bolzano, and Prof. Bushman, The Ohio State University. Her research project aims to investigate robot abuse when users engage in aggressive behaviours against robots, focusing on understanding the role of robots’ design. Andrea has been part of the Organising Committee of the  14th Edition of the Biannual Conference CHItaly’21 as Local Chair.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_EN.jpeg" alt="Emilyann Nault" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Emilyann Nault</h1>
@@ -108,6 +125,30 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Emilyann’s research interest lies at the intersection of technology and healthcare, with a strong focus in user-centred design practices and cognitive domains. In her role as a Research Associate at Heriot-Watt University, Emilyann works on the Feather project, which aims to identify urinary tract infections early on through interactions with a robot and monitoring changes to people’s movement patterns. She holds a Ph.D. from the Edinburgh Centre for Robotics, a joint venture between Heriot-Watt University and the University of Edinburgh. Her doctoral research focused on engaging older adults in cognitive activities through socially assistive robots and sensory feedback. She was also Co-Investigator for RULR, a project funded by the EU Horizon 2020 Vitalise initiative, where she collaborated with international clinical experts and patients to enhance rehabilitation engagement for individuals with hemiparesis using brain-computer interfaces and social robots.</div>
             </div>
         </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_RS.jpeg" alt="Rob Saunders" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Rob Saunders</h1>
+                <div class="postcard__subtitle small">Associate Professor in the Leiden Institute for Advanced Computer Science at Leiden University.</div>
+                <div class="postcard__subtitle small"><r.saunders@liacs.leidenuniv.nl></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Rob Saunders is a computer scientist, design researcher, and artist pioneering research into computational modelling of creativity. As Associate Professor in the Leiden Institute of Advanced Computer Science (LIACS) and a founding member of the Association of Computational Creativity, his mission is to advance the science of computational creativity to benefit society. His research explores intrinsic motivation, emergent languages, and physical embodiment in modelling creative individuals and societies. His collaborative robotic art practice with Petra Gemeinboeck provides a platform for knowledge mobilisation by materially engaging audiences in questions of machine creativity. Their artworks have been exhibited internationally, including at Azkuna Zentroa, Bilbao; the International Triennial of New Media Art, Beijing; and the Gallery of Modern Art, Brisbane.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_JB.jpeg" alt="Joffrey Becker" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Joffrey Becker</h1>
+                <div class="postcard__subtitle small">Junior Professor in humanities and social sciences, ENSEA - ETIS.</div>
+                <div class="postcard__subtitle small"><joffrey.becker@ensea.fr></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Joffrey Becker trained in social anthropology at EHESS (M.A, Ph.D) and was a member of the SPEAP programme created by Bruno Latour at Sciences-Po Paris (M.A). Becker's research focuses on robotics and artificial intelligence. His work aims to better understand how intelligent machines question our models on an ontological, interactional and societal level, regardless of their form. He holds a teaching chair at the École nationale supérieure de l'électronique et de ses applications (ENSEA), and his research is conducted at the Équipes Traitement de l'Information et Systèmes (ETIS - UMR CNRS 8051). Joffrey Becker is also a research associate in the Anthropology of Life team at the Laboratoire d'Anthropologie Sociale (UMR 7130) of the Collège de France and a member of the Psyphine interdisciplinary research group. He also works with various research teams from the public and private sectors.</div>
+            </div>
+        </article>>
     </div>
 </section>
 

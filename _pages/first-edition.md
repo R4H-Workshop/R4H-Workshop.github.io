@@ -98,7 +98,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_FC.png" alt="Francesca Cocchella" />
+                <img class="postcard__img" src="assets/images/Org24/org_FC.png" alt="Francesca Cocchella" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Francesca Cocchella</h1>
@@ -110,7 +110,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_OE.jpg" alt="Omar Eldardeer" />
+                <img class="postcard__img" src="assets/images/Org24/org_OE.jpg" alt="Omar Eldardeer" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Omar Eldardeer</h1>
@@ -122,7 +122,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM2.jpg" alt="Marco Manca" />
+                <img class="postcard__img" src="assets/images/Org24/org_MM2.jpg" alt="Marco Manca" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Manca</h1>
@@ -134,7 +134,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_MM1.jpg" alt="Marco Matarese" />
+                <img class="postcard__img" src="assets/images/Org24/org_MM1.jpg" alt="Marco Matarese" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
@@ -147,7 +147,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_AR.png" alt="Andrea Rezzani" />
+                <img class="postcard__img" src="assets/images/Org24/org_AR.png" alt="Andrea Rezzani" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Andrea Rezzani</h1>
@@ -159,7 +159,7 @@ All the accepted papers in this list has been publised on CEUR workshop proceedi
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/org_EZ.jpg" alt="Eleonora Zedda" />
+                <img class="postcard__img" src="assets/images/Org24/org_EZ.jpg" alt="Eleonora Zedda" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Eleonora Zedda</h1>

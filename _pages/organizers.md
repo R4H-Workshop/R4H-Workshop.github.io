@@ -94,6 +94,42 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Dr. Marco Manca (he/him) is a National Research Council (CNR) researcher. His research interests lie within Human-Computer Interaction (HCI), specifically focusing on Human-Robot Interaction (HRI), End-User Development, accessibility, and usability of user interfaces. In Human-Robot Interaction, he has dedicated his efforts to studying the interaction between individuals with Mild Cognitive Impairment (MCI) and Humanoid Robots. He holds the role of Late Breaking Work co-chair for EICS 2024 and served as Poster/Demo co-chair for the IUI 2020 conference and Demo co-chair for the MUM 2019 conference. </div>
             </div>
         </article>
+               <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_SM_1.jpeg" alt="Serena Marchesi" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Serena Marchesi </h1>
+                <div class="postcard__subtitle small">Post-Doc researcher at the Social Cognition in Human-Robot Interaction (S4HRI) group, coordinated by Dr. Agnieszka Wykowska.</div>
+                <div class="postcard__subtitle small"><Serena.Marchesi@iit.it></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Serena obtained her Ph.D. from the University of Manchester, in collaboration with IIT under the supervision of Prof. Angelo Cangelosi and Dr. Agnieszka Wykowska. Moreover, Serena won the   A*STAR Research Attachment Programme (ARAP) research award, which allowed her to spend more than a year at the Agency for Science, Technology and, Research (A*STAR) in Singapore, under the supervision of Dr. Wu Yan. Previously, Serena obtained a second level Post Graduate Master in Clinical Neuroscience at the Catholic University of the Sacred Heart in Milan, under the supervision of Prof. Michela Balconi and a Master Degree in Cognitive Science and Decision-Making Processes at the Universitá Statale in Milan. Serena's research interests focus on the social and moral cognition processes involved in human-human and human-robot interaction, and how individual and cultural differences can affect them.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_JB_1.jpg" alt="Joffrey Becker" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Joffrey Becker</h1>
+                <div class="postcard__subtitle small">Junior Professor in humanities and social sciences, ENSEA - ETIS.</div>
+                <div class="postcard__subtitle small"><joffrey.becker@ensea.fr></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Joffrey Becker trained in social anthropology at EHESS (M.A, Ph.D) and was a member of the SPEAP programme created by Bruno Latour at Sciences-Po Paris (M.A). Becker's research focuses on robotics and artificial intelligence. His work aims to better understand how intelligent machines question our models on an ontological, interactional and societal level, regardless of their form. He holds a teaching chair at the École nationale supérieure de l'électronique et de ses applications (ENSEA), and his research is conducted at the Équipes Traitement de l'Information et Systèmes (ETIS - UMR CNRS 8051). Joffrey Becker is also a research associate in the Anthropology of Life team at the Laboratoire d'Anthropologie Sociale (UMR 7130) of the Collège de France and a member of the Psyphine interdisciplinary research group. He also works with various research teams from the public and private sectors.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_PW.png" alt="Pan Wang" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Pan Wang</h1>
+                <div class="postcard__subtitle small">Assistant Professor at the Faculty of Industrial Design Engineering (IDE) at TU Delft.</div>
+                <div class="postcard__subtitle small"><P.Wang-2@tudelft.nl></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Pan Wang is an Assistant Professor at the Faculty of Industrial Design Engineering (IDE) at TU Delft. Her research is focused on Artificial Intelligence (AI) for design, especially Human-machine (AI) co-creativity. It addresses the intersection of human-computer interaction, brain-computer interface (BCI), creativity, AI design method and AI artworks. By investigating the relationship between human and machine, she developed a human-in-the-loop AI method, which is called symbiotic creativity. This is an interactive system that can communicate with humans throughout the creation process and is facilitated by a range of human-AI interaction tools. Pan received her PhD from the Dyson School of Design Engineering and Data Science Institute from Imperial College London.</div>
+            </div>
+        </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_OE.jpg" alt="Omar Eldardeer" />
@@ -154,42 +190,6 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Rob Saunders is a computer scientist, design researcher, and artist pioneering research into computational modelling of creativity. As Associate Professor in the Leiden Institute of Advanced Computer Science (LIACS) and a founding member of the Association of Computational Creativity, his mission is to advance the science of computational creativity to benefit society. His research explores intrinsic motivation, emergent languages, and physical embodiment in modelling creative individuals and societies. His collaborative robotic art practice with Petra Gemeinboeck provides a platform for knowledge mobilisation by materially engaging audiences in questions of machine creativity. Their artworks have been exhibited internationally, including at Azkuna Zentroa, Bilbao; the International Triennial of New Media Art, Beijing; and the Gallery of Modern Art, Brisbane.</div>
             </div>
         </article>
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_SM.jpeg" alt="Serena Marchesi" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Serena Marchesi </h1>
-                <div class="postcard__subtitle small">Post-Doc researcher at the Social Cognition in Human-Robot Interaction (S4HRI) group, coordinated by Dr. Agnieszka Wykowska.</div>
-                <div class="postcard__subtitle small"><Serena.Marchesi@iit.it></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Serena obtained her Ph.D. from the University of Manchester, in collaboration with IIT under the supervision of Prof. Angelo Cangelosi and Dr. Agnieszka Wykowska. Moreover, Serena won the   A*STAR Research Attachment Programme (ARAP) research award, which allowed her to spend more than a year at the Agency for Science, Technology and, Research (A*STAR) in Singapore, under the supervision of Dr. Wu Yan. Previously, Serena obtained a second level Post Graduate Master in Clinical Neuroscience at the Catholic University of the Sacred Heart in Milan, under the supervision of Prof. Michela Balconi and a Master Degree in Cognitive Science and Decision-Making Processes at the Universitá Statale in Milan. Serena's research interests focus on the social and moral cognition processes involved in human-human and human-robot interaction, and how individual and cultural differences can affect them.</div>
-            </div>
-        </article>
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_JB.jpg" alt="Joffrey Becker" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Joffrey Becker</h1>
-                <div class="postcard__subtitle small">Junior Professor in humanities and social sciences, ENSEA - ETIS.</div>
-                <div class="postcard__subtitle small"><joffrey.becker@ensea.fr></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Joffrey Becker trained in social anthropology at EHESS (M.A, Ph.D) and was a member of the SPEAP programme created by Bruno Latour at Sciences-Po Paris (M.A). Becker's research focuses on robotics and artificial intelligence. His work aims to better understand how intelligent machines question our models on an ontological, interactional and societal level, regardless of their form. He holds a teaching chair at the École nationale supérieure de l'électronique et de ses applications (ENSEA), and his research is conducted at the Équipes Traitement de l'Information et Systèmes (ETIS - UMR CNRS 8051). Joffrey Becker is also a research associate in the Anthropology of Life team at the Laboratoire d'Anthropologie Sociale (UMR 7130) of the Collège de France and a member of the Psyphine interdisciplinary research group. He also works with various research teams from the public and private sectors.</div>
-            </div>
-        </article>>
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_PW.png" alt="Pan Wang" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Pan Wang</h1>
-                <div class="postcard__subtitle small">Assistant Professor at the Faculty of Industrial Design Engineering (IDE) at TU Delft.</div>
-                <div class="postcard__subtitle small"><P.Wang-2@tudelft.nl></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Pan Wang is an Assistant Professor at the Faculty of Industrial Design Engineering (IDE) at TU Delft. Her research is focused on Artificial Intelligence (AI) for design, especially Human-machine (AI) co-creativity. It addresses the intersection of human-computer interaction, brain-computer interface (BCI), creativity, AI design method and AI artworks. By investigating the relationship between human and machine, she developed a human-in-the-loop AI method, which is called symbiotic creativity. This is an interactive system that can communicate with humans throughout the creation process and is facilitated by a range of human-AI interaction tools. Pan received her PhD from the Dyson School of Design Engineering and Data Science Institute from Imperial College London.</div>
-            </div>
-        </article>>
     </div>
 </section>
 

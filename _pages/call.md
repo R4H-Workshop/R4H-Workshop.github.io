@@ -21,8 +21,6 @@ The workshop offers the opportunity to experiment, connect, and shape the future
 
 We invite contributions from researchers and practitioners in HRI, AI, psychology, design, arts, education, healthcare, and other related fields. Topics of interest include (but are not limited to):
 
-</p>
-
 
 * The role of (mini-c) creativity in the context of "everyday" HRI
 * The design of human-robot interactions in art settings
@@ -42,6 +40,8 @@ We particularly welcome interdisciplinary and speculative approaches that challe
 We invite authors to submit an extended abstract (up to 2 pages, excluding references) in IEEE format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion.
 
 Please submit your abstract in PDF format via EasyChair (https://easychair.org/cfp/RfH2025). Accepted abstracts will be presented during the workshop as short talks or posters, depending on the number and type of submissions. We aim to foster a lively, inclusive, and interdisciplinary dialogue.
+
+</p>
 
 
 ### Important Dates

@@ -2,7 +2,7 @@
 title: Robots for Humans 
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: (2nd Edition) 
+subtitle: (2nd Edition)
 <b> Empowerment Through Co-Creative and Social Robots! </b> 
 <b> RO-MAN 2025 August 25, 2025 / Eindhoven, The Netherlands </b>
 og_title: RfH - Home

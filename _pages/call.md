@@ -12,11 +12,18 @@ og_image: assets/images/logo_6.png
 ---
 
 <p style="text-align: justify;">
-TBD
+
+We are pleased to invite abstract submissions for the workshop “Robots for Humans: Empowerment Through Co-Creative and Social Robots”, which will be held in conjunction with the RO-MAN 2025 Conference, in Eindhoven, The Netherlands, on August 29th, 2025.
+
+The workshop aims to explore the intersection of social robotics, creativity, and human empowerment. We focus on how co-creative and social robots can support and enhance human agency, expression, learning, and wellbeing, especially in vulnerable populations and non-standard interaction contexts. As robotics moves beyond task efficiency, we aim to reimagine robots as collaborative partners that enrich human lives through co-creation, empathy, and mutual adaptation.
+
+The workshop offers the opportunity to experiment, connect, and shape the future of HRI to researchers, designers, artists, and developers. Desired outcomes cover social robotics in the direction of designing robots for empowerment and co-creativity, insights into how HRI design choices affect the interaction, socialness, and outcomes on empowerment, and co-creativity. The workshop will conclude with a panel discussion to synthesize findings and discuss general issues related to the role and perception of social robots, working towards guidelines for the design of social robots for creative empowerment.
+
+We invite contributions from researchers and practitioners in HRI, AI, psychology, design, arts, education, healthcare, and other related fields. Topics of interest include (but are not limited to):
+
 </p>
 
 
-Topics of interests include but are not limited to:
 * The role of (mini-c) creativity in the context of "everyday" HRI
 * The design of human-robot interactions in art settings
 * Social robots for creativity support
@@ -30,11 +37,17 @@ Topics of interests include but are not limited to:
 * Involvement of stakeholders’ perspective in design and implementation.
 * AI and LLM application to empower and co-creation in HRI;
 
+We particularly welcome interdisciplinary and speculative approaches that challenge existing paradigms and propose new directions for socially intelligent robotics.
+
+We invite authors to submit an extended abstract (up to 2 pages, excluding references) in IEEE format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion.
+
+Please submit your abstract in PDF format via EasyChair (https://easychair.org/cfp/RfH2025). Accepted abstracts will be presented during the workshop as short talks or posters, depending on the number and type of submissions. We aim to foster a lively, inclusive, and interdisciplinary dialogue.
+
 
 ### Important Dates
-* Submission Deadline: **TBD** early July. <!--**09/04**-->
-* Notification of Acceptance: **TBD** end of July.
-* Camera Ready: **TBD** early August. <!--**14/05**-->
+* Submission Deadline: 21st July. <!--**09/04**-->
+* Notification of Acceptance: 1st August.
+* Camera Ready: 29th August. <!--**14/05**-->
 
 
 <!--

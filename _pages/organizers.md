@@ -65,21 +65,20 @@ og_image: assets/images/logo_6.png
 </section>
 
 ---
-## Co-Organizer
+## Co-Organizers
 
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_MM1.jpg" alt="Marco Matarese" />
+                <img class="postcard__img" src="assets/images/Org25/org_MM1.JPG" alt="Marco Matarese" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
-                <div class="postcard__subtitle small">Research fellow (assegnista) @ Brain lab - University of Naples Parthenope</div>
                 <div class="postcard__subtitle small"><marco.matarese@iit.it></div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Marco Matarese (he/him) is a post-doctoral researcher at the Italian Institute of Technology and research fellow (assegnista) at the Univeristy of Naples Parthenope. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II. He subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. During his PhD, he collaborated with Paderborn and Bielefeld Universities in the TRR 318 “Constructing Explainability” project.</div>
+                <div class="postcard__preview-txt">Marco Matarese (he/him) is a post-doctoral researcher at the Italian Institute of Technology. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II, and subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. He collaborate with several institutions, including Trinity College Dublin, and the Universities of Paderborn, Bielefeld, Bratislava, and Naples "Parthenope".</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -100,7 +99,7 @@ og_image: assets/images/logo_6.png
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Serena Marchesi </h1>
-                <div class="postcard__subtitle small">Post-Doc researcher at the Social Cognition in Human-Robot Interaction (S4HRI) group, coordinated by Dr. Agnieszka Wykowska.</div>
+                <div class="postcard__subtitle small">Post-Doc researcher at the Social Cognition in Human-Robot Interaction (S4HRI) group.</div>
                 <div class="postcard__subtitle small"><Serena.Marchesi@iit.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Serena obtained her Ph.D. from the University of Manchester, in collaboration with IIT under the supervision of Prof. Angelo Cangelosi and Dr. Agnieszka Wykowska. Moreover, Serena won the   A*STAR Research Attachment Programme (ARAP) research award, which allowed her to spend more than a year at the Agency for Science, Technology and, Research (A*STAR) in Singapore, under the supervision of Dr. Wu Yan. Previously, Serena obtained a second level Post Graduate Master in Clinical Neuroscience at the Catholic University of the Sacred Heart in Milan, under the supervision of Prof. Michela Balconi and a Master Degree in Cognitive Science and Decision-Making Processes at the Universitá Statale in Milan. Serena's research interests focus on the social and moral cognition processes involved in human-human and human-robot interaction, and how individual and cultural differences can affect them.</div>
@@ -188,6 +187,18 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__subtitle small"><r.saunders@liacs.leidenuniv.nl></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Rob Saunders is a computer scientist, design researcher, and artist pioneering research into computational modelling of creativity. As Associate Professor in the Leiden Institute of Advanced Computer Science (LIACS) and a founding member of the Association of Computational Creativity, his mission is to advance the science of computational creativity to benefit society. His research explores intrinsic motivation, emergent languages, and physical embodiment in modelling creative individuals and societies. His collaborative robotic art practice with Petra Gemeinboeck provides a platform for knowledge mobilisation by materially engaging audiences in questions of machine creativity. Their artworks have been exhibited internationally, including at Azkuna Zentroa, Bilbao; the International Triennial of New Media Art, Beijing; and the Gallery of Modern Art, Brisbane.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/Org25/org_SBA.jpg" alt="Somaya Ben Allouch" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Somaya Ben Allouch</h1>
+                <div class="postcard__subtitle small">Appointed Professor at the Amsterdam University of Applied Sciences.</div>
+                <div class="postcard__subtitle small"><s.ben.allouch@hva.nl></div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Somaya Ben Allouch leads the Digital Life Research Group at the Applied University of Amsterdam and is a professor of Human-System Interaction for Health and Wellbeing at the University of Amsterdam, the Netherlands. In her research, she focuses on human-robot interaction, human-system interaction. She is involved in multiple national and international research projects and is a fellow of the Netherlands Academy of Engineering.</div>
             </div>
         </article>
     </div>

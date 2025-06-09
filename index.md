@@ -66,9 +66,9 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
   </tr>
   <tr>
     <td> <img  src="assets/images/logo_AUAS.png" alt="auas" width="300"/></td>
-    <td> <img  src="assets/images/logo_etis" alt="etis" width="300"/></td>
-    <td> <img  src="assets/images/logo_LU" alt="lu" width="300"/></td>
-    <td> <img  src="assets/images/logo_TU-Delft" alt="TU_Delft" width="300"/></td>
+    <td> <img  src="assets/images/logo_etis.jpg" alt="etis" width="300"/></td>
+    <td> <img  src="assets/images/logo_LU.png" alt="lu" width="300"/></td>
+    <td> <img  src="assets/images/logo_TU-Delft.png" alt="TU_Delft" width="300"/></td>
   </tr>
 </table>
 ---

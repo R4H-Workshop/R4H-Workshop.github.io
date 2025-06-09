@@ -64,5 +64,11 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
     <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="400"/> </td>
   </tr>
+  <tr>
+    <td> <img  src="assets/images/logo_AUAS.png" alt="auas" width="300"/></td>
+    <td> <img  src="assets/images/logo_etis" alt="etis" width="300"/></td>
+    <td> <img  src="assets/images/logo_LU" alt="lu" width="300"/></td>
+    <td> <img  src="assets/images/logo_TU-Delft" alt="TU_Delft" width="300"/></td>
+  </tr>
 </table>
 ---

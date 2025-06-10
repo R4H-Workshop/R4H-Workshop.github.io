@@ -43,7 +43,13 @@ We particularly welcome interdisciplinary and speculative approaches that challe
 
 We invite authors to submit an extended abstract (up to 2 pages, excluding references) in IEEE format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion.
 
-Please submit your abstract in PDF format via **[EasyChair](https://easychair.org/cfp/RfH2025/)**. Accepted abstracts will be presented during the workshop as short talks or posters, depending on the number and type of submissions. We aim to foster a lively, inclusive, and interdisciplinary dialogue.
+</p>
+
+Please submit your abstract in PDF format via **[EasyChair](https://easychair.org/cfp/RfH2025/)**. 
+
+<p style="text-align: justify;">
+
+Accepted abstracts will be presented during the workshop as short talks or posters, depending on the number and type of submissions. We aim to foster a lively, inclusive, and interdisciplinary dialogue.
 
 </p>
 

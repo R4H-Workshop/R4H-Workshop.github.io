@@ -11,21 +11,21 @@ og_type: website
 og_image: assets/images/logo_6.png
 ---
 
-**Date**: **25th of August 2025** 
+**Date**: **29th of August 2025** 
 
-**Location**:  **[IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 25th 2025, Eindhoven, The Netherlands**
+**Location**:  **[IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 29th 2025, Eindhoven, The Netherlands**
 
-**Time**: **Full Day Workshop (25th)**.
+**Time**: **Full Day Workshop (29th)**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Program
 
 The program will consist of: 
-**1. Key Notes Session** , 
-**2. Posters and Presentation session**, 
-**3. Creative Desing Activity** 
-and **4. A panel session** 
+* ** Key Notes Session**
+* ** Posters and Presentation session**
+* ** Creative Desing Activity** 
+* ** A panel session** 
 
 The program will follow this structure: 
 

@@ -21,19 +21,23 @@ The workshop offers the opportunity to experiment, connect, and shape the future
 
 We invite contributions from researchers and practitioners in HRI, AI, psychology, design, arts, education, healthcare, and other related fields. Topics of interest include (but are not limited to):
 
+</p>
 
-* The role of (mini-c) creativity in the context of "everyday" HRI
-* The design of human-robot interactions in art settings
-* Social robots for creativity support
-* Designing for human-robot co-creativity
-* The design of robots with (verbal and non-verbal) social capabilities
-* The evaluation of socialness perception in human-robot interactions
-* The study of the relationship between human-likeness and socialness
-* The application of theoretical principles in applied robotics research
-* Design principles for empowerment and inclusion
-* Robot adaptive application for marginalised groups;
+
+* The role of (mini-c) creativity in the context of "everyday" HRI.
+* The design of human-robot interactions in art settings.
+* Social robots for creativity support.
+* Designing for human-robot co-creativity.
+* The design of robots with (verbal and non-verbal) social capabilities.
+* The evaluation of socialness perception in human-robot interactions.
+* The study of the relationship between human-likeness and socialness.
+* The application of theoretical principles in applied robotics research.
+* Design principles for empowerment and inclusion.
+* Robot adaptive application for marginalised groups.
 * Involvement of stakeholders’ perspective in design and implementation.
-* AI and LLM application to empower and co-creation in HRI;
+* AI and LLM application to empower and co-creation in HRI.
+
+<p style="text-align: justify;">
 
 We particularly welcome interdisciplinary and speculative approaches that challenge existing paradigms and propose new directions for socially intelligent robotics.
 

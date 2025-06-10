@@ -22,19 +22,19 @@ og_image: assets/images/logo_6.png
 ## Program
 
 The program will consist of: 
-* ** Key Notes Session**
-* ** Posters and Presentation session**
-* ** Creative Desing Activity** 
-* ** A panel session** 
+* **Key Notes Session**
+* **Posters and Presentation session**
+* **Creative Desing Activity** 
+* **A panel session** 
 
 The program will follow this structure: 
 
 | **Activity**                                            | **Period**             |
 |---------------------------------------------------------|------------------------|
 | Welcome and opening                                     | 15 min                 |
-| speaker 1 ** TBD **                                     | 30 min                 |
-| speaker 2 ** TBD **                                     | 30 min                 |
-| speaker 3 ** TBD **                                     | 30 min                 |
+| speaker 1 **TBA**                                     | 30 min                 |
+| speaker 2 **TBA**                                     | 30 min                 |
+| speaker 3 **TBA**                                     | 30 min                 |
 | Coffee break                                            | 15 min                 |
 | Posters - Presentations                                 | 90 min                 |
 | Map and Sketch                                          | 30 min                 |

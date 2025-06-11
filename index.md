@@ -63,6 +63,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
     <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="400"/> </td>
+    <td> <img  src="assets/images/logo_terais.jpg" alt="terais" width="300"/></td>
   </tr>
   <tr>
     <td> <img  src="assets/images/logo_AUAS.png" alt="auas" width="500"/></td>
@@ -70,7 +71,6 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_LU.png" alt="lu" width="300"/></td>
     <td> <img  src="assets/images/logo_TU-Delft.png" alt="TU_Delft" width="300"/></td>
     <td> <img  src="assets/images/logo_s4hri.jpg" alt="S4HRI" width="200"/></td>
-    <td> <img  src="assets/images/logo_terais.jpg" alt="terais" width="300"/></td>
   </tr>
 </table>
 ---

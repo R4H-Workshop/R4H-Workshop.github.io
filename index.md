@@ -58,7 +58,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 <table>
   <tr>
-    <td> <img  src="assets/images/logo_contact.png" alt="contact" width="300"/> </td>
+    <td> <img  src="assets/images/logo_contact.png" alt="contact" width="200"/> </td>
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
@@ -69,7 +69,8 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_etis.jpg" alt="etis" width="300"/></td>
     <td> <img  src="assets/images/logo_LU.png" alt="lu" width="300"/></td>
     <td> <img  src="assets/images/logo_TU-Delft.png" alt="TU_Delft" width="300"/></td>
-    <td> <img  src="assets/images/logo_s4hri.jpg" alt="S4HRI" width="300"/></td>
+    <td> <img  src="assets/images/logo_s4hri.jpg" alt="S4HRI" width="200"/></td>
+    <td> <img  src="assets/images/logo_terais.jpg" alt="terais" width="300"/></td>
   </tr>
 </table>
 ---

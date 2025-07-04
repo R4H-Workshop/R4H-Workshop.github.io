@@ -32,9 +32,9 @@ The program will follow this structure:
 | **Activity**                                            | **Period**             |
 |---------------------------------------------------------|------------------------|
 | Welcome and opening                                     | 15 min                 |
-| speaker 1 **TBA**                                     | 30 min                 |
-| speaker 2 **TBA**                                     | 30 min                 |
-| speaker 3 **TBA**                                     | 30 min                 |
+| speaker 1 Prof. Katie Winkle                            | 30 min                 |
+| speaker 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
+| speaker 3 Prof. Serge Thill                             | 30 min                 |
 | Coffee break                                            | 15 min                 |
 | Posters - Presentations                                 | 90 min                 |
 | Map and Sketch                                          | 30 min                 |
@@ -51,29 +51,67 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
 ## Keynote Speakers
 
-<!-- <section class="light">
+<section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_KW.jpeg" alt="Dr. Katie Winkle" />
+                <img class="postcard__img" src="assets/images/keynote_KW.jpeg" alt="Prof. Katie Winkle" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Dr. Katie Winkle</h1>
+                <h1 class="postcard__title blue">- Prof. Katie Winkle</h1>
                 <div class="postcard__subtitle small">
 				- Assistant professor (biträdande universitetslektor) at the Department of Information Technology at Uppsala University in Sweden.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBD</div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
             </div>
         </article>
     </div>
-</section> -->
+</section>
 
-<!-- <section class="light">
+<section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_LR.jpg" alt="Dr. Laurel Riek" />
+                <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
+                <div class="postcard__subtitle small">
+				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/keynote_ST.png" alt="Prof. Serge Thill" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Prof. Serge Thill</h1>
+                <div class="postcard__subtitle small">
+				- Associate Professor - Artificial Intelligence at the Radboud Universiteit, Netherlands.
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
+            </div>
+        </article>
+    </div>
+</section>
+
+## Panelists
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/panel_LR.jpg" alt="Dr. Laurel Riek" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Dr. Laurel Riek</h1>
@@ -81,10 +119,46 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				- David R. Miller Professor of Computer Science and Engineering at UC San Diego, USA
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBD</div>
+                <div class="postcard__preview-txt"></div>
             </div>
         </article>
     </div>
-</section> -->
+</section>
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/keynote_KW.jpeg" alt="Prof. Milene Cuerreiro Goncalves" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
+                <div class="postcard__subtitle small">
+				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"></div>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/panel_DK.jpg" alt="Dr. Dawid Kasprowicz" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Dr. Dawid Kasprowicz</h1>
+                <div class="postcard__subtitle small">
+				- Reserch Assistant at the Chair for Theory of Science and Technology of the RWTH Aachen University.
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"></div>
+            </div>
+        </article>
+    </div>
+</section>
 
 ---

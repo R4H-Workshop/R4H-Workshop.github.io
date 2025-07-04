@@ -129,7 +129,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_MG.jpeg" alt="Prof. Milene Cuerreiro Goncalves" />
+                <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>

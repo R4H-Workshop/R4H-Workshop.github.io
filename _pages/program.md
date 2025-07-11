@@ -116,7 +116,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Laurel Riek</h1>
                 <div class="postcard__subtitle small">
-				- David R. Miller Professor of Computer Science and Engineering at UC San Diego, USA
+				- David R. Miller Professor of Computer Science and Engineering at UC San Diego, USA.
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Riek directs the Healthcare Robotics Lab, and leads research in human-robot interaction (HRI), assistive technology, embodied AI, and health informatics. Riek's current research projects have applications in acute care, neuro-rehabilitation, and home health. Dr. Riek has received the NSF CAREER Award, AFOSR Young Investigator Award, Qualcomm Research Award, and several best paper awards. Riek leads the ONR MURI HUDDLE project. Dr. Riek's research has been supported by the NSF, AFOSR, ONR, DOE, UCOP, and a number of companies and foundations. Prof. Riek currently serves as HRI Editor for the IEEE Conference on Robotics and Automation (ICRA), on the editorial board of ACM Transactions on Human Robot Interaction (THRI), and previously served as the HRI 2023 General Co-Chair and HRI 2020 Program Co-Chair. </div>
@@ -165,7 +165,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_DK.jpg" alt="Prof. Elizabeth Jochum" />
+                <img class="postcard__img" src="assets/images/panel_EJ.jpg" alt="Prof. Elizabeth Jochum" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Elizabeth Jochum</h1>

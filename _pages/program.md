@@ -21,26 +21,21 @@ og_image: assets/images/logo_6.png
 
 ## Program
 
-The program will consist of: 
-* **Key Notes Session**
-* **Posters and Presentation session**
-* **Creative Desing Activity** 
-* **A panel session** 
+The workshop will be held the 29th of August starting from 8:45 AM, and will follow this structure: 
 
-The program will follow this structure: 
-
-| **Activity**                                            | **Period**             |
+| **Activity**                                            | **Duration**           |
 |---------------------------------------------------------|------------------------|
-| Welcome and opening                                     | 15 min                 |
-| speaker 1 Prof. Katie Winkle                            | 30 min                 |
-| speaker 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
-| speaker 3 Prof. Serge Thill                             | 30 min                 |
+| Welcome and Opening                                     | 15 min                 |
+| Keynote 1 Prof. Katie Winkle                            | 30 min                 |
+| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
+| Keynote 3 Prof. Serge Thill                             | 30 min                 |
 | Coffee break                                            | 15 min                 |
 | Posters - Presentations                                 | 90 min                 |
+| Lunch break                                             | 60 min                 |
 | Map and Sketch                                          | 30 min                 |
 | Decide & storyboard                                     | 50 min                 |
-| Coffee break                                            | 15 min                 |
 | Prototype                                               | 45 min                 |
+| Coffee break                                            | 15 min                 |
 | Test & Learn                                            | 30 min                 |
 | Panel Session + Q&A                                     | 75 min                 |
 

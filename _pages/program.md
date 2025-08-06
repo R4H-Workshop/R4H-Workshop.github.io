@@ -142,24 +142,6 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_DK.jpg" alt="Dr. Dawid Kasprowicz" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Dr. Dawid Kasprowicz</h1>
-                <div class="postcard__subtitle small">
-				- Reserch Assistant at the Chair for Theory of Science and Technology of the RWTH Aachen University.
-				</div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Dawid Kasprowicz is a research assistant at c:o/re where he coordinates the fellow program. From 2005 to 2012 he studied media studies and philosophy at the Ruhr-University in Bochum and at the Université du Littoral Côte d’Opale in Dunkerque. He graduated with a master thesis on Bernard Stieglers concept of psychopower. From 2013 to 2016 he was a PhD student at the Institute for Advanced Studies on Media Cultures of Computer Simulation in Lüneburg. In his dissertation, which was published in 2019 (Nomos), he developed a history of knowledge about the concept of immersion. From 2018 till 2021, he has been a postdoc at the chair for Theory of Science and Technology at the RWTH Aachen University where he was also the Head of the Computer Science Studies Lab (CSS-Lab). In autumn 2021 he was a DAAD-Visiting Scholar in the Department of Philosophy at the University Rouen (Natalie Depraz). In his habilitation he develops a phenomenological approach to the philosophy of computational sciences based on the concept of experience and a theoretical intersection of phenomenology of technology and philosophy of science. His main research fields include theory and history of embodiment, phenomenology, human-robot-Interaction, philosophy of computer simulation.  </div>
-            </div>
-        </article>
-    </div>
-</section>
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/panel_EJ.jpg" alt="Prof. Elizabeth Jochum" />
             </a>
             <div class="postcard__text t-dark">

@@ -15,13 +15,13 @@ og_image: assets/images/logo_6.png
 
 **Location**:  **[IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 29th 2025, Eindhoven, The Netherlands**
 
-**Time**: **Full Day Workshop (29th)**.
+**Time**: **Full Day starting time 8:45 AM**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Program
 
-The workshop will be held the 29th of August starting from 8:45 AM, and will follow this structure: 
+The program will follow this structure: 
 
 | **Activity**                                            | **Duration**           |
 |---------------------------------------------------------|------------------------|

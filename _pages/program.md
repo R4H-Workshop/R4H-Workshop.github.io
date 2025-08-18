@@ -29,13 +29,13 @@ The program will follow this structure:
 | Keynote 1 Prof. Katie Winkle                            | 30 min                 |
 | Keynote 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
 | Keynote 3 Prof. Serge Thill                             | 30 min                 |
-| Coffee break                                            | 15 min                 |
+| Coffee break                                            | 20 min                 |
 | Posters - Presentations                                 | 90 min                 |
 | Lunch break                                             | 60 min                 |
 | Map and Sketch                                          | 30 min                 |
-| Decide & storyboard                                     | 50 min                 |
+| Decide & storyboard                                     | 45 min                 |
 | Prototype                                               | 45 min                 |
-| Coffee break                                            | 15 min                 |
+| Coffee break                                            | 20 min                 |
 | Test & Learn                                            | 30 min                 |
 | Panel Session + Q&A                                     | 75 min                 |
 

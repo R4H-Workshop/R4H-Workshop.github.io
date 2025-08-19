@@ -58,7 +58,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				- Assistant professor (biträdande universitetslektor) at the Department of Information Technology at Uppsala University in Sweden.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
+                <div class="postcard__preview-txt"> Methods for Feminist HRI Design: This talk will first introduce and argue for Feminist HRI as a pragmatic approach for (better) centering meaningful human experience when designing, developing and deploying robotic technologies. Then, we will discuss different design methods -- participatory and co-design, speculative and sociotechnical design fiction -- for doing Feminist HRI design in practice.</div>
             </div>
         </article>
     </div>
@@ -94,7 +94,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				- Associate Professor - Artificial Intelligence at the Radboud Universiteit, Netherlands.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
+                <div class="postcard__preview-txt"> Some considerations for the design of interactive systems such as robots: When roboticists design robots to support humans in some task, they are not (just) designing robots; rather, they design one component of a human-machine team. If this more holistic perspective is lost, for example, because the focus is on technical challenges pertinent to the robot, the endeavour as a whole runs the risk of going astray. In this talk, we will therefore discuss some of the aspects to consider that co-determine human behaviour in human machine teams – how the machine can influence humans, how humans influence machines how they perceive each other. We will touch on the difference between abilities that the robot actually possesses and those that humans may be led to believe it does, the role of explainable AI in this, and we’ll give consideration to how the use of emerging technologies like large language models in social robotics might affect all of this.</div>
             </div>
         </article>
     </div>

@@ -37,7 +37,7 @@ The program will follow this structure:
 | Prototype                                               | 45 min                 |
 | Coffee break                                            | 20 min                 |
 | Test & Learn                                            | 30 min                 |
-| Panel Session + Q&A                                     | 75 min                 |
+| Panel Session + Q&A                                     | 50 min                 |
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).

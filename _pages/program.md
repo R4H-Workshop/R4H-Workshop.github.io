@@ -33,11 +33,32 @@ The program will follow this structure:
 | Posters - Presentations                                 | 11:00 - 12:30            |
 | Lunch break                                             | 12:30 - 13:30            |
 | Map and Sketch                                          | 13:30 - 14:00            |
-| Decide & storyboard                                     | 14:00 - 14:45            |
-| Prototype                                               | 14:45 - 15:30            |
+| Decide & storyboard                                     | 14:00 - 14:35            |
+| Prototype                                               | 14:35 - 15:15            |
 | Coffee break                                            | 15:15 - 15:30            |
 | Test & Learn                                            | 15:30 - 16:00            |
 | Panel Session + Q&A                                     | 16:00 - 16:50            |
+
+
+
+
+## List of Presenters
+
+This is the list of paper presentations 
+
+| **Article Title**                                                                                                        | **Time**                 |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Emotion-Adaptive Human–Robot Collaboration for Elderly Care in Ageing Societies                                          | 11:00 – 11:08            |
+| Personalised Serious Games with Humanoid Robots for Older Adults Cognitive Training                                      | 11:08 – 11:16            |
+| Empowering Neurodiversity: Rethinking interaction with children with Autism Spectrum Disorder through robotic mediation  | 11:16 – 11:24            |
+| Designing Robots with, not for: A Co-Design Framework for Empowering Interactions in Forensic Psychiatry                 | 11:24 – 11:32            |
+| Co-designing Stress Management Social Robots: Methodological Insights and Future Directions                              | 11:32 – 11:40            |
+| Artistic Robots: Empowering Children’s Creativity Through Social Robotics in Art Education                               | 11:40 – 11:48            |
+| Social and Telepresence Robots for Accessibility and Inclusion in Small Museums                                          | 11:48 – 11:56            |
+| Welcome Aboard! Envisioning an employment negotiation within a social robot from the users’ perspective                  | 11:56 – 12:04            |
+| Expectation vs. Reality: Perceptions of Social Robots                                                                    | 12:04 – 12:12            |
+| Lessons Learned Co-Creating Robot Study Companions using the Double Diamond                                              | 12:12 – 12:20            |
+
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
@@ -71,12 +92,12 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
                 <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
+                <h1 class="postcard__title blue">- Prof. Milene Goncalves</h1>
                 <div class="postcard__subtitle small">
 				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
+                <div class="postcard__preview-txt"> Creative Confidence in the age of AI and Robots: With a product design background and a PhD in Design Creativity, her research and educational focus is on the support of designers in creative problem solving. Currently, she is exploring the role of inspiration sources and creativity in service and product design and at the collaborative level. She is also interested in how inspirational information triggers co-evolution of the problem and solution space, creativity and innovation, inspiration and information, random stimuli, curiosity, surprise, design thinking, design methods, design methodology and visual thinking. She is the coordinator of the course SPD Media, which aims to support students from the Strategic Product Design master in the development of their expressive skills. In this project-based course, students work individually to explore and improve a set of media skills, which could include different types of sketching, prototyping, digital design, animation, video, among others. Therefore, this course aims to bring expressiveness to SPD-related knowledge, in order to improve how their work is presented and communicated to others.</div>
             </div>
         </article>
     </div>
@@ -127,7 +148,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
                 <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
+                <h1 class="postcard__title blue">- Prof. Milene Goncalves</h1>
                 <div class="postcard__subtitle small">
 				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
 				</div>

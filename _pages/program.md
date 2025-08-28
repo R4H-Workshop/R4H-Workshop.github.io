@@ -23,21 +23,21 @@ og_image: assets/images/logo_6.png
 
 The program will follow this structure: 
 
-| **Activity**                                            | **Duration**           |
-|---------------------------------------------------------|------------------------|
-| Welcome and Opening                                     | 15 min                 |
-| Keynote 1 Prof. Katie Winkle                            | 30 min                 |
-| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
-| Keynote 3 Prof. Serge Thill                             | 30 min                 |
-| Coffee break                                            | 20 min                 |
-| Posters - Presentations                                 | 90 min                 |
-| Lunch break                                             | 60 min                 |
-| Map and Sketch                                          | 30 min                 |
-| Decide & storyboard                                     | 45 min                 |
-| Prototype                                               | 45 min                 |
-| Coffee break                                            | 20 min                 |
-| Test & Learn                                            | 30 min                 |
-| Panel Session + Q&A                                     | 50 min                 |
+| **Activity**                                            | **Time**                 |
+|---------------------------------------------------------|--------------------------|
+| Welcome and Opening                                     | 08:45 - 09:00            |
+| Keynote 1 Prof. Katie Winkle                            | 09:00 - 09:30            |
+| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 09:30 - 10:00            |
+| Keynote 3 Prof. Serge Thill                             | 10:00 - 10:30            |
+| Coffee break                                            | 10:45 - 11:00            |
+| Posters - Presentations                                 | 11:00 - 12:30            |
+| Lunch break                                             | 12:30 - 13:30            |
+| Map and Sketch                                          | 13:30 - 14:00            |
+| Decide & storyboard                                     | 14:00 - 14:45            |
+| Prototype                                               | 14:45 - 15:30            |
+| Coffee break                                            | 15:15 - 15:30            |
+| Test & Learn                                            | 15:30 - 16:00            |
+| Panel Session + Q&A                                     | 16:00 - 16:50            |
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).

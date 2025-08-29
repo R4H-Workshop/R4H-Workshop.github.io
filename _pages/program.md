@@ -27,7 +27,7 @@ The program will follow this structure:
 |---------------------------------------------------------|--------------------------|
 | Welcome and Opening                                     | 08:45 - 09:00            |
 | Keynote 1 Prof. Katie Winkle                            | 09:00 - 09:30            |
-| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 09:30 - 10:00            |
+| Keynote 2 Prof. Milene Goncalves                        | 09:30 - 10:00            |
 | Keynote 3 Prof. Serge Thill                             | 10:00 - 10:30            |
 | Coffee break                                            | 10:45 - 11:00            |
 | Posters - Presentations                                 | 11:00 - 12:30            |

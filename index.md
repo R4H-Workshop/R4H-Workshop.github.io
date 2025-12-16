@@ -2,7 +2,7 @@
 title: Robots for Humans 
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: (2nd Edition)<br> <b> Empowerment Through Co-Creative and Social Robots! </b> <br> <b> RO-MAN 2025 August 29, 2025 / Eindhoven, The Netherlands </b>
+subtitle: (3rd Edition)<br> <b> Designing Social Robots That Spark Children’s Creativity! </b> <br> <b> ICSR+Art 2026 July 1-4, 2026 / London, UK </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website
@@ -13,35 +13,30 @@ og_image: /assets/images/logo_6_white.png
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-The promise of having personal social robots in people’s everyday lives brings a technological, but also sociological, transformation. Researchers need to address complex technical challenges to allow co-robots to autonomously experience people’s environments and interact accordingly. Moreover, different issues have to be addressed as well regarding the role that such co-robots will take on in every aspect of human life. For instance, what makes these machines social? And is their perception as social agents desirable? What dimensions and scales of social life do they cover? Particularly, we are interested in exploring the social robots’ role of empowerment for people.
+Robot for Humans (RfH) is a community-driven workshop where researchers with different backgrounds come together to address an emerging topic through an interactive session. It started in 2024 with its first edition (RfH: let humans be the bridge between computers and robots) at the AVI conference, focusing on exploring the importance of both technical and social aspects of the design and implementation of human-centered robotic solutions. The outcome of such a first edition strengthened the importance of interdisciplinary research and communication between different fields. Drawing on this outcome, the second edition (RfH: empowerment through co-creative and social robots) has been hosted at the RO-MAN conference in 2025. This latter edition focused on designing use cases for robots to empower different human populations. From such a rich experience emerged the topics of children's empowerment and robots as support for human creativity. Following the previous editions, we are proposing the third one with a focus on children’s creativity.
 </p>
 
 <p style="text-align: justify;">
-For example, how can social robots empower humans by augmenting rather than replacing human creativity? This hands-on workshop invites participants to explore new concepts in HRI, looking at the role of social robots in creative domains. The full-day program includes expert keynote speakers, participant poster sessions, and a dynamic co-creative design sprint. Together, we’ll explore timely challenges and opportunities, such as the lack of design guidelines for empowerment and the potential of social robots in creative collaboration. Through an interactive co-creative design sprint, we will engage in a structured process of mapping, sketching, storyboarding, (experiential) prototyping, and discussion.
-</p>
+Creativity is a fundamental component of children’s cognitive, emotional, and social development and is widely regarded as a key capability that should be nurtured from an early age. Canonical literature frames creativity as the ability to generate ideas or artifacts that are both novel and useful, yet research increasingly points to a concerning decline in children’s creative abilities during the school years [1]. This “creativity crisis” highlights the need for environments and tools that can actively sustain children’s imaginative thinking and expressive potential. Recent research shows that social robots can act as supportive partners in nurturing and enhancing children’s creativity. Studies in child–robot interaction demonstrate that embodied agents can scaffold creative processes through divergent thinking prompts, adaptive feedback, emotional attunement, and multimodal interaction [2]. In parallel, the field of robotic art has shown how machines can participate in open-ended processes of artistic emergence, revealing how robotic platforms can become sources of creativity [3]. However, existing work in Robot–Art and Human–Robot Co-Creation remains fragmented and has paid limited attention to the specific opportunities and risks that arise when the creators are children. Finally, emerging evidence with neurodivergent populations suggests that personalized and inclusive robot behaviors can lower creative barriers, foster agency, and support the development of diverse creative styles over time [4]. These findings highlight the strong potential of using robots to support children’s creativity. This applies both to neurodivergent children, who may benefit from creative activities that are structured yet expressive, and to neurotypical children, for whom creative engagement is closely tied to well-being and a sense of autonomy [5, 6]. Building on these insights, we argue that creativity not only shapes how children interact with robots but also how they may co-design a robot’s roles, behaviors, and artistic contributions within co-creative systems.</p>
 
 <p style="text-align: justify;">
-The workshop offers the opportunity to experiment, connect, and shape the future of HRI to researchers, designers, artists, and developers. Desired outcomes cover social robotics in the direction of designing robots for empowerment and co-creativity, insights into how HRI design choices affect the interaction, socialness, and outcomes on empowerment, and co-creativity. The workshop will conclude with a panel discussion to synthesize findings and discuss general issues related to the role and perception of social robots, working towards guidelines for the design of social robots for creative empowerment.
-</p>
-
-<p style="text-align: justify;">
-The edition of the workshop is jointly organized with other two workshops. 
-</p>
-
+Thus, we aim to organize the third edition of the RfH workshop to discuss the current trends in using robots to increase, empower, and sustain children’s creativity and artistic skills. Moreover, we plan to present questions about crucial aspects to a panel of experts in the field in order to discuss such potential and define a research path for the future. Ultimately, we aim to utilize the discussion that arises from such questions to write a perspective article that explores current trends, research gaps, future challenges, and alternative methods for fostering children’s creativity using social robots.</p>
 
 Topics of interests include but are not limited to:
-* The role of (mini-c) creativity in the context of "everyday" HRI
-* The design of human-robot interactions in art settings
-* Social robots for creativity support
-* Designing for human-robot co-creativity
-* The design of robots with (verbal and non-verbal) social capabilities
-* The evaluation of socialness perception in human-robot interactions
-* The study of the relationship between human-likeness and socialness
-* The application of theoretical principles in applied robotics research
-* Design principles for empowerment and inclusion
-* Robot adaptive application for marginalised groups;
-* Involvement of stakeholders’ perspective in design and implementation.
-* AI and LLM application to empower and co-creation in HRI;
+* Social Robotics for Children’s Creativity in HRI
+* Emotion, Personality & Engagement in Creative Contexts for children
+* Therapeutic & Assistive Creative in CRI
+* Educational & Playful Creative Robotics in CRI
+* Advances in Social Robotics and AI for CRI
+* Creative Robotics and Artistic Expression
+* Diversity of Approaches in Creative HRI
+* Benefits and Harms of AI in Creative Contexts in CRI
+* Children’s Empowerment Through Creativity and Art in CRI
+* Creative Robotics for Neurodivergent or divergent Children
+* Creative Robotics for Well-being and Emotional Development
+* Robots for Fostering and Sustaining Children’s Creativity
+* Creativity-driven learning methods in CRI.
+* Creative and participatory design in CRI.
 
 ---
 
@@ -62,10 +57,12 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_unige.png" alt="unige" width="300"/> </td>
     <td> <img  src="assets/images/logo_unibo.svg" alt="unibo" width="300"/> </td>
     <td> <img  src="assets/images/logo_ISTI2.png" alt="unipi" width="500"/> </td>
+    <td> <img  src="assets/images/logo_tartu.png" alt="unipi" width="500"/> </td>
+  </tr>
+  <!--
+  <tr>
     <td> <img  src="assets/images/logo_HWU.png" alt="hwu" width="400"/> </td>
     <td> <img  src="assets/images/logo_terais.jpg" alt="terais" width="300"/></td>
-  </tr>
-  <tr>
     <td> <img  src="assets/images/logo_AUAS.png" alt="auas" width="500"/></td>
     <td> <img  src="assets/images/logo_etis.jpg" alt="etis" width="300"/></td>
     <td> <img  src="assets/images/logo_LU.png" alt="lu" width="300"/></td>
@@ -73,4 +70,5 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <td> <img  src="assets/images/logo_s4hri.jpg" alt="S4HRI" width="200"/></td>
   </tr>
 </table>
+-->
 ---

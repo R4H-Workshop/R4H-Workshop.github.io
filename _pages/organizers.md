@@ -125,6 +125,8 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Andrea Rezzani (she/her) is a cognitive psychologist and PhD student at the Free University of Bozen/Bolzano. Her supervisors are Prof. De Angeli, Free University of Bozen/Bolzano, Dr. Menéndez-Blanco, Free University of Bozen/Bolzano, and Prof. Bushman, The Ohio State University. Her research project aims to investigate robot abuse when users engage in aggressive behaviours against robots, focusing on understanding the role of robots’ design. Andrea has been part of the Organising Committee of the  14th Edition of the Biannual Conference CHItaly’21 as Local Chair.</div>
             </div>
         </article>
+    </div>
+</section>
         <!--
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -164,6 +166,4 @@ og_image: assets/images/logo_6.png
         </article>
     </div>
     -->
-</section>
 
----

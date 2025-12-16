@@ -27,10 +27,6 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Dr. Eleonora Zedda (she/her) is a National Research Council (CNR) post-doctoral researcher. Her research revolves around human-robot interaction (HRI), specifically focusing on social robotics. Her primary research focuses on connecting users and robots by developing robot personalities and adapting robot behaviours to meet users' needs. Her approach aims to make human-robot interaction more intuitive and enjoyable for users by designing robots' behaviour that can understand and adapt to users' states. </div>
             </div>
         </article>
-      </div>
-
-<section class="light">
-    <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_MM1.JPG" alt="Marco Matarese" />
@@ -54,8 +50,8 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Marco Manca (he/him) is a National Research Council (CNR) researcher. His research interests lie within Human-Computer Interaction (HCI), specifically focusing on Human-Robot Interaction (HRI), End-User Development, accessibility, and usability of user interfaces. In Human-Robot Interaction, he has dedicated his efforts to studying the interaction between individuals with Mild Cognitive Impairment (MCI) and Humanoid Robots. He holds the role of Late Breaking Work co-chair for EICS 2024 and served as Poster/Demo co-chair for the IUI 2020 conference and Demo co-chair for the MUM 2019 conference. </div>
             </div>
-        <!--
         </article>
+        <!--
                <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_SM_1.jpeg" alt="Serena Marchesi" />

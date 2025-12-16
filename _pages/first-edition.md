@@ -1,6 +1,6 @@
 ---
 title: AVI 2024 - 1st Edition
-subtitle: Let humans be the bridge between computers and robots!</br> <b>June the 3rd (9:00 am - 1:00 pm), Arenzano (Genoa) - Italy</b>
+subtitle: Let humans be the bridge between computers and robots! <b>June the 3rd (9:00 am - 1:00 pm), Arenzano (Genoa) - Italy</b>
 header_type: splash
 header_img: /assets/images/robotHi.jpg
 permalink: /first-edition

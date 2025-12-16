@@ -23,42 +23,21 @@ og_image: assets/images/logo_6.png
 
 The program will follow this structure: 
 
-| **Activity**                                            | **Time**                 |
-|---------------------------------------------------------|--------------------------|
-| Welcome and Opening                                     | 08:45 - 09:00            |
-| Keynote 1 Prof. Katie Winkle                            | 09:00 - 09:30            |
-| Keynote 2 Prof. Milene Goncalves                        | 09:30 - 10:00            |
-| Keynote 3 Prof. Serge Thill                             | 10:00 - 10:30            |
-| Coffee break                                            | 10:45 - 11:00            |
-| Posters - Presentations                                 | 11:00 - 12:30            |
-| Lunch break                                             | 12:30 - 13:30            |
-| Map and Sketch                                          | 13:30 - 14:00            |
-| Decide & storyboard                                     | 14:00 - 14:35            |
-| Prototype                                               | 14:35 - 15:15            |
-| Coffee break                                            | 15:15 - 15:30            |
-| Test & Learn                                            | 15:30 - 16:00            |
-| Panel Session + Q&A                                     | 16:00 - 16:50            |
-
-
-
-
-## List of Presenters
-
-This is the list of paper presentations 
-
-| **Article Title**                                                                                                        | **Time**                 |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Emotion-Adaptive Human–Robot Collaboration for Elderly Care in Ageing Societies                                          | 11:00 – 11:08            |
-| Personalised Serious Games with Humanoid Robots for Older Adults Cognitive Training                                      | 11:08 – 11:16            |
-| Empowering Neurodiversity: Rethinking interaction with children with Autism Spectrum Disorder through robotic mediation  | 11:16 – 11:24            |
-| Designing Robots with, not for: A Co-Design Framework for Empowering Interactions in Forensic Psychiatry                 | 11:24 – 11:32            |
-| Co-designing Stress Management Social Robots: Methodological Insights and Future Directions                              | 11:32 – 11:40            |
-| Artistic Robots: Empowering Children’s Creativity Through Social Robotics in Art Education                               | 11:40 – 11:48            |
-| Social and Telepresence Robots for Accessibility and Inclusion in Small Museums                                          | 11:48 – 11:56            |
-| Welcome Aboard! Envisioning an employment negotiation within a social robot from the users’ perspective                  | 11:56 – 12:04            |
-| Expectation vs. Reality: Perceptions of Social Robots                                                                    | 12:04 – 12:12            |
-| Lessons Learned Co-Creating Robot Study Companions using the Double Diamond                                              | 12:12 – 12:20            |
-
+| **Activity**                                            | **Duration**           |
+|---------------------------------------------------------|------------------------|
+| Welcome and Opening                                     | 15 min                 |
+| Keynote 1 Prof. Katie Winkle                            | 30 min                 |
+| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
+| Keynote 3 Prof. Serge Thill                             | 30 min                 |
+| Coffee break                                            | 20 min                 |
+| Posters - Presentations                                 | 90 min                 |
+| Lunch break                                             | 60 min                 |
+| Map and Sketch                                          | 30 min                 |
+| Decide & storyboard                                     | 45 min                 |
+| Prototype                                               | 45 min                 |
+| Coffee break                                            | 20 min                 |
+| Test & Learn                                            | 30 min                 |
+| Panel Session + Q&A                                     | 75 min                 |
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
@@ -79,7 +58,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				- Assistant professor (biträdande universitetslektor) at the Department of Information Technology at Uppsala University in Sweden.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Methods for Feminist HRI Design: This talk will first introduce and argue for Feminist HRI as a pragmatic approach for (better) centering meaningful human experience when designing, developing and deploying robotic technologies. Then, we will discuss different design methods -- participatory and co-design, speculative and sociotechnical design fiction -- for doing Feminist HRI design in practice.</div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
             </div>
         </article>
     </div>
@@ -92,12 +71,12 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
                 <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Milene Goncalves</h1>
+                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
                 <div class="postcard__subtitle small">
 				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Creative Confidence in the age of AI and Robots: With a product design background and a PhD in Design Creativity, her research and educational focus is on the support of designers in creative problem solving. Currently, she is exploring the role of inspiration sources and creativity in service and product design and at the collaborative level. She is also interested in how inspirational information triggers co-evolution of the problem and solution space, creativity and innovation, inspiration and information, random stimuli, curiosity, surprise, design thinking, design methods, design methodology and visual thinking. She is the coordinator of the course SPD Media, which aims to support students from the Strategic Product Design master in the development of their expressive skills. In this project-based course, students work individually to explore and improve a set of media skills, which could include different types of sketching, prototyping, digital design, animation, video, among others. Therefore, this course aims to bring expressiveness to SPD-related knowledge, in order to improve how their work is presented and communicated to others.</div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
             </div>
         </article>
     </div>
@@ -115,7 +94,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				- Associate Professor - Artificial Intelligence at the Radboud Universiteit, Netherlands.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Some considerations for the design of interactive systems such as robots: When roboticists design robots to support humans in some task, they are not (just) designing robots; rather, they design one component of a human-machine team. If this more holistic perspective is lost, for example, because the focus is on technical challenges pertinent to the robot, the endeavour as a whole runs the risk of going astray. In this talk, we will therefore discuss some of the aspects to consider that co-determine human behaviour in human machine teams – how the machine can influence humans, how humans influence machines how they perceive each other. We will touch on the difference between abilities that the robot actually possesses and those that humans may be led to believe it does, the role of explainable AI in this, and we’ll give consideration to how the use of emerging technologies like large language models in social robotics might affect all of this.</div>
+                <div class="postcard__preview-txt"> Abstract TBA</div>
             </div>
         </article>
     </div>
@@ -148,7 +127,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
                 <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Milene Goncalves</h1>
+                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
                 <div class="postcard__subtitle small">
 				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
 				</div>

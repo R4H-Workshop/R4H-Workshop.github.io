@@ -111,6 +111,8 @@ navbar:
   #  url   : /accepted-papers
   - title : AVI 2024
     url   : /first-edition
+  - title : RO-MAN 2025
+    URL   : /second-edition
   #- title : Current skin
   #  url   : /current-skin
   #- title   : Extras

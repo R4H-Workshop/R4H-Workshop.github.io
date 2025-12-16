@@ -11,7 +11,7 @@ og_type: website
 og_image: assets/images/logo_6.png
 
 ---
-## Main Organizers
+## Organizers
 
 <section class="light">
     <div class="container py-2">
@@ -28,44 +28,6 @@ og_image: assets/images/logo_6.png
             </div>
         </article>
       </div>
-</section>
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_MB.png" alt="Marianne Bossema" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Marianne Bossema</h1>
-                <div class="postcard__subtitle small">PhD student @ Leiden University and Lecturer @ Amsterdam University of Applied Sciences</div>
-                <div class="postcard__subtitle small"><m.bossema@hva.nl></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Marianne Bossema is a lecturer in ICT and a researcher at the Amsterdam University of Applied Sciences (AUAS) and Leiden University. Her research focuses on the application of social robots in healthcare and well-being. In 2023, she began her dual PhD research in collaboration with the Creative Intelligence Lab at LIACS, Leiden University and the Digital Life Research Lab at AUAS. This five-year project, funded by the Dutch Research Council investigates how social robotics and AI can enhance creative experiences for older adults, particularly in the context of human-robot collaborative drawing.</div>
-            </div>
-        </article>
-      </div>
-</section>
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_MB.jpg" alt="Marwen Belkaid" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Marwen Belkaid</h1>
-                <div class="postcard__subtitle small">Junior Professor Chair in Neuroscience and Robotics (ETIS Lab) @ CY Cergy Paris Université.</div>
-                <div class="postcard__subtitle small"><marwen.belkaid@ensea.fr></div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Marwen Belkaid is a Junior Professor in Neuroscience and Robotics interested in using robots to study human cognition and to take inspiration from the brain to design novel architectures for autonomous social robots. His research particularly focuses on studying and modeling processes related to decision-making, emotion, and social interactions. He obtained his doctorate at the Université de Cergy-Pontoise in France in December 2016. Then, from 2017 to 2022, he was a postdoctoral fellow at Sorbonne Université, in Paris, and then at the Istituto Italiano di Tecnologia in Genoa, Italy. Since September 2022, he holds a Junior Professor Chair in Neuroscience and Robotics at CY Cergy Paris Université where he develops his research at the ETIS Lab. </div>
-            </div>
-        </article>
-      </div>
-</section>
-
----
-## Co-Organizers
 
 <section class="light">
     <div class="container py-2">
@@ -92,6 +54,7 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Dr. Marco Manca (he/him) is a National Research Council (CNR) researcher. His research interests lie within Human-Computer Interaction (HCI), specifically focusing on Human-Robot Interaction (HRI), End-User Development, accessibility, and usability of user interfaces. In Human-Robot Interaction, he has dedicated his efforts to studying the interaction between individuals with Mild Cognitive Impairment (MCI) and Humanoid Robots. He holds the role of Late Breaking Work co-chair for EICS 2024 and served as Poster/Demo co-chair for the IUI 2020 conference and Demo co-chair for the MUM 2019 conference. </div>
             </div>
+        <!--
         </article>
                <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
@@ -129,6 +92,7 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Pan Wang is an Assistant Professor at the Faculty of Industrial Design Engineering (IDE) at TU Delft. Her research is focused on Artificial Intelligence (AI) for design, especially Human-machine (AI) co-creativity. It addresses the intersection of human-computer interaction, brain-computer interface (BCI), creativity, AI design method and AI artworks. By investigating the relationship between human and machine, she developed a human-in-the-loop AI method, which is called symbiotic creativity. This is an interactive system that can communicate with humans throughout the creation process and is facilitated by a range of human-AI interaction tools. Pan received her PhD from the Dyson School of Design Engineering and Data Science Institute from Imperial College London.</div>
             </div>
         </article>
+        -->
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_OE.jpg" alt="Omar Eldardeer" />
@@ -165,6 +129,7 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Andrea Rezzani (she/her) is a cognitive psychologist and PhD student at the Free University of Bozen/Bolzano. Her supervisors are Prof. De Angeli, Free University of Bozen/Bolzano, Dr. Menéndez-Blanco, Free University of Bozen/Bolzano, and Prof. Bushman, The Ohio State University. Her research project aims to investigate robot abuse when users engage in aggressive behaviours against robots, focusing on understanding the role of robots’ design. Andrea has been part of the Organising Committee of the  14th Edition of the Biannual Conference CHItaly’21 as Local Chair.</div>
             </div>
         </article>
+        <!--
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_EN.jpeg" alt="Emilyann Nault" />
@@ -202,6 +167,7 @@ og_image: assets/images/logo_6.png
             </div>
         </article>
     </div>
+    -->
 </section>
 
 ---

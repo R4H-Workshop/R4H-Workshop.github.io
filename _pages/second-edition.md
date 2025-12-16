@@ -1,6 +1,6 @@
 ---
 title: RO-MAN 2025 - 2nd Edition
-subtitle: Empowerment Through Co-Creative and Social Robots!</br> <b>August 29 (full day), Eindhoven, The Netherlands</b>
+subtitle: <b>Empowerment Through Co-Creative and Social Robots!</b>August 29 (full day), Eindhoven, The Netherlands
 header_type: splash
 header_img: /assets/images/robotHi.jpg
 permalink: /second-edition

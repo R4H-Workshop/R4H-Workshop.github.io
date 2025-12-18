@@ -48,7 +48,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- TBA</h1>
                 <div class="postcard__subtitle small">
-				- 
+				<!-- - ACADEMIC POSITION--> 
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"> Abstract TBA</div>
@@ -68,10 +68,10 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- TBA</h1>
                 <div class="postcard__subtitle small">
-				- 
+				<!-- - ACADEMIC POSITION-->
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> </div>
+                <div class="postcard__preview-txt"><!-- BIO --></div>
             </div>
         </article>
     </div>

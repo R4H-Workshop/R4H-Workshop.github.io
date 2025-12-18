@@ -11,11 +11,11 @@ og_type: website
 og_image: assets/images/logo_6.png
 ---
 
-**Date**: **29th of August 2025** 
+**Date**: **TBD** 
 
-**Location**:  **[IEEE RO-MAN 2025](https://www.ro-man2025.org/), August the 29th 2025, Eindhoven, The Netherlands**
+**Location**:  **[ICSR + Art 2026](https://www.icsr2026.uk/), July 1-4 2026, London, UK**
 
-**Time**: **Full Day starting time 8:45 AM**.
+**Time**: **TBA**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
@@ -26,18 +26,11 @@ The program will follow this structure:
 | **Activity**                                            | **Duration**           |
 |---------------------------------------------------------|------------------------|
 | Welcome and Opening                                     | 15 min                 |
-| Keynote 1 Prof. Katie Winkle                            | 30 min                 |
-| Keynote 2 Prof. Milene Cuerreiro Goncalves              | 30 min                 |
-| Keynote 3 Prof. Serge Thill                             | 30 min                 |
+| Keynote                                                 | 30 min                 |
+| Presentation of the contributions                       | 60 min                 |
 | Coffee break                                            | 20 min                 |
-| Posters - Presentations                                 | 90 min                 |
-| Lunch break                                             | 60 min                 |
-| Map and Sketch                                          | 30 min                 |
-| Decide & storyboard                                     | 45 min                 |
-| Prototype                                               | 45 min                 |
-| Coffee break                                            | 20 min                 |
-| Test & Learn                                            | 30 min                 |
-| Panel Session + Q&A                                     | 75 min                 |
+| Panel Discussion                                        | 90 min                 |
+| Closing remarks                                         | 15 min                 |
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
@@ -49,49 +42,13 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
+            <!--<a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/keynote_KW.jpeg" alt="Prof. Katie Winkle" />
-            </a>
+            </a>-->
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Katie Winkle</h1>
+                <h1 class="postcard__title blue">- TBA</h1>
                 <div class="postcard__subtitle small">
-				- Assistant professor (biträdande universitetslektor) at the Department of Information Technology at Uppsala University in Sweden.
-				</div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
-            </div>
-        </article>
-    </div>
-</section>
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_MG.png" alt="Prof. Milene Cuerreiro Goncalves" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Milene Cuerreiro Goncalves</h1>
-                <div class="postcard__subtitle small">
-				- Associate Professor of Product Innovation Management at the Delft University of Technology (TU Delft).
-				</div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
-            </div>
-        </article>
-    </div>
-</section>
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_ST.png" alt="Prof. Serge Thill" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Serge Thill</h1>
-                <div class="postcard__subtitle small">
-				- Associate Professor - Artificial Intelligence at the Radboud Universiteit, Netherlands.
+				- 
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"> Abstract TBA</div>
@@ -105,21 +62,21 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
+            <!--<a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/panel_LR.jpg" alt="Dr. Laurel Riek" />
-            </a>
+            </a>-->
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Laurel Riek</h1>
+                <h1 class="postcard__title blue">- TBA</h1>
                 <div class="postcard__subtitle small">
-				- David R. Miller Professor of Computer Science and Engineering at UC San Diego, USA.
+				- 
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Dr. Riek directs the Healthcare Robotics Lab, and leads research in human-robot interaction (HRI), assistive technology, embodied AI, and health informatics. Riek's current research projects have applications in acute care, neuro-rehabilitation, and home health. Dr. Riek has received the NSF CAREER Award, AFOSR Young Investigator Award, Qualcomm Research Award, and several best paper awards. Riek leads the ONR MURI HUDDLE project. Dr. Riek's research has been supported by the NSF, AFOSR, ONR, DOE, UCOP, and a number of companies and foundations. Prof. Riek currently serves as HRI Editor for the IEEE Conference on Robotics and Automation (ICRA), on the editorial board of ACM Transactions on Human Robot Interaction (THRI), and previously served as the HRI 2023 General Co-Chair and HRI 2020 Program Co-Chair. </div>
+                <div class="postcard__preview-txt"> </div>
             </div>
         </article>
     </div>
 </section>
-
+<!--
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
@@ -137,7 +94,8 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
         </article>
     </div>
 </section>
-
+-->
+<!--
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
@@ -155,5 +113,6 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
         </article>
     </div>
 </section>
+-->
 
 ---

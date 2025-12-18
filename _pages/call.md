@@ -23,7 +23,7 @@ The third edition of the RfH workshop aims to discuss the current trends in usin
 </p>
 <p style="text-align: justify;">
 
-Recent research shows that social robots can act as supportive partners in nurturing and enhancing children’s creativity. Studies in child–robot interaction demonstrate that embodied agents can scaffold creative processes through divergent thinking prompts, adaptive feedback, emotional attunement, and multimodal interaction. In parallel, the field of robotic art has shown how machines can participate in open-ended processes of artistic emergence, revealing how robotic platforms can become sources of creativity. 
+Recent research shows that social robots can act as supportive partners in nurturing and enhancing children’s creativity. Studies in child–robot interaction (CRI)demonstrate that embodied agents can scaffold creative processes through divergent thinking prompts, adaptive feedback, emotional attunement, and multimodal interaction. In parallel, the field of robotic art has shown how machines can participate in open-ended processes of artistic emergence, revealing how robotic platforms can become sources of creativity. 
 
 </p>
 <p style="text-align: justify;">

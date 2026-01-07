@@ -53,7 +53,7 @@ og_image: assets/images/logo_6.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_FB.jpeg" alt="Farnaz Baksh" />
+                <img class="postcard__img" src="assets/images/Org25/org_FB.jpg" alt="Farnaz Baksh" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Farnaz Baksh </h1>

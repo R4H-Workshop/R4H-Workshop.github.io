@@ -51,19 +51,19 @@ og_image: assets/images/logo_6.png
                 <div class="postcard__preview-txt">Dr. Marco Manca (he/him) is a National Research Council (CNR) researcher. His research interests lie within Human-Computer Interaction (HCI), specifically focusing on Human-Robot Interaction (HRI), End-User Development, accessibility, and usability of user interfaces. In Human-Robot Interaction, he has dedicated his efforts to studying the interaction between individuals with Mild Cognitive Impairment (MCI) and Humanoid Robots. He holds the role of Late Breaking Work co-chair for EICS 2024 and served as Poster/Demo co-chair for the IUI 2020 conference and Demo co-chair for the MUM 2019 conference. </div>
             </div>
         </article>
-        <!--
-               <article class="postcard light blue">
+        <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/Org25/org_SM_1.jpeg" alt="Serena Marchesi" />
+                <img class="postcard__img" src="assets/images/Org25/org_FB.jpeg" alt="Farnaz Baksh" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Serena Marchesi </h1>
-                <div class="postcard__subtitle small">Post-Doc researcher @ Istituto Italiano di Tecnologia (S4HRI group).</div>
-                <div class="postcard__subtitle small"><Serena.Marchesi@iit.it></div>
+                <h1 class="postcard__title blue">Farnaz Baksh </h1>
+                <div class="postcard__subtitle small">PhD Student @ University of Tartu, Estonia.</div>
+                <div class="postcard__subtitle small"><farnaz.baksh@ut.ee></div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Serena obtained her Ph.D. from the University of Manchester, in collaboration with IIT under the supervision of Prof. Angelo Cangelosi and Dr. Agnieszka Wykowska. Moreover, Serena won the   A*STAR Research Attachment Programme (ARAP) research award, which allowed her to spend more than a year at the Agency for Science, Technology and, Research (A*STAR) in Singapore, under the supervision of Dr. Wu Yan. Previously, Serena obtained a second level Post Graduate Master in Clinical Neuroscience at the Catholic University of the Sacred Heart in Milan, under the supervision of Prof. Michela Balconi and a Master Degree in Cognitive Science and Decision-Making Processes at the Universitá Statale in Milan. Serena's research interests focus on the social and moral cognition processes involved in human-human and human-robot interaction, and how individual and cultural differences can affect them.</div>
+                <div class="postcard__preview-txt">Farnaz Baksh (she/her) is a roboticist and researcher specialising in human-robot interaction and social robotics. She is a Junior Research Fellow | PhD Student at the University of Tartu, where she focuses on designing open, adaptable, and ethically responsible robotic companions to support student learning and wellbeing. Farnaz leads the development of the open-source robotic study companion project (rsc.ee), supervising and mentoring university students in their research.</div>
             </div>
         </article>
+        <!--
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
                 <img class="postcard__img" src="assets/images/Org25/org_JB_1.jpg" alt="Joffrey Becker" />

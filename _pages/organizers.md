@@ -34,7 +34,7 @@ og_image: assets/images/logo_6.png
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Marco Matarese</h1>
                 <div class="postcard__subtitle small">Assistant Professor @ Free University of Bozen-Bolzano, Italy.</div>
-                <div class="postcard__subtitle small"><marco.matarese@iit.it></div>
+                <div class="postcard__subtitle small"><marco.matarese@unibz.it></div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Marco Matarese (he/him) is an Assistant Professor at the Free University of Bozen-Bolzano. His main research interests go from the robots’ influence to explainability in collaborative human-robot interaction. He obtained a bachelor's and an M.Sc. in computer science at the University of Naples Federico II, and subsequently completed a PhD in bioengineering and robotics at the University of Genoa and the Italian Institute of Technology. He collaborate with several institutions, including Trinity College Dublin, and the Universities of Paderborn, Bielefeld, Bratislava, and Naples.</div>
             </div>

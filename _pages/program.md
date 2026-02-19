@@ -43,7 +43,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_PAO.jpeg" alt="Prof. Patrícia Alves-Oliveira" />
+                <img class="postcard__img" src="assets/images/panel_PAO.jpg" alt="Prof. Patrícia Alves-Oliveira" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Assistant Professor</h1>

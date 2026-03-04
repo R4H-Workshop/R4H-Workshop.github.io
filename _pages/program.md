@@ -46,7 +46,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
                 <img class="postcard__img" src="assets/images/panel_PAO.jpg" alt="Prof. Patrícia Alves-Oliveira" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Assistant Professor</h1>
+                <h1 class="postcard__title blue">- Prof. Patrícia Alves-Oliveira</h1>
                 <div class="postcard__subtitle small">
 				Patrícia Alves-Oliveira is an Assistant Professor of Robotics at the University of Michigan, where she leads Robot Studio, a research lab focused on the design, development, and evaluation of social robotics. Patricia’s background unifies the fields of Robotics, Design, and AI. She was a Senior UX Designer for Amazon Lab126 in California, a Postdoc at the University of Washington in Seattle, and has received her Ph.D. from the University Institute of Lisbon, in Portugal where she is from. Her research received Best Paper Awards at the International Conference on Human-Robot Interaction, and her work is funded by NSF and DARPA.
 				</div>

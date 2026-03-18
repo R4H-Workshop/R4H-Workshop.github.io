@@ -33,7 +33,7 @@ However, existing work in Robot–Art and Human–Robot Co-Creation remains frag
 </p>
 <p style="text-align: justify;">
 
-uilding on these insights, we argue that creativity not only shapes how children interact with robots but also how they may co-design a robot’s roles, behaviors, and artistic contributions within co-creative systems. We invite contributions from researchers and practitioners in HRI, AI, psychology, design, arts, education, healthcare, and other related fields. Topics of interest include (but are not limited to):
+Building on these insights, we argue that creativity not only shapes how children interact with robots but also how they may co-design a robot’s roles, behaviors, and artistic contributions within co-creative systems. We invite contributions from researchers and practitioners in HRI, AI, psychology, design, arts, education, healthcare, and other related fields. Topics of interest include (but are not limited to):
 
 </p>
 
@@ -58,7 +58,7 @@ Topics of interests include but are not limited to:
 
 We particularly welcome interdisciplinary and speculative approaches that challenge existing paradigms and propose new directions for socially intelligent robotics.
 
-We invite authors to submit an extended abstract (up to 4 pages, excluding references) in PDF format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion. Please, refer to the Main conference's template (**[https://icsr2026.uk/calls/#RegularPaper](https://icsr2026.uk/calls/#RegularPaper)**).
+We invite authors to submit an extended abstract (up to 4 pages, excluding references) in PDF format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion. Please, refer to the Main [**conference template**](https://icsr2026.uk/calls/#RegularPaper), or use the [**Overleaf template**](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg). 
 
 </p>
 
@@ -72,9 +72,9 @@ Accepted abstracts will be presented during the workshop as short talks or poste
 
 
 ### Important Dates
-* Submission Deadline: TBD
-* Notification of Acceptance: TBD
-* Camera Ready: TBD
+* Submission Deadline: 3 May 2026.
+* Notification of Acceptance: 3 June 2026.
+* Workshop date: 3 July 2026 (9:00-12:00).
 
 
 <!--

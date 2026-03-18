@@ -11,11 +11,11 @@ og_type: website
 og_image: assets/images/logo_6.png
 ---
 
-**Date**: **TBD** 
+**Date**: **July 3 2026** 
 
 **Location**:  **[ICSR + Art 2026](https://www.icsr2026.uk/), July 1-4 2026, London, UK**
 
-**Time**: **TBA**.
+**Time**: **9:00-12:00**.
 
 <!--**Attend Online**: [**Zoom link** (TDB)]()-->
 

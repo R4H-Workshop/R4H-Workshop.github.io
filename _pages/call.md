@@ -58,7 +58,8 @@ Topics of interests include but are not limited to:
 
 We particularly welcome interdisciplinary and speculative approaches that challenge existing paradigms and propose new directions for socially intelligent robotics.
 
-We invite authors to submit an extended abstract (up to 4 pages, excluding references) in PDF format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion. Please, refer to the Main [**conference template**](https://icsr2026.uk/calls/#RegularPaper), or use the [**Overleaf template**](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg). 
+We invite authors to submit an extended abstract (up to 4 pages, excluding references) in PDF format, outlining their research, ideas, or ongoing work relevant to the workshop themes. Submissions will be lightly peer-reviewed by the organizers based on relevance, originality, and potential for discussion. Please, refer to the Main <a href="https://icsr2026.uk/calls/#RegularPaper"><strong>conference template</strong></a>, or use the <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg"><strong>Overleaf template</strong></a>.
+ 
 
 </p>
 

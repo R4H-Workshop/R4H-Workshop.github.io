@@ -94,7 +94,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				</div>
                 <!--
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"><!-- BIO --></div>
+                <div class="postcard__preview-txt"></div>
                 -->
             </div>
         </article>

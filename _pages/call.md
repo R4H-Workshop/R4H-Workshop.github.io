@@ -63,7 +63,7 @@ We invite authors to submit an extended abstract (up to 4 pages, excluding refer
 
 </p>
 
-<!--Please submit your abstract in PDF format via **[EasyChair](https://easychair.org/cfp/RfH2025)**. -->
+Please submit your abstract in PDF format via <a href="https://easychair.org/conferences/?conf=rfh2026"><strong>EasyChair</strong></a>.
 
 <p style="text-align: justify;">
 

@@ -63,7 +63,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/ICSR26/Org_SBA.jpg" alt="Prof. Somaya Ben Allouch" />
+                <img class="postcard__img" src="assets/images/ICSR26/pan_SBA.jpg" alt="Prof. Somaya Ben Allouch" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Somaya Ben Allouch</h1>

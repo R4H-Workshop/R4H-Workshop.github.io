@@ -63,10 +63,10 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <!--<a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_LR.jpg" alt="Dr. Laurel Riek" />
+                <img class="postcard__img" src="assets/images/ICSR26/Org_SBA.jpg" alt="Prof. Somaya Ben Allouch" />
             </a>-->
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- TBA</h1>
+                <h1 class="postcard__title blue">- Prof. Somaya Ben Allouch</h1>
                 <div class="postcard__subtitle small">
 				<!-- - ACADEMIC POSITION-->
 				</div>
@@ -76,6 +76,25 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
         </article>
     </div>
 </section>
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <!--<a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/ICSR26/pan_DT.png" alt="Prof. Daniel Tozadore" />
+            </a>-->
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Prof. Daniel Tozadore</h1>
+                <div class="postcard__subtitle small">
+				<!-- - ACADEMIC POSITION-->
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"><!-- BIO --></div>
+            </div>
+        </article>
+    </div>
+</section>
+
 <!--
 <section class="light">
     <div class="container py-2">

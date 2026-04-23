@@ -83,14 +83,12 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/ICSR26/pan_DT.png" alt="Prof. Daniel Tozadore" />
+                <img class="postcard__img" src="assets/images/ICSR26/pan_DT.jpg" alt="Prof. Daniel Tozadore" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Daniel Tozadore</h1>
                 <div class="postcard__subtitle small">
-				Formerly a postdoc researcher at the École polytechnique fédérale de Lausanne (EPFL), with a PhD in Computer Science by the University of São Paulo (USP), Brazil. Has more than 10 years of experience in Computer Science, focusing on Robotic Systems, acting on the following subjects: Human-Robot Interaction, Artificial Intelligence for Education, Convolutional Neural Network, Reinforcement Learning, Adaptive Systems and Graphical User Interface.
-                Has a wide experience in research leading roles, as in the iReCHeCk project, a joint project with Paris 8 University aiming to achieve an autonomous handwriting practicing setup using tablets and social robots with real-time assessment and personalised recommendation. Was the PI in the Multicultural Interactive Integration Using Social Agents (MI2US) project, where it evaluated the impact of Social Robots in the inclusion of children with immigrant history in international schools, analyzing the different users' perceptions in real school environments. 
-                Was the CEO and founder of the Brazilian startup "TEIA Educacional" that uses methods derived from his PhD project to boost teaching and learning experiences in schools by using Artificial Intelligence and Affective Computing. The startup has received a national reward and funding for being at the top 10 most innovative ideas of technology in education in 2022. 
+				Daniel Tozadore is a Lecturer (Assistant Professor) in Robotics and AI at University College London. He previously held a postdoctoral position at EPFL and earned his PhD in Computer Science from the University of São Paulo. His research focuses on social robotics, human–robot interaction, and AI for education, with over 15 years of experience in robotic systems. Daniel has led international research projects on educational and social inclusion applications of robots and is the co‑founder of an award‑winning educational technology startup using AI and affective computing. 
 				</div>
                 <!--
                 <div class="postcard__bar"></div>

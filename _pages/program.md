@@ -103,7 +103,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_ST.png" alt="Prof. Serge Thill" />
+                <img class="postcard__img" src="assets/images/keynote_ST.png" alt="Prof. Serge Thill" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Serge Thill</h1>
@@ -119,7 +119,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_LF.jpg" alt="Dr. Laura Fiorini" />
+                <img class="postcard__img" src="assets/images/keynote_LF.jpg" alt="Dr. Laura Fiorini" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Dr. Laura Fiorini</h1>

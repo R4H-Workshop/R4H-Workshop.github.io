@@ -73,8 +73,8 @@ Accepted abstracts will be presented during the workshop as short talks or poste
 
 
 ### Important Dates
-* Submission Deadline: 3 May 2026.
-* Notification of Acceptance: 3 June 2026.
+* Submission Deadline: 31 May 2026.
+* Notification of Acceptance: 15 June 2026.
 * Workshop date: 3 July 2026 (9:00-12:00).
 
 

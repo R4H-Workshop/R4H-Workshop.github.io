@@ -108,7 +108,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Prof. Serge Thill</h1>
                 <div class="postcard__subtitle small">
-				Some considerations for the design of interactive systems such as robots: When roboticists design robots to support humans in some task, they are not (just) designing robots; rather, they design one component of a human-machine team. If this more holistic perspective is lost, for example, because the focus is on technical challenges pertinent to the robot, the endeavour as a whole runs the risk of going astray. In this talk, we will therefore discuss some of the aspects to consider that co-determine human behaviour in human machine teams – how the machine can influence humans, how humans influence machines how they perceive each other. We will touch on the difference between abilities that the robot actually possesses and those that humans may be led to believe it does, the role of explainable AI in this, and we’ll give consideration to how the use of emerging technologies like large language models in social robotics might affect all of this.
+				Serge Thill is a cognitive scientist with a background in computational modelling and computational neuroscience. I lead the Foundations of Intelligent Technology (FoundIT) research group at the Donders Centre for Cognition and co-lead the "Technology for AI in Education" scientific team of the National Education Lab AI (see www.nolai.nl). He is interested in human cognition in the context of interaction with different types of intelligent technology (including robots and smart vehicles). To me, such technologies currently provide some of the most exciting opportunities to further our understanding of cognition, both by studying how humans interact with them and by validating models of human cognition through implementation in intelligent artefacts that can interact with humans. His work thus spans a range of disciplines, from theoretical cognitive science (in particular theories of embodiment and how these relate to machine intelligence) over language and concept grounding to (neuro)-computational models of cognitive mechanisms and practical applications in, for example, autonomous vehicles, robots for therapy for children with autism spectrum disorder, or technology for education. 
 				</div>
             </div>
         </article>
@@ -119,12 +119,12 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/keynote_LF.jpg" alt="Dr. Laura Fiorini" />
+                <img class="postcard__img" src="assets/images/keynote_LF.jpg" alt="Prof. Laura Fiorini" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Dr. Laura Fiorini</h1>
+                <h1 class="postcard__title blue">- Prof. Laura Fiorini</h1>
                 <div class="postcard__subtitle small">
-				.
+				Laura Fiorini is a tenur track assistant professor at the University of Florence, Department of Industrial Engineering, Florence, Italy. She received the M.Sc. Degree in Biomedical Engineering at University of Pisa in 2012 (full marks, cum laude). She obtained a Ph.D. in Biorobotics (full marks, cum laude) at the BioRobotics Institute of Scuola Superiore Sant’Anna, in 2016. In 2015 she visited the Bristol Robotics Laboratory at University of West England (Bristol, UK). From 2016 to 2020, she was post-doc researcher at the BioRobotics Institute and from 2020 to 2022 she was a post-doc at the University of Florence. She collaborated at different EU and national projects such as: Fit4Medical Robotics, Pharaon, Robot-Era, ACCRA, CloudIA and SI-ROBOTICS. Currently she is the coordinator of the Pharaon Italian Pilot (Pharaon Project) and scientific responsible for DESTINI project. Her research interest is mainly focused on social robotics for assisting and supporting frail people with a special focus on the design and the evaluation of the prototype in real environments. She is Associate Editor for several Scientific Journal; from 2025 she is Editor of IEEE IROS; member of the scientific committees of international conference in the field of social robotics. She is also co-founder of a spin-off company namely CoAImed that is active in the field of intelligent wearables for healthcare.
 				</div>
             </div>
         </article>

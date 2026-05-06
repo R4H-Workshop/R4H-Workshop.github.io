@@ -99,6 +99,38 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
     </div>
 </section>
 
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/panel_ST.png" alt="Prof. Serge Thill" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Prof. Serge Thill</h1>
+                <div class="postcard__subtitle small">
+				Some considerations for the design of interactive systems such as robots: When roboticists design robots to support humans in some task, they are not (just) designing robots; rather, they design one component of a human-machine team. If this more holistic perspective is lost, for example, because the focus is on technical challenges pertinent to the robot, the endeavour as a whole runs the risk of going astray. In this talk, we will therefore discuss some of the aspects to consider that co-determine human behaviour in human machine teams – how the machine can influence humans, how humans influence machines how they perceive each other. We will touch on the difference between abilities that the robot actually possesses and those that humans may be led to believe it does, the role of explainable AI in this, and we’ll give consideration to how the use of emerging technologies like large language models in social robotics might affect all of this.
+				</div>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/images/panel_LF.jpg" alt="Dr. Laura Fiorini" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">- Dr. Laura Fiorini</h1>
+                <div class="postcard__subtitle small">
+				.
+				</div>
+            </div>
+        </article>
+    </div>
+</section>
+
 <!--
 <section class="light">
     <div class="container py-2">
@@ -113,25 +145,6 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">With a product design background and a PhD in Design Creativity, her research and educational focus is on the support of designers in creative problem solving. Currently, she is exploring the role of inspiration sources and creativity in service and product design and at the collaborative level. She is also interested in how inspirational information triggers co-evolution of the problem and solution space, creativity and innovation, inspiration and information, random stimuli, curiosity, surprise, design thinking, design methods, design methodology and visual thinking. She is the coordinator of the course SPD Media, which aims to support students from the Strategic Product Design master in the development of their expressive skills. In this project-based course, students work individually to explore and improve a set of media skills, which could include different types of sketching, prototyping, digital design, animation, video, among others. Therefore, this course aims to bring expressiveness to SPD-related knowledge, in order to improve how their work is presented and communicated to others. </div>
-            </div>
-        </article>
-    </div>
-</section>
--->
-<!--
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/panel_EJ.jpg" alt="Prof. Elizabeth Jochum" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Elizabeth Jochum</h1>
-                <div class="postcard__subtitle small">
-				- Director of Robotics and Automation at RA Capital and Associate Professor at Aalborg University, Denmark.
-				</div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Elizabeth Jochum is Director of Robotics and Automation at RA Capital. Prior to joining RA, she was an associate professor at Aalborg University and headed the RELATE Research Laboratory for Art and Technology. Her research uses the visual and performing arts as catalysts for re-thinking how we design and implement robots and other assistive technologies across society. From industrial robots to exoskeletons, her work focuses on developing creative, value-sensitive and human-centered approaches to developing and implementing robots to ensure the technologies we build address the real needs of people. Jochum’s work involves transdisciplinary collaboration in human-robot interaction, health, and engineering. Her research focuses on critical and creative approaches to health and wellbeing, with an emphasis on dance and disability, and advocate principles of STEAM (STEM + Art) to arrive at more integrated research approaches. She co-founded the ROCA Robot Culture and Aesthetics group at University of Copenhagen, lectured on the Erasmus Mundus Media Art Cultures faculty, and is a member of AAU Robotics.</div>
             </div>
         </article>
     </div>

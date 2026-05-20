@@ -2,7 +2,7 @@
 title: Robots for Humans 
 header_type: splash
 header_img: /assets/images/robotHi.jpg
-subtitle: (3rd Edition)<br> <b> Designing Social Robots That Spark Children’s Creativity! </b> <br> <b> ICSR+Art 2026 July 1-4, 2026 / London, UK </b>
+subtitle: (3rd Edition)<br> <b> Designing Social Robots That Spark Children’s Creativity! </b> <br> <b> ICSR+Art 2026 July 3, 2026 / London, UK </b>
 og_title: RfH - Home
 og_description: Robots for Humans
 og_type: website

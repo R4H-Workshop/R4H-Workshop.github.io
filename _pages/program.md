@@ -25,12 +25,12 @@ The program will follow this structure:
 
 | **Activity**                                            | **Duration**           |
 |---------------------------------------------------------|------------------------|
-| Welcome and Opening                                     | 15 min                 |
+| Welcome and Opening                                     | 10 min                 |
 | Keynote                                                 | 30 min                 |
 | Presentation of the contributions                       | 60 min                 |
 | Coffee break                                            | 20 min                 |
-| Panel Discussion                                        | 90 min                 |
-| Closing remarks                                         | 15 min                 |
+| Panel Discussion                                        | 60 min                 |
+| Closing remarks                                         | 10 min                 |
 
 
 For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop@gmail.com).
@@ -51,33 +51,17 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 				Patrícia Alves-Oliveira is an Assistant Professor of Robotics at the University of Michigan, where she leads Robot Studio, a research lab focused on the design, development, and evaluation of social robotics. Patricia’s background unifies the fields of Robotics, Design, and AI. She was a Senior UX Designer for Amazon Lab126 in California, a Postdoc at the University of Washington in Seattle, and has received her Ph.D. from the University Institute of Lisbon, in Portugal where she is from. Her research received Best Paper Awards at the International Conference on Human-Robot Interaction, and her work is funded by NSF and DARPA.
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"> Abstract TBA</div>
+                <div class="postcard__preview-txt"> 
+                Title: Robots for Creativity
+
+                Abstract: Creativity is one of humanity’s defining capacities. It drives not only artistic expression, but also innovation, problem-solving, and the design of meaningful lives. Robots, by contrast, are often associated with precision, efficiency, and consistency. While these qualities make robots powerful tools, they are insufficient for enabling robots to thrive in human-centered environments. To do so, robots must engage with a fundamental aspect of human nature: our drive to create. In this keynote, I will present my research on robots for creativity. Drawing on the development of YOLO, a robot designed to foster creativity in children, I will discuss how robots can support creative thinking and expression. I will also examine the growing role of generative AI in creative work and reflect on the evolving place of robots within artistic practice. I argue that creativity should not be treated as a niche application of robotics or a secondary design consideration. Rather, embracing human creativity is essential for developing robots that are effective, adaptive, and socially accepted. As robots become increasingly integrated into everyday life, designing for creativity may prove to be one of the most important challenges (and opportunities) in the field.
+                </div>
             </div>
         </article>
     </div>
 </section>
 
 ## Panelists
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/images/ICSR26/pan_SBA.jpg" alt="Prof. Somaya Ben Allouch" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- Prof. Somaya Ben Allouch</h1>
-                <div class="postcard__subtitle small">
-				Dr. Somaya Ben Allouch has been Professor of Digital Life at the Amsterdam University of Applied Sciences (HvA) since October 2018. The research group focuses on human-centered research into the design, use, and implementation of digital technologies in health and wellbeing. She is also involved in the SIA-SPRONG project Mensen in Beweging (“People in Motion”), which focuses on healthy lifestyles and sustainable behavior change through creative technology. Since January 2021, Somaya has held the position of Special Professor of Human-System Interaction for Health and Wellbeing at the University of Amsterdam (UvA), a chair established by the Beta Plus Foundation. Her expertise lies in human-centered interaction, acceptance, and evaluation of technologies such as social robotics and wearables. She previously earned her PhD at the University of Twente and worked as a visiting researcher at Stanford University. In addition, Somaya is active in international research projects and serves on the editorial boards of scientific journals.
-				</div>
-                <!--
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"></div>
-                -->
-            </div>
-        </article>
-    </div>
-</section>
 
 <section class="light">
     <div class="container py-2">

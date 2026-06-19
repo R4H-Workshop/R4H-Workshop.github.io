@@ -37,7 +37,7 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 
 ---
 
-## Keynote Speakers
+## Keynote Speaker
 
 <section class="light">
     <div class="container py-2">

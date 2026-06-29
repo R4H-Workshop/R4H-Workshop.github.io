@@ -134,3 +134,18 @@ For any inquiry, please contact us at [r4hworkshop@gmail.com](mailto:r4hworkshop
 -->
 
 ---
+
+## Presentations
+
+Presenters will have 7 minutes to present their contribution and 3 minutes for Q&A. The presentation will follow this order: 
+
+| **Abstract title**                                            | **Authors**           |
+|---------------------------------------------------------|------------------------|
+| poli:bit: a No-Code Toolkit for Co-Creating Phygital Artefacts for Preschools | Muhammad Bilal Khan |
+| A Design Proposal for an LLM-Based Narrative Robotic Serious Game Supporting Creativity | Eleonora Zedda, Giulio Canapa, Benedetta Catricalà, Marco Manca, Fabio Paternò and Carmen Santoro |
+|  Participatory Design in CRI for the Well-being of ASD Children | Mathilda Gaulard, Juliette Flamant, Alexandre Pitti and Joffrey Becker |
+| Dance with Me: a Co-creative GenAI Approach to Support Children Creativity | David Ochulor, Aamir Ahmad Ansari, Chi Ying Lam and Tan Viet Tuyen Nguyen |
+| Exploring AI-Driven Climate Action Storytelling with Social Robots to Support Children Engagement | Tan Viet Tuyen Nguyen, Chi Ying Lam and Bindi Shah |
+| Social Robots in Pediatric Healthcare: Clinical Applications and Open-Source Perspectives | Alina Stroom, Krisliin Rohtla, Anneli Kolk, Marianne Saard, Renno Raudmäe, Kaur Kullamäe, Leonid Zinatullin, Georgs Narbuts and Karl Kruusamäe |
+
+---
